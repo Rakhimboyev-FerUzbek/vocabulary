@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>So'z oilalari — lug'at varag'i</title>
+<title>Lug'at varag'i</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,500&family=Work+Sans:wght@400;500;600&display=swap" rel="stylesheet">
@@ -13,27 +13,43 @@
 <div class="wrap">
 
   <header class="page-head">
-    <p class="kicker">Lug'at varag'i · so'z oilalari</p>
-    <h1>Bir ildiz, <em>ko'p shakl</em></h1>
-    <p class="lede">Har bir so'z oilasi bitta ildizdan tarqalgan: ot, fe'l, sifat va ravish shakllari birga jamlangan, shunda ular xotirada ham birga saqlanadi.</p>
+    <p class="kicker">Lug'at varag'i</p>
+    <h1>Bir joyda — <em>hammasi</em></h1>
+    <p class="lede">So'z oilalari, kundalik iboralar va grammatik naqshlar — pastdagi tugmalar orqali orasida almashing.</p>
   </header>
+
+  <div class="tabs">
+    <button class="tab-btn active" data-tab="words">So'zlar</button>
+    <button class="tab-btn" data-tab="phrases">Iboralar</button>
+    <button class="tab-btn" data-tab="patterns">Frazal fe'llar</button>
+  </div>
 
   <div class="toolbar">
     <div class="search-box">
       <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
-      <input id="search" type="text" placeholder="So'z yoki tarjimani qidiring..." autocomplete="off">
+      <input id="search" type="text" placeholder="Qidiring..." autocomplete="off">
     </div>
     <div class="count" id="count"></div>
   </div>
 
-  <div class="legend">
+  <div class="legend" id="wordsLegend">
     <span><span class="dot" style="background:var(--tag-n)"></span>ot (n)</span>
     <span><span class="dot" style="background:var(--tag-v)"></span>fe'l (v)</span>
     <span><span class="dot" style="background:var(--tag-adj)"></span>sifat (adj)</span>
     <span><span class="dot" style="background:var(--tag-adv)"></span>ravish (adv)</span>
   </div>
 
-  <main id="families"></main>
+  <div class="view active" id="view-words">
+    <div id="families"></div>
+  </div>
+
+  <div class="view" id="view-phrases">
+    <div class="phrases" id="phrasesList"></div>
+  </div>
+
+  <div class="view" id="view-patterns">
+    <div id="patternsList"></div>
+  </div>
 
   <p class="no-match" id="noMatch">Hech narsa topilmadi.</p>
 
@@ -41,6 +57,8 @@
 </div>
 
 <script src="words.js"></script>
+<script src="iboralar.js"></script>
+<script src="frazal-fellar.js"></script>
 <script src="script.js"></script>
 </body>
 </html>
