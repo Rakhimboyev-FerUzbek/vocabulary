@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>So'z oilalari — lug'at varag'i</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,500&family=Work+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="wrap">
+
+  <header class="page-head">
+    <p class="kicker">Lug'at varag'i · so'z oilalari</p>
+    <h1>Bir ildiz, <em>ko'p shakl</em></h1>
+    <p class="lede">Har bir so'z oilasi bitta ildizdan tarqalgan: ot, fe'l, sifat va ravish shakllari birga jamlangan, shunda ular xotirada ham birga saqlanadi.</p>
+  </header>
+
+  <div class="toolbar">
+    <div class="search-box">
+      <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+      <input id="search" type="text" placeholder="So'z yoki tarjimani qidiring..." autocomplete="off">
+    </div>
+    <div class="count" id="count"></div>
+  </div>
+
+  <div class="legend">
+    <span><span class="dot" style="background:var(--tag-n)"></span>ot (n)</span>
+    <span><span class="dot" style="background:var(--tag-v)"></span>fe'l (v)</span>
+    <span><span class="dot" style="background:var(--tag-adj)"></span>sifat (adj)</span>
+    <span><span class="dot" style="background:var(--tag-adv)"></span>ravish (adv)</span>
+  </div>
+
+  <main id="families"></main>
+
+  <p class="no-match" id="noMatch">Hech narsa topilmadi.</p>
+
+  <footer id="footerCount"></footer>
+</div>
+
+<script src="words.js"></script>
+<script src="script.js"></script>
+</body>
+</html>
