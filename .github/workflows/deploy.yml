@@ -26,6 +26,8 @@ jobs:
 
       - name: Pages sozlamalarini tayyorlash
         uses: actions/configure-pages@v5
+        with:
+          enablement: true   # Pages hali yoqilmagan bo'lsa, shu parametr avtomatik yoqadi
 
       - name: src/ papkasini yuklash
         uses: actions/upload-pages-artifact@v3
