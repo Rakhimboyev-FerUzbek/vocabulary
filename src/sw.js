@@ -4,16 +4,17 @@
 //   2) Fonda serverdan yangi versiyani so'raydi va keshni yangilaydi
 //   3) Keyingi safar ochganda eng so'nggi versiya ko'rinadi
 
-const CACHE_NAME = 'lugat-cache-v2'; // katta o'zgarish qilsangiz, bu raqamni oshiring (v2, v3...)
+const CACHE_NAME = 'lugat-cache-v3'; // katta o'zgarish qilsangiz, bu raqamni oshiring (v2, v3...)
 
 const APP_SHELL = [
   './',
   './index.html',
   './style.css',
-  './words.js',
-  './iboralar.js',
-  './frazal-fellar.js',
   './script.js',
+  './data/words.js',
+  './data/iboralar.js',
+  './data/frazal-fellar.js',
+  './data/gap-qoliplari.js',
   './manifest.json'
 ];
 

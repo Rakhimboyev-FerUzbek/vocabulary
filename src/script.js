@@ -4,6 +4,7 @@ DATA.sort((a, b) => a.root.localeCompare(b.root, 'en', { sensitivity: 'base' }))
 const totalWords = DATA.reduce((n, f) => n + f.entries.length, 0);
 const totalPhrases = PHRASES.length;
 const totalPatternEx = PATTERNS.reduce((n, p) => n + p.examples.length, 0);
+const totalSP = SENTENCE_PATTERNS.reduce((n, g) => n + 1 + g.items.length, 0);
 
 // ------------------------------------------------------------
 // Render
@@ -46,13 +47,26 @@ function renderPatterns(){
     </div>
   `).join('');
 }
-renderWords(); renderPhrases(); renderPatterns();
+function renderSentencePatterns(){
+  document.getElementById('sentencePatternsList').innerHTML = SENTENCE_PATTERNS.map(g => `
+    <div class="spattern" data-text="${(g.header.en + ' ' + g.header.uz + ' ' + g.items.map(e => e.en + ' ' + e.uz).join(' ')).toLowerCase()}">
+      <div class="pattern-head">
+        <span class="pattern-name">${g.header.en}</span>
+        <span class="pattern-gloss">${g.header.uz}</span>
+      </div>
+      <ul class="pattern-examples">
+        ${g.items.map(e => `<li><span class="ex-en">${e.en}</span><span class="ex-uz">${e.uz}</span></li>`).join('')}
+      </ul>
+    </div>
+  `).join('');
+}
+renderWords(); renderPhrases(); renderPatterns(); renderSentencePatterns();
 
 // ------------------------------------------------------------
 // Tabs
 // ------------------------------------------------------------
 const tabButtons = document.querySelectorAll('.tab-btn');
-const views = { words: document.getElementById('view-words'), phrases: document.getElementById('view-phrases'), patterns: document.getElementById('view-patterns') };
+const views = { words: document.getElementById('view-words'), phrases: document.getElementById('view-phrases'), patterns: document.getElementById('view-patterns'), sentencePatterns: document.getElementById('view-sentencePatterns') };
 const wordsLegend = document.getElementById('wordsLegend');
 const searchInput = document.getElementById('search');
 const countEl = document.getElementById('count');
@@ -63,11 +77,13 @@ let activeTab = 'words';
 function baseCountText(){
   if (activeTab === 'words') return totalWords + " ta shakl";
   if (activeTab === 'phrases') return totalPhrases + " ta ibora";
-  return totalPatternEx + " ta misol";
+  if (activeTab === 'patterns') return totalPatternEx + " ta misol";
+  return totalSP + " ta shakl";
 }
 function footerText(){
   return DATA.length + " ta so'z oilasi · " + totalWords + " ta shakl  |  " +
-         totalPhrases + " ta ibora  |  " + PATTERNS.length + " ta naqsh";
+         totalPhrases + " ta ibora  |  " + PATTERNS.length + " ta naqsh  |  " +
+         SENTENCE_PATTERNS.length + " ta gap qolipi";
 }
 footerEl.textContent = footerText();
 
@@ -77,7 +93,7 @@ function switchTab(tab){
   Object.entries(views).forEach(([k, el]) => el.classList.toggle('active', k === tab));
   wordsLegend.style.display = tab === 'words' ? '' : 'none';
   searchInput.value = '';
-  searchInput.placeholder = tab === 'words' ? "So'z yoki tarjimani qidiring..." : tab === 'phrases' ? "Ibora yoki tarjimani qidiring..." : "Naqsh yoki misolni qidiring...";
+  searchInput.placeholder = tab === 'words' ? "So'z yoki tarjimani qidiring..." : tab === 'phrases' ? "Ibora yoki tarjimani qidiring..." : tab === 'patterns' ? "Naqsh yoki misolni qidiring..." : "Gap qolipini qidiring...";
   applySearch('');
 }
 tabButtons.forEach(b => b.addEventListener('click', () => switchTab(b.dataset.tab)));
@@ -86,7 +102,7 @@ function applySearch(q){
   q = q.trim().toLowerCase();
   let visibleCount = 0;
   let any = false;
-  const selector = activeTab === 'phrases' ? '.phrase' : activeTab === 'patterns' ? '.pattern' : null;
+  const selector = activeTab === 'phrases' ? '.phrase' : activeTab === 'patterns' ? '.pattern' : activeTab === 'sentencePatterns' ? '.spattern' : null;
 
   if (activeTab === 'words'){
     document.querySelectorAll('.family').forEach(fam => {
