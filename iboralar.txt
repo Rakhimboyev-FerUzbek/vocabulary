@@ -1,9 +1,3 @@
-// ============================================================
-// IBORALAR — YANGI IBORA QO'SHISH:
-//     Ingliz jumla => tarjima
-// Tartib muhim emas, xohlagan joyga qo'shavering.
-// ============================================================
-const RAW_PHRASES = `
 Do you get me? => Meni tushundingmi?
 Do you get my message? => Meni xabarimni oldingmi? / Xabarim yetib bordimi?
 Where did you get your bag? => Sumkangni qayerdan olding?
@@ -366,18 +360,3 @@ I think it would be better to wait. => Menimcha, kutganimiz yaxshiroq bo'lardi.
 I think we should discuss this first. => Menimcha, avval buni muhokama qilishimiz kerak.
 I'm having an issue with my task. => Vazifam bilan bog'liq muammoga duch kelyapman. 
 I'm having a problem with my task. => Bu vazifa bilan bog'liq muammoga duch kelyapman.
-
-`;
-
-// ------------------------------------------------------------
-// Parser — bunga tegishning hojati yo'q
-// ------------------------------------------------------------
-function buildPhrases(raw){
-  return raw.split('\n').map(l => l.trim()).filter(Boolean).map(line => {
-    const idx = line.indexOf('=>');
-    if (idx === -1) return null;
-    return { en: line.slice(0, idx).trim(), uz: line.slice(idx + 2).trim() };
-  }).filter(Boolean);
-}
-
-const PHRASES = buildPhrases(RAW_PHRASES);

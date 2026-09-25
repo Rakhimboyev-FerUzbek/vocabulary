@@ -1871,8 +1871,6 @@ chuckle (v) => ichidan past ovozda kulmoq
 chuckle (n) => past ovozli kulgi
 chuckling (adj) => past ovozda kulayotgan
 
--ful => ...ga sig‘adigan / ... bilan to‘ladigan miqdor
-
 screenful (n) => bir ekranlik miqdor, ekranga sig‘adigan miqdor
 
 suffice (v) => yetarli bo'lmoq, kifoya qilmoq
