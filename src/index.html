@@ -8,6 +8,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,500&family=Work+Sans:wght@400;500;600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
+<link rel="manifest" href="manifest.json">
 </head>
 <body>
 <div class="wrap">
@@ -60,5 +61,18 @@
 <script src="iboralar.js"></script>
 <script src="frazal-fellar.js"></script>
 <script src="script.js"></script>
+
+<script>
+  // Offline ishlashi uchun service worker'ni ro'yxatdan o'tkazish.
+  // Internet bo'lmasa ham sayt keshdan ishlayveradi; internet bo'lganda
+  // fonda avtomatik yangi versiyani tekshirib turadi.
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+      navigator.serviceWorker.register('sw.js').catch((err) => {
+        console.warn('Service worker ro\'yxatdan o\'tmadi:', err);
+      });
+    });
+  }
+</script>
 </body>
 </html>

@@ -222,11 +222,9 @@ footer{
       "meaning meaning";
     column-gap:10px;
     row-gap:2px;
-    padding:9px 6px;
-    border-bottom:1px solid var(--line);
+    padding:11px 6px;
     border-radius:0;
   }
-  .entry:last-child{border-bottom:none;}
   .headword{ grid-area:head; font-size:16px; }
   .pos{ grid-area:pos; justify-self:end; align-self:center; }
   .meaning{ grid-area:meaning; font-size:14px; }

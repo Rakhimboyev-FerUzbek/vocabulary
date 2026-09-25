@@ -1,0 +1,10 @@
+{
+  "name": "Lug'at varag'i",
+  "short_name": "Lug'at",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f2e7",
+  "theme_color": "#28402f",
+  "icons": []
+}
