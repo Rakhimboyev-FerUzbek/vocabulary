@@ -12,9 +12,9 @@ const APP_SHELL = [
   './style.css',
   './script.js',
   './data/words.js',
-  './data/iboralar.js',
+  './data/idioms.js',
   './data/frazal-fellar.js',
-  './data/gap-qoliplari.js',
+  './data/expressions.js',
   './manifest.json'
 ];
 

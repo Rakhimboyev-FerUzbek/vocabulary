@@ -1,214 +1,8 @@
-Hometown => tug‘ilib o‘sgan shahar/joy, ona shahar
-extent => daraja, ko‘lam, miqyos degani.
-Feasible => amalga oshirish mumkin bo‘lgan, uddalasa bo‘ladigan, real degani.
-Internship => stajirovka / amaliyot
-Plot =>     Syujet => film, serial, kitobdagi voqealar rivoji.
-Plot (verb) => rejalashtirmoq, yashirincha reja tuzmoq.
-Intonation => ohang, gapirishdagi ovozning ko‘tarilishi va pasayishi
-Tension => taranglik, zo‘riqish, keskinlik
-Compliance => rioya qilish, talabga bo‘ysunish, muvofiqlik
-Consecutive => ketma-ket, uzluksiz ravishda birin-ketin
-Humble (verb) => kamtar qilmoq, kibrini tushirmoq, o‘zining ojizligini/chegarasini anglatmoq.
-humble => kamtar
-humbly => kamtarlik bilan
-humility => kamtarlik
-stranger = begona/notanish odam
-Witness => guvoh; guvoh bo‘lmoq, ko‘rmoq
-negotiation => muzokara, kelishuvga erishish uchun olib boriladigan suhbat.
-Terrific => ajoyib, zo‘r, juda yaxshi
-Eternal => abadiy, mangulik, tugamaydigan
-fossil => qazilma qoldiq, qadimgi organizmning toshga aylangan qoldig‘i yoki izi.
-tournament => turnir, musobaqa.
-Drug => dori, giyohvand modda yoki dori vositasi
-counteract = qarshi ta’sir qilmoq, ta’sirini kamaytirmoq, bartaraf etishga harakat qilmoq
-Hooded => kapyushonli, yoki kapyushon kiygan.
-Valuable => qimmatli, qadrli, foydali, katta qiymatga ega.
-Pivotal =>hal qiluvchi, juda muhim, burilish yasaydigan.
-intense => kuchli, juda kuchli, keskin, shiddatli, zo‘r berilgan.
-Dreary => zerikarli, xira, ma’yus, g‘amgin, yoqimsiz taassurot beradigan.
-demolish => buzib tashlamoq, vayron qilmoq
-Punctuality => vaqtlilik, kechikmaslik
-Punctual => vaqtida keladigan, kechikmaydigan, o‘z vaqtida bo‘ladigan.
-Plummet => keskin tushib ketmoq, juda tez pasaymoq.
-wave => qo‘l silkitmoq
-Loathe => juda yomon ko‘rmoq, jirkanmoq, nafratlanmoq.
-compound (adj.) => qo‘shma, tarkibiy
-compound (noun) => birikma, majmua; kimyoviy birikma
-compound (verb) => murakkablashtirmoq; qo‘shmoq
-Mortify => juda qattiq uyalishga majbur qilmoq, sharmanda qilmoq; qattiq xijolatga solmoq.
-Participle => sifatdosh. (Ya’ni fe’ldan yasalib, sifat vazifasida yoki fe’lning grammatik shakli sifatida ishlatiladigan shakl.)
-Devastate => vayron qilmoq; qattiq iztirobga solmoq, juda qattiq ruhiy ta’sir qilmoq.
-Deteriorate => yomonlashmoq, yomon holatga kelmoq, sifati pasaymoq.
-Captivating => juda qiziqarli, o‘ziga tortadigan, maftunkor, e’tiborni butunlay tortib oladigan.
-Bland => ta’msiz, bemaza; zerikarli, jonsiz.
-Rampage => g‘azab bilan nazoratni yo‘qotib, vayronagarchilik yoki zo‘ravonlik qilib yurish
-Ravage => qattiq vayron qilmoq, xarob qilmoq, katta zarar yetkazmoq.
-Heed => e’tibor bermoq, quloq solmoq, ogohlantirishni jiddiy qabul qilmoq.
-subdue => bo‘ysundirmoq, taslim qilmoq, jilovlamoq
-vault => seyf; pul/qimmatbaho narsalar saqlanadigan joy
-burial => dafn, ko‘mish (ot)
-Bury => ko‘mmoq, dafn qilmoq
-glance => qisqa qarash, nigoh
-extirpate => biror narsani ildizi bilan butunlay yo‘q qilmoq, sug‘urib tashlamoq.
-Dull => og‘riqni susaytirmoq, o’tmas,  zerikarli, xira, fahmi sust
-Appreciation => kontekstga qarab qadrlash, minnatdorchilik, tushunish/qadriga yetish degani.
-Extirpate => butunlay yo‘q qilmoq, ildizi bilan tugatmoq, tag-tomiri bilan sug‘urib tashlamoq.
-Ex => sobiq, oldingi, Sobiq sevgili / sobiq turmush o‘rtoq
-Impertinenet => hurmatsiz, betga chopar, odobsiz, o‘ziga ortiqcha erkinlik beradigan.
-unbearably => chidab bo‘lmas darajada
-bearable => chidasa bo‘ladigan
-bear => chidamoq, bardosh bermoq
-Unbearable => chidab bo‘lmas, toqat qilib bo‘lmaydigan, juda og‘ir
-deserve => loyiq bo‘lmoq, haqli bo‘lmoq
-gladly => mamnuniyat bilan
-excuse (noun) => bahona
-excuse (verb) => kechirmoq / uzrli deb hisoblamoq
-wonder = hayrat / hayratlanish
-wonder (verb) => qiziqmoq, o‘ylamoq, hayron bo‘lmoq
-wonder (noun) => mo‘jiza, hayratlanarli narsa
-Companionship => hamrohlik, doʻstona yaqinlik, hamroxlik
-Appease => tinchlantirmoq, ko‘nglini olmoq, norozi yoki jahli chiqqan odamni rozi qilmoq.
-Breast => ko‘krak, ayol ko‘kragi / ko‘krak bezi.
-sunbathe => quyoshda toblanmoq
-sunbathing => quyoshda toblanish
-Slender => ozg‘in, ingichka, nozik qomatli.
-Sluggish => sust, lanj, lohas, sekin harakat qiladigan.
-hormone => gormon
-pubescent => balog‘atga yetayotgan
-Attic => chordoq, uy tomining ostidagi xona/joy.
-puberty => balog‘at davri, jinsiy yetilish davri.
-happiness => baxt, baxtiyorlik, xursandchilik
-eternal => abadiy, mangu, tugamaydigan.
-circus = shov-shuvli, tartibsiz, kulgili/absurd holat
-necessitate => zarurat tug‘dirmoq, talab qilmoq
-Harmony => uyg‘unlik, hamjihatlik, totuvlik, muvofiqlik.
-The mopes => xafa/tushkun holatda yurmoq, kayfiyatsiz yurmoq.a
-mope => xafa/tushkun holatda yurmoq, kayfiyatsiz yurmoq.
-Destiny => taqdir, qismat, peshona.
-At least => Hech bo‘lmaganda
-suite => mehmonxonadagi bir nechta xonadan iborat maxsus xona / lyuks
-honeymoon => asal oyi
-requisition => rasmiy, hujjatli talabnoma
-requisition => rasmiy ravishda talab qilmoq / talabnoma orqali so‘ramoq.
-Beneficent => yaxshilik qiluvchi, foyda keltiruvchi, mehribon, boshqalarga yaxshilik qiladigan.
-fatherhood => otalik
-motherhood => onalik
-parenthood => ota-onalik
-Directorship = direktorlik lavozimi
-Embark => boshlamoq, kirishmoq, ayniqsa yangi yoki muhim ish/safarga.
-twofold => ikki baravar, ikki hissa
-Arrogance = kibr, manmanlik, o‘zini boshqalardan ustun deb bilish.
-twig => novda, yosh shoxcha
-Evenly = teng ravishda, bir tekisda, baravar taqsimlab.
-Amalgamation = birlashish, qo‘shilish, bir necha narsaning yagona narsaga aylanishi.
-Ease => yengillashtirmoq (verb)
-nonsense => bema'nilik, safsata
-pack => bitta pachka / qadoq
-Fail => muvaffaqiyatsizlikka uchramoq, uddalay olmaslik, imtihondan o‘tolmaslik.
-Drain => kuchini quritmoq, holdan toydirmoq.
-Burnout => kuchli va uzoq davom etgan stress yoki ish sababli ruhiy-jismoniy holdan toyish.
-Melt => erimoq / eritmoq.
-Chaos => tartibsizlik, betartiblik, boshboshdoqlik.
-Fledged => qanotlari chiqqan, uchishga tayyor.
-Fledge => Qush bolasining qanot chiqarib, uchishga tayyor bo‘lishi.
-Fully-fledged => to‘laqonli, to‘liq huquq va maqomga ega, to‘liq shakllangan.
-Pack => joylamoq, yig‘moq, qadoqlamoq
-Ease => xotirjamlik, yengillik (noun)
-Demoralized => ruhiy tushkunlikka tushgan, umidi so‘ngan, ko‘ngli singan.
-easily => osonlikcha
-Leonine => sherga o‘xshash, sherga xos 🦁
-Contend => bellashmoq, raqobatlashmoq, kurashmoq.
-Preppy => klassik, ozoda va badavlatlar uslubiga xos.
-whimsical => g‘ayrioddiy, xayoliy, o‘ynoqi
-rakish => o‘ziga ishongan, jozibali, biroz ayolparast/yengiltak
-Rakishness => ayollarga xushomad qiladigan, jozibali va biroz yengiltak erkaklarga xos xulq-atvor.
-Nondescript => o‘ziga xosligi yo‘q, oddiy, ko‘zga tashlanmaydigan, ajralib turmaydigan.
-Impertinent => odobsiz, betga chopar, o‘rinsiz gapiradigan, haddidan oshgan.
-Joyful => juda xursand, quvonchga to‘la, shod.
-Kid => bola, farzand.
-Liar => yolg‘onchi, ya’ni yolg‘on gapiradigan odam.
-Teardrops => ko‘z yosh tomchilari, ko‘zdan oqayotgan yosh tomchilari.
-collar-and-tie => yoqa va galstuk / galstuk taqiladigan rasmiy kiyinish uslubi.
-smash = qattiq urib sindirmoq / chil-chil qilmoq
-smithereens = juda mayda bo‘laklar, chil-chil
-Apprenticeship => shogirdlik, kasb-hunarni amaliyot orqali o‘rganish.
-dither = biror qarorga kelolmay ikkilanmoq, nima qilishni bilmay turmoq.
-aspect => jihat, tomon
-Hereinabove => yuqorida aytib o‘tilgan / yuqorida keltirilgan.
-Gorgeous => juda chiroyli, nihoyatda go‘zal, ko‘zni qamashtiradigan.
-Contrary = qarama-qarshi, zid, teskari.
-chase = quvmoq / ortidan yugurmoq
-Foolishly = ahmoqona tarzda, nodonlarcha, o‘ylamay
-Foretell = oldindan aytmoq, bashorat qilmoq, kelajakda nima bo‘lishini oldindan aytish.
-Proposal => taklif, taklifnoma, reja/taklif hujjati.
-envelopes => konvertlar
-
-First things first => Avvalo, birinchi navbatda
-Follow along with me => Men bilan birga bajaring. / Men qilayotgan ishni kuzatib, birga qiling.
-You can’t treat me like this. => Menga bunday munosabatda bo‘la olmaysan.
-There is no other place like the place where you grew up. => Inson ulg‘aygan joyining o‘rnini hech qaysi joy bosa olmaydi.
-I really missed this place so much. => Men bu joyni juda-juda sog‘indim.
-I am here where I belong. => Men o‘zimga tegishli bo‘lgan joydaman.
-I would gladly do it. => Buni jon deb qilardim.
-I’ll gladly help you. => Sizga bajonidil yordam beraman.
-No excuses. => Bahona yo‘q. / Bahona qabul qilinmaydi.
-Damn you! => La’nati! / La’nati bo‘lsin seni! / Jin ursin seni!
-Pull yourself together right away. => Darhol o‘zingni qo‘lga ol. / Hozirning o‘zida o‘zingni bos.
-What’s the matter with you? => Senga nima bo‘ldi? / Nima bo‘lyapti o‘zi senga?
-Send him away right now. => Uni hoziroq bu yerdan jo‘nat. / Uni darhol haydab yubor.
-Don’t you pay attention a little? => Biroz e’tibor bermaysanmi? / Hech bo‘lmasa biroz e’tibor ber!
-I wonder if… => …mikan deb o‘ylayapman / qiziqyapman
-Don’t get lost. => Adashib qolma. / Yo‘qolib qolma.
-I feel woozy. 👉 Boshim aylanayotgandek bo‘lyapti. / O‘zimni behol / karaxt his qilyapman.
-Dude => Birodar / Do‘stim / Ey, og‘ayni /
-Cheers! => Sog‘lig‘imiz uchun!
-Cheers for your help! => Yordaming uchun rahmat!
-God willing => Xudo xohlasa, Alloh xohlasa, Xudo nasib qilsa.
-Think once again, child. => Yana bir bor o‘ylab ko‘r, bolam.
-Good luck to all of us! => Barchamizga omad! / Hammamizga omad tilayman!
-Settle it = Buni hal qil.
-Let’s settle it now. => Keling, buni hozir hal qilaylik.
-As the twig is bent so grows the tree => Inson yoshligida qanday tarbiya olsa, ulg‘ayganda ham shunday bo‘ladi.
-As the twig is bent, so the tree is inclined. => Yoshligida qanday tarbiya olgan bo‘lsa, ulg‘ayganda ham shunday bo‘ladi.
-Would you like something from me? => Mendan biror narsa xohlaysizmi? / Mendan biror narsa kerakmi?
-Good gracious! => Voy xudoyim! / Voy-bo‘y! / Yo tavba!
-poke fun at + someone = birovni jiddiy bo‘lmagan tarzda mazax qilish, ustidan hazil qilish.
-I poke fun at you => Men seni hazillashib mazax qilaman / ustingdan hazillashaman.
-I have broken up into small pieces. => Men mayda bo‘laklarga bo‘linib ketdim.
-It was out of stock. => U qolmagan edi. / U omborda qolmagan edi.
-Take a picture of us. => Bizni rasmga ol.
-Come on, gather yourself up! => Qani, o‘zingni qo‘lga ol! / Bo‘ldi, o‘zingni yig‘ib ol! / Hushingni jamla, o‘zingga kel!
-Leave the kid alone a little. => Bolani biroz tinch qo‘y. / Bolaga biroz tegma.
-Let me handle them first. => Avval ularni men hal qilay
-I am beside him. => Men uning yonidaman.
-Behave according to that. => Shunga yarasha o‘zingni tut. / Shunga muvofiq harakat qil.
-God bless you. => Xudo seni asrasin / Xudo seni qo‘llasin.
-She has been wasted. => U juda mast bo‘lib qolgan.
-Put that away -> Buni joyiga qo‘y. / Buni yig‘ishtirib qo‘y. / Buni olib qo‘y.
-Godspeed, son! => Oq yo‘l, o‘g‘lim! / Xudo seni asrasin, o‘g‘lim! / Omad yor bo‘lsin, o‘g‘lim!
-Praise be to God! => Xudoga hamdu sanolar bo‘lsin!
-For God's sake! => Jin ursin! / Xudo haqqi! / Voy, xudo!
-I apologize for any inconvenience. => Yetkazilgan noqulaylik uchun uzr so‘rayman / Noqulaylik tug’dirgan bo’lsam uzur
-In that case -> Unday bo‘lsa / Bunday holatda / Unda.
-It happens like that. => Shunaqa bo'ladi.
-I wish … -> Qaniydi... / ... bo‘lishini istardim.
-So you have been crying since I was born. ->Demak, men tug‘ilganimdan beri yig‘lab kelyapsan.
-I have found it funny -> Men buni kulgili deb topdim. / Menga bu kulgili tuyuldi.
-This hasn’t really happened before. => Bunaqasi oldin hech bo‘lmagan. / Bu holat ilgari ro‘y bermagan.
-Nothing matter => Hech narsa muhim emas. / Hech narsaning ahamiyati yo‘q.
-This is why + sentence => «Mana nima uchun ...» yoki «Shuning uchun ...»
-It doesn’t bother me. => Bu meni bezovta qilmaydi. / Bu menga xalaqit bermaydi.
-I beg you to leave. => Sizdan ketishingizni iltimos qilaman. Iltimos, keting. / Sizdan iltimos, keting.
-I beg you to forgive me. => Sizdan meni kechirishingizni yolvorib so‘rayman.
-Well, be quiet, please. => Xo‘sh, iltimos, jim bo‘ling
-Distinguished guests, welcome! => Hurmatli mehmonlar, xush kelibsiz!
-I have gone crazy. => Men aqldan ozib qoldim. / Men jinni bo‘lib qoldim.
-Wish me good luck. => Menga omad tilagin.
-What if the love is over? => Agar sevgi tugagan bo‘lsa-chi? / Tabiiyroq: Agar sevgimiz tugagan bo‘lsa-chi?
-What if + Present Perfect => Agar … bo‘lgan bo‘lsa-chi? / … qilmagan bo‘lsam-chi?
-Can’t you get yourself nominated here? 👉 Bu yerda o‘zingni nomzod qilib ko‘rsata olmaysanmi?
+At this hour” — “Bu paytda”, “Shu vaqtda” yoki “Shu soatda.”
+a few years ago => bir necha yil oldin.
 
 go through puberty => balog‘at davrini boshdan kechirmoq
+
 Thermal power station => Issiqlik elektr stansiyasi (IES)
 As a gesture of goodwill => Yaxshi niyat belgisi sifatida / Ezgu niyat ramzi sifatida
 Such a nonsense thing => bunday bema'ni narsa.
@@ -245,3 +39,650 @@ leave + something + for + time => biror narsani keyingi vaqtga qoldirmoq
 The set design => sahna/dekoratsiya dizayni, ya’ni film, serial yoki teatr uchun voqea sodir bo‘ladigan joyning ko‘rinishini yaratish.
 a rocking chair => tebranadigan kreslo / tebranma kursi
 walk past = biror odam/narsaning yonidan o‘tib ketmoq
+sentence someone to something — kimnidir biror narsaga mahkum qilmoq
+come down on someone — kimnidir qattiq tanqid qilmoq, koyimoq, qattiq jazolamoq.
+an armful of flowers — bir quchoq gul
+an armful of books — qo‘lga quchoqlab olingan bir dasta kitob
+an armful of love — bir quchoq mehr-muhabbat ❤️
+be able to → qila olmoq
+be unable to → qila olmaslik
+keep an eye (on) — kuzatib turmoq, nazorat qilib turmoq, ko‘z-quloq bo‘lib turmoq.
+hang around — biror joyda/odamlar atrofida bekor yurmoq, aylanib yurmoq, vaqt o‘tkazmoq
+alarm the house — uydagilarni vahimaga solmoq / xavotirga tushirmoq.
+live someone a heads-up — kimnidir oldindan ogohlantirmoq, xabardor qilib qo‘ymoq.
+piled up — uyilib/yig‘ilib qolgan, to‘planib qolgan degani.
+make/win someone’s heart — birovning qalbini zabt etmoq
+hang up → telefonni qo‘ymoq
+have a stroke → insult bo‘lmoq / insultni boshdan kechirmoq'
+fall apart → parchalanmoq, buzilib ketmoq; ruhan tushkunlikka tushmoq / o‘zini yo‘qotmoq
+quilt cover set → ko‘rpa jildi to‘plami
+put up with → chidamoq, toqat qilmoq
+go mad → aqldan ozmoq, juda asabiylashib ketmoq
+bring someone to book → kimnidir qilgan ishi uchun javob berishga majbur qilmoq / javobgarlikka tortmoq.
+out of the way — yo‘ldan chetga, xalal bermaydigan joyga
+hour hand — soat strelkasi 🕐
+cherry on the cake — allaqachon yaxshi bo‘lgan narsani yanada mukammal qiladigan qo‘shimcha degan ma’noda.
+put something on the line — biror narsani xavf ostiga qo‘ymoq / tavakkal qilmoq
+put someone further from — kimnidir yanada uzoqlashtirmoq
+blow up => portlamoq, portlatmoq, qattiq jahli chiqmoq, birdan mashxur bo'lib ketmoq
+and so on (phrase) → va hokazo; va shu kabilar; va boshqalar
+poke fun at + someone = birovni jiddiy bo‘lmagan tarzda mazax qilish, ustidan hazil qilish.
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤ   Adverbs of Indefinite Frequency:ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+- Always => Har doim                                                                 100 %
+- Constantly / Continually => To'xtovsiz, Doimiy                                     95-100 %
+- Almost always => Deyarli har doim                                                  90-95 %
+- Usually / Normally => Odatda                                                       80-90 %
+- Generally / Habitually => Odatdagidek, ko'pincha                                   75-80 %
+- Regularly => Muntazam ravishda                                                     70-75 %
+- Often / Frequently => Tez-tez                                                      60-70 %
+- Sometimes => Ba'zan                                                                 50 %
+- From time to time => Vaqti vaqti bilan                                             40-50 %
+- Occasionally => Goh-gohida                                                         30-40 %
+- Now and then / Now and again => Dam-badam / Goh-gohida                             20-30 %
+- Seldom => Kamdan-kam                                                               15-20 %
+- Rarely => Juda kam, noyob                                                            10 %
+- Hardly ever / Scarely ever => Deyarli hech qachon                                     5 %
+- Once in a blue moon => Ming yilda bir marta                                          1-2 %
+- Never => Hech qachon                                                                  0 %
+\
+have breakfast => nonushta qilmoq
+have lunch => tushlik qilmoq
+have dinner => kechki ovqat qilmoq
+have a meal => ovqatlanmoq
+have a shower => dush qabul qilmoq
+have a bath => vanna qabul qilmoq
+have a rest => dam olmoq
+have a drink => ichimlik ichmoq
+have a break => tanaffus qilmoq
+have fun => vaqtni yaxshi o'tkazmoq
+have a nap => mizg'ib olmoq
+have a good time => yaxshi vaqt o'tkazmoq
+have a discussion => muhokama qilmoq
+have a talk => gaplashmoq (Jiddiy)
+have a chat => suhbatlashmoq (Yengil)
+have a conversation => suhbatlashmoq (Rasmiy)
+have a chance to => imkoniyat bo'lmoq
+have a try => urinib ko'rmoq
+have a think => o'ylab ko'rmoq
+have a look => qarab ko'rmoq
+have a go => urinib ko'rmoq
+have a sleep => uxlab olmoq
+have a laugh => kulmoq, kulib yubormoq
+have a headache => bosh og'rig'i bor
+have a cold => shamollagan bo'lmoq
+have a fever => isitma bo'lmoq
+have a job => ishga ega bo'lmoq
+have a meeting => uchrashuv o'tkazmoq
+have an appointment => uchrashuv bo'lmoq
+have a walk => sayr qilmoq
+have a look around => atrofga qarab chiqmoq
+have a ride => sayr qilib kelmoq (transportda)
+have a drive => mashina haydamoq
+have a word => qisqa gaplashmoq
+have a question => savoli bo'lmoq
+have an answer => javobi bo'lmoq
+have experience => tajribaga ega bo'lmoq
+have knowladge => bilimga ega bo'lmoq
+have an opinion => fikrga ega bo'lmoq
+have trouble => muammoga duch kelmoq
+have difficulty => qiyinchilikka duch kelmoq
+have fun with something => nimadandir zavqlanmoq
+have a friend => do'sti bor
+have no time => vaqti yo'q
+have time => vaqti bor
+have secrets => sirga ega bo'lmoq, sir tutmoq
+
+Miss someone => kimnidir sog'inmoq
+Miss a bus/train => avtobusni yoki poyezdni o'tkazib yubormoq
+Miss a class => darsni qoldirmoq
+Miss a chance => imkoniyatni qo'ldan boy bermoq
+Miss a target => nishonga tekkiza olmaslik
+Miss the point => gapning asl ma'nosini tushunmaslik
+Such + noun → shunday / bunday / juda … narsa/odam
+ • such a good boy → shunday yaxshi bola
+ • such a trifle → shunday arzimas narsa
+ • So + adjective → juda / shunchalik + sifat
+ • so good → juda yaxshi
+ • so beautiful → juda chiroyli
+ • So + adverb → juda / shunchalik + ravish
+ • so quickly → juda tez
+ • so carefully → juda ehtiyotkorlik bilan
+
+
+🚌 Get on → chiqmoq / minmoq
+• get on a bus — avtobusga chiqmoq
+• get on a train — poyezdga chiqmoq
+• get on a plane — samolyotga chiqmoq
+• get on a ship — kemaga chiqmoq
+• get on a bike — velosipedga minmoq
+• get on a horse — otga minmoq
+
+🚶 Get off → tushmoq
+• get off a bus — avtobusdan tushmoq
+• get off a train — poyezddan tushmoq
+• get off a plane — samolyotdan tushmoq
+• get off a bike — velosipeddan tushmoq
+• get off a horse — otdan tushmoq
+
+🚗 Get in / get out of => Odatda kichik, ichiga kiriladigan transportlar:
+• get in a car — mashinaga o‘tirmoq
+• get out of a car — mashinadan chiqmoq
+• get in a taxi — taksiga o‘tirmoq
+• get out of a taxi — taksidan chiqmoq
+
+
+meant to be — “taqdirda bor, shunday bo‘lishi kerak” degan ibora.
+Just right = na ko‘p, na kam — aynan kerak bo‘lganidek.
+on the brink of → … yoqasida / … arafasida
+settle for → boriga ko‘nmoq, qanoat qilmoq
+head back = qaytib ketmoq, ortga yo‘l olmoq.
+drive someone crazy — kimnidir juda jahli chiqaradigan yoki charchatadigan darajaga olib kelmoq.
+very sorry — juda afsusdamiz / juda
+guided by → “...ga amal qiladigan / ...asosida boshqariladigan”
+run deep → chuqur kirib bormoq / keng qamrovli bo‘lmoq / kuchli darajada mavjud bo‘lmoq
+provides ... with → ...ni ... bilan ta’minlaydi
+rather than → o‘rniga, ...dan ko‘ra, ...emas, balki
+all this → buncha / shuncha
+each time → har safar / har gal / har bir safar
+from scratch → noldan, boshidan
+derive from → ...dan kelib chiqmoq / ...dan hosil bo‘lmoq
+in contrast → aksincha / farqli o‘laroq
+by contrast → aksincha / buning aksiga
+prior + noun → oldingi, avvalgi
+prior + noun → oldingi, avvalgi
+Once + subject + verb → “…gach / …dan so‘ng”
+no matter — ...dan qat’i nazar, ... bo‘lishidan qat’i nazar, qanday bo‘lishidan qat’i nazar.
+going on — sodir bo‘layotgan / amalga oshayotgan
+also known as — "... deb ham ataladi"
+present on the system → tizimda mavjud
+end up → oxir-oqibat ... bo‘lmoq / natijada ... bo‘lib qolmoq
+most up-to-date → eng yangilangan / eng zamonaviy
+Walking around → aylanib yurish / sayr qilib yurish
+
+look at → qaramoq
+    Look at this! → Bunga qara!
+• look for → qidirmoq
+    I’m looking for my phone. → Telefonimni qidiryapman.
+• look after → g‘amxo‘rlik qilmoq, qaramoq
+    She looks after her brother. → U ukasiga qaraydi.
+• look like → o‘xshamoq
+    You look like your father. → Sen otangga o‘xshaysan.
+• look around → atrofga qaramoq, aylanib ko‘rmoq
+    Let’s look around. → Keling, atrofni ko‘rib chiqamiz.
+• look up → ma’lumot qidirmoq / lug‘atdan qaramoq
+    Look it up online. → Buni internetdan qidirib ko‘r.
+• look out → ehtiyot bo‘lmoq
+    Look out! → Ehtiyot bo‘l!
+• look forward to → intiqlik bilan kutmoq
+    I’m looking forward to meeting you. → Siz bilan uchrashishni intiqlik bilan kutyapman.
+• look into → tekshirmoq, o‘rganib chiqmoq
+    I’ll look into it. → Men buni tekshirib ko‘raman.
+• look through → ko‘zdan kechirmoq
+    I looked through the documents. → Hujjatlarni ko‘zdan kechirdim.
+• look back → ortga qaramoq / o‘tmishni eslamoq
+    When I look back, I’m happy. → O‘tmishga qarasam, xursand bo‘laman.
+• look down on → mensimaslik, past nazar bilan qaramoq
+    Don’t look down on people. → Odamlarni mensima.
+
+opt for → tanlamoq
+come to think of → o‘ylab qolsam / o‘ylab ko‘rsam
+in a wide range of areas → keng ko‘lamdagi turli sohalarda
+Get engaged — unashtirilmoq, ya’ni turmush qurishga kelishib olish.
+Very much appreciate — juda minnatdor bo‘lmoq / juda qadrlamoq.
+Check off — bajarilgan ishni belgilamoq / ro‘yxatdan belgilab qo‘ymoq.
+Go on — sodir bo‘lmoq, davom etmoq.
+get here — bu yerga kelmoq.
+call for someone — kimnidir olib ketish uchun kelmoq
+go into → ichiga kirmoq
+go to → …ga bormoq
+fall into → ichiga tushmoq / tushib ketmoq
+set off = yo‘lga chiqmoq, safarga otlanmoq
+get away — uzoqlashmoq, ketib qolmoq
+give up a job = ishni tashlamoq
+be off → ketmoq, jo‘nab ketmoq
+no wonder — ajablanarli emas / shuning ajablanarli joyi yo‘q
+All afternoon → butun tushdan keyin / tushdan keyingi vaqt davomida
+a sort of → bir turdagi / qandaydir
+over there → ana u yerda / u yoqda
+good-looking → kelishgan, chiroyli
+a ton of money → juda ko‘p pul
+really appreciate it — “Buni juda qadrlayman.” / “Sizdan juda minnatdorman.”
+figure out = yechimini topmoq / aniqlamoq
+on the right track = to‘g‘ri yo‘lda / to‘g‘ri yo‘nalishda
+wander around → maqsadsiz/shunchaki aylanib yurmoq
+pour into → …ga oqib kelmoq / yopirilib kelmoq
+a sense of → … hissi / … tuyg‘usi / … sezgisi
+tend to → odatda … qilmoq / moyil bo‘lmoq
+a role to play → o‘z vazifasi bor / o‘z roli bor / o‘z hissasini qo‘shadi
+during the whole process → butun jarayon davomida
+sort out → hal qilmoq, tartibga solmoq
+encourage + someone + to + verb → kimnidir biror ish qilishga undamoq
+
+blow someone away → kimnidir juda qattiq hayratga solmoq, qoyil qoldirmoq.
+check out → ko‘rib chiqmoq, tekshirib ko‘rmoq
+Cop out → bahona qilib qochib ketmoq, javobgarlikdan qochmoq, oson yo‘lni tanlab qutulmoq.
+desirous of + noun/V-ing → biror narsani juda istagan, xohlagan
+addict someone to something → kimnidir biror narsaga qaram qilib qo‘ymoq.
+Handle something → biror vaziyatni uddalamoq, bardosh bermoq.
+come across → tasodifan uchratmoq, duch kelmoq
+Stop by → biror joyga qisqa vaqtga tashrif buyurmoq.
+Built up → asta-sekin to‘pladi, kuchaytirdi, rivojlantirdi.
+Make no sense → mantiqqa to‘g‘ri kelmaslik, tushunarsiz bo‘lish.
+Root out → biror narsani ildizi bilan yo‘qotmoq yoki chiqarib tashlamoq.
+put off = kechiktirmoq, keyinga qoldirmoq yoki ko‘nglini sovutmoq.
+please someone → kimnidir mamnun qilmoq, rozi qilmoq
+convince someone → kimnidir ishontirmoq
+In the name of → … nomidan / … nomi bilan
+By the way → aytgancha / darvoqe / shu o‘rinda
+Deal with → shug‘ullanmoq, hal qilmoq, muomala qilmoq
+There is going to be + noun → … bo‘ladi / … bo‘lib o‘tadi
+get out of something → biror joydan yoki xavfli vaziyatdan chiqib ketmoq / qutulmoq.
+go through something → biror qiyin yoki og‘ir narsani boshdan kechirmoq
+the rest of → qolganlari / qolgan qismi
+From now on → bundan buyon, bundan keyin.
+Pull me down → tushkunlikka tushirmoq.
+screw up → rasvo qilmoq, xato qilib qo‘ymoq
+get along = yaxshi chiqishmoq, til topishmoq
+sermon someone → kimgadir uzoq, axloqiy yoki tanbeh ohangida nasihat qilmoq.
+break down → biror narsa ishlamay qolmoq / buzilib qolmoq.
+depends on you → senga bog‘liq
+hang out → vaqt o‘tkazmoq, birga dam olmoq, aylanib yurmoq
+more or less → deyarli / ozmi-ko‘pmi
+head over heels (in love) → juda qattiq sevib qolmoq / bosh-oyoq oshiq bo‘lmoq
+in a few days → bir necha kundan keyin
+Private jet → Shaxsiy samolyot (odatda boy yoki maxsus mijozlar foydalanadigan kichik samolyot).
+Subject + am/is/are + about to + V1 -> Biror ish juda yaqin orada sodir bo‘lishini bildiradi.
+So that → ... uchun (maqsadni bildiradi)
+Keep + verb-ing -> Biror ishni qayta-qayta qilaverish / davom ettirish.
+One by one → Birma-bir, bittalab.
+Kept saying → Tinmay aytaverdi / takror-takror aytdi
+pose a problem / question → muammo yoki savol tug‘dirmoq
+stand against the mountain => tog'ga yopishib turmoq
+share a flat => kvartirani bo'lishib yasahmoq
+back in 1990 => 1990-yilda
+back in the 90s => 90-yillarda
+become tired => charchab qolmoq
+become sick => kasal bo'lib qolmoq
+become happy => xursand bo'lib qolmoq
+become intrigued => juda qiziqib qolmoq
+the same => xuddi shu, aynan o'sha, xuddi shu narsa
+a great many => juda ko'p, nihoyatda ko'p, talaygina (countable)
+a great deal of => juda ko'p (uncountable)
+over the years => yillar davomida, o'tgan yillar mobaynida, vaqt o'tishi bilan
+to morph = asta-sekin boshqa shaklga yoki holatga o'zgarmoq, aylanmoq, transformatsiyalanmoq, shaklini o'zgartirmoq
+boshqa ko'rinishga o'tmoq, evolyutsiya qilmoq
+yet others => yana boshqalari
+do things => ishlarni bajaradi, o'z faoliyatini olib boradi
+the same end goal => bir xil yakuniy maqsad
+I no longer had to ... => Men endi majbur emas edim ...
+No longer = endi ... emas, bundan buyon ... emas.
+put up with => chidamoq, toqat qilmoq, ko'tarmoq
+It was what it was => Endi bo'lgan ish bo'ldi / Vaziyat shunday edi.
+the concept of choice => tanlov tushunchasi
+be free to + Verb => ... qilishda erkin bo'lmoq, ... qilish mumkin bo'lmoq
+a number of => bir qancha, ko'plab
+any one => birortasi
+in their own right => o'ziga xos ravishda, o'z kuchi bilan, mustaqil ravishda
+a matter of => "... masalasi"
+personal taste => shaxsiy did
+over the years => yillar davomida
+target audience => maqsadli auditoriya
+Entroll now => ro'yxatdan o'tmoq, o'qishga yozilmoq, kursga qatnashish uchun yozilmoq
+the way it is => vaziyat shunday, ahvol shunaqa, bori shu, qanday bo'lsa shunda
+post- => keyingi, ...dan keyingi
+post-processing → qayta ishlovdan keyingi jarayon / keyingi ishlov
+post-production → ishlab chiqarishdan keyingi bosqich.
+intervene in + situation/problem/conflict => ...ga aralashmoq
+kinda = kind of => kontekstga qarab biroz, sal, qandaydir, deyarli, ...dek
+be supposed to + V1 => ... qilishi kerak / ... qilishi kutiladi
+be supposed to be + V3 => ... qilinishi kerak / ... qilinishi kutiladi (Passive Voice)
+rule out => istisno qilmoq, mumkin emas deb chiqarib tashlamoq
+grading system => baholash tizimi
+with the exception of => ...dan tashqari / ...ni hisobga olmaganda
+not rocket science => juda qiyin narsa emas,  tushunish qiyin emas
+something like this => shunga o‘xshash biror narsa
+whatever + subject + verb => ... qiladigan / ... xohlagan / ... kerak bo‘lgan har qanday narsa
+whatever you want => xohlagan narsangiz
+whatever you need => kerak bo‘lgan narsangiz
+whatever you don't understand => tushunmagan narsangiz
+whatever you don't have to write => yozishingiz shart bo‘lmagan narsalar
+use X + ignoring Y => Y ga e’tibor bermasdan X dan foydalan
+some kind of => qandaydir, biror turdagi, qandaydir bir
+publicly available => hammaga ochiq, ommaga mavjud
+to do with => ...ga aloqasi bo‘lmoq / ... bilan bog‘liq bo‘lmoq / ...ga taalluqli bo‘lmoq
+something to do with → ... bilan bog‘liq qandaydir narsa / ...ga aloqador biror narsa
+as a matter of fact => aslida, aslini olganda, haqiqatda, darhaqiqat
+kick someone out => kimnidir tizimdan chiqarib yubormoq
+get kicked out => tizimdan chiqarib yuborilmoq
+worst possible case => eng yomon ehtimoliy holat / yuz berishi mumkin bo‘lgan eng yomon holat
+advise against + noun/pronoun => biror narsani qilishni tavsiya etmaslik / biror narsaga qarshi maslahat bermoq
+manage to do something => biror ishni uddalamoq
+manage something => biror narsani boshqarmoq
+manage without something => biror narsasiz ham eplamoq / uddalamoq
+this and that => u-bu / har xil narsalar / turli-tuman narsalar
+depending on => ...ga qarab / ...ga bog‘liq holda / ...ga qarab o‘zgarib
+by many requests => ko‘plab so‘rovlar sababli / ko‘pchilikning iltimosiga ko‘ra
+be aware of + noun / pronoun => biror narsadan xabardor bo‘lmoq
+be aware that + clause => ...ligini bilmoq / anglamoq
+make sure + (that) + clause => ...ga ishonch hosil qilmoq / ...ni ta'minlamoq
+very often => juda tez-tez, ko‘p hollarda, juda ko‘p marta
+It's better to + V => ... qilgan yaxshiroq / ... qilish yaxshiroq
+NOUNT + with + NOUN => ...si bor / ...ga ega / ...li / ...bilan / ...qo‘shilgan / ...dagi
+hide behind something => biror narsaning orqasiga yashirinmoq
+hide away => yashirinib olmoq / chetga berkinmoq
+hide out => yashirinib turmoq
+set of + plural noun => ... to‘plami
+non- + adjective => ... bo‘lmagan sifat
+absence of + noun => ...ning yo‘qligi
+in the absence of + noun => ... bo‘lmaganda / ... yo‘qligida
+absence from + place/activity => ...da bo‘lmaslik / ...ga qatnashmaslik
+violation of + noun => ...ning buzilishi
+violation of privacy => maxfiylikning buzilishi
+in violation of + noun => ...ni buzgan holda / ...ga zid ravishda
+in violation of the rules => qoidalarga zid ravishda
+matter to + someone => kimdir uchun muhim bo‘lmo
+no matter + question word => ... bo‘lishidan qat'i nazar / ... qanday bo‘lishidan qat'i nazar
+as a matter of fact => aslida, haqiqatda, darhaqiqat
+make a mess => tartibsizlik qilmoq, chalkash holat yaratmoq
+mess up => buzib qo'ymoq, xato qilmoq
+mess something up => biror narsani buzib qo'ymoq
+in a mess => tartibsiz, chalkash holatda
+get the picture => vaziyatni tushunmoq, umumiy mazmunni anglamoq
+for sure => albatta, shubhasiz, aniq
+in principle => prinsipial jihatdan, nazariy jihatdan, umumiy qoida sifatida
+at least => hech bo'lmaganda, kamida
+all else being equal = boshqa narsalar o‘zgarmagan deb hisoblasak
+point out => ta'kidlab ko‘rsatmoq, e'tiborini qaratmoq, ko‘rsatib o‘tmoq
+do someone a disservice => kimgadir zarar yetkazmoq, kimgadir yomon xizmat qilmoq
+by mistake = xato qilib, adashib, bilmasdan
+whatever => nima bo'lishidan qati nazar, baribir, farqi yo'q, nima bo'lsa ham
+related to => ...ga bog'liq, aloqador
+something completely different => butunlay boshqa narsa / mavzu
+until stated otherwise => boshqacha aytilmaguncha / boshqa ko‘rsatma berilmaguncha
+one of them => ularning biri
+any single one of them => ularning istalgan bittasini
+When + past participle (V3) => ...qilinganda degan ma’noni beradi
+when called => chaqirilganda
+when used => ishlatilganda
+when opened => ochilganda
+when executed => bajarilganda
+intricacies of the problem => muammoning murakkab/nozik jihatlari
+set up => o'rnatmoq, sozlamoq, tayyorlamoq, tashkil etmoq, yaratmoq, yo'lga qo'ymoq
+brute-force => qo‘pol kuchga asoslangan, barcha variantlarni birma-bir sinab ko‘rishga asoslangan.
+as of today => bugungi holatga ko‘ra, bugungi kunga kelib
+the premise of the book => kitobning asosiy g'oyasi
+the outcome of something => biror narsaning natijasi
+possible outcome => mumkin bo‘lgan natija
+expected outcome => kutilayotgan natija
+desired outcome => ko‘zlangan natija
+positive outcome => ijobiy natija
+negative outcome => salbiy natija
+final outcome => yakuniy natija
+likely outcome => ehtimoliy natija
+as soon as possible => imkon qadar tezroq
+as quickly as possible => imkon qadar tez
+as much as possible => imkon qadar ko‘p
+get + something + V3 => biror narsani biror holatga keltirmoq, biror narsaning bajarilishiga erishmoq
+some kind of + noun => qandaydir ... turi / biror ... turi
+represented by => ... orqali ifodalangan / tasvirlangan
+meet up => uchrashmoq
+instead of => ...ning o‘rniga
+point out => ko‘rsatib o‘tmoq, ta'kidlamoq, e'tiborini qaratmoq
+dealing with... => ... bilan shug‘ullanish / ...ni hal qilish / ... bilan ishlash
+treat someone as something => kimnidir biror narsa sifatida ko‘rmoq yoki munosabatda bo‘lmoq
+is the same as => bilan barobar / mohiyatan bir xil
+out of it => undan / shu narsadan / uning natijasida
+get + something + out of + something => biror narsadan biror narsa olmoq
+in this situation => bu vaziyatda
+in that situation => o‘sha vaziyatda
+current situation => hozirgi vaziyat
+difficult situation => qiyin vaziyat
+similar situation => o‘xshash vaziyat
+deal with a situation => vaziyatni hal qilmoq / boshqarmoq
+rely on someone => kimgadir tayanmoq
+make sure + gap => ...ligiga ishonch hosil qilmoq / ...ni tekshirib ko‘rmoq
+as many as possible => iloji boricha ko‘p, imkon qadar ko‘p, mumkin qadar ko‘p
+feel free to do something => bemalol biror narsa qilmoq / istagancha qilishingiz mumkin
+by all means => albatta, bemalol, hech ikkilanmay
+try + to + verb => biror narsani qilishga harakat qilmoq
+be pleased => mamnun bo‘lmoq
+the reason for + noun => ...ning sababi
+the reason why + gap => ...ning sababi
+for this reason => shu sababli
+for some reason => qandaydir sababga ko‘ra
+aim to do something => biror narsani qilishni maqsad qilmoq
+in terms of ... => ... jihatidan / ... nuqtai nazaridan
+check if + gap => ...ligini tekshirmoq / ... yoki yo‘qligini tekshirmoq
+beware of + noun => ...dan ehtiyot bo‘lmo
+last possible day => mumkin bo‘lgan eng oxirgi kun
+according to => ...ga ko‘ra, ...ning aytishicha
+the less the better => qancha kam bo'lsa shuncha yaxshi
+following as a guide => quyidagilardan yo'l-yo'riq sifatida
+adapt to + noun => ...ga moslashmoq
+unless = if ... not => agar ... bo‘lmasa
+at the same time => bir vaqtning o‘zida / ayni paytda
+panic about + noun => ...dan vahimaga tushmoq
+panic over + noun => ... sababli vahimaga tushmoq
+deviate from + noun => ...dan chetga chiqmoq / ...dan og‘moq
+working on => ustida ishlamoq
+as soon as possible => imkon qadar tezroq
+difficulty with something => biror narsada qiynalish
+run into someone => kimnidir tasodifan uchratib qolmoq
+run into => muammoga duch kelmoq
+ran into => urilib ketmoq
+figure out = tushunib/aniqlab, yechimini topmoq
+come back => yana paydo bo'lmoq, qaytib kelmoq
+related to => bilan bog'liq
+keep happening => qayta-qayta sodir bo'lmoq
+walk someone through something => biror narsani qadam-baqadam tushuntirib bermoq, jarayonni bosqichma-bosqich ko'rsatib bermoq
+so far => hozirgacha, shu paytgacha, hozircha
+get close to => yaqinlashmoq
+take care of => g‘amxo‘rlik qilmoq, qaramoq, shug‘ullanmoq, hal qilmoq
+get started on something => biror ishni boshlamoq
+right away => darhol / zudlik bilan
+keep someone posted => kimnidir xabardor qilib turmoq, yangiliklardan xabardor qilib turmoq
+turned out => ma'lum bo‘ldi,  oxir-oqibat ... ekanligi ma'lum bo‘ldi,  natijada ... bo‘lib chiqdi degani.
+manage to => uddalamoq, eplay olmoq, muvaffaq bo'lmoq
+keep something in mind = biror narsani yodda tutmoq
+take another look at = yana bir bor ko‘rib chiqmoq
+start with => ...dan boshlamoq / ... bilan boshlamoq degani.
+tackle a task => vazifani bajarishga kirishmoq / vazifani hal qilishga kirishmoq
+take priority = ustuvor bo‘lmoq / birinchi o‘ringa chiqmoq
+deal with something = biror masala bilan shug‘ullanmoq / uni hal qilmoq
+do my best => qo'lingdan kelganicha harakat qilmoq
+push something back => biror ishni keyinroq muddatga surmoq
+to some extent => ma'lum darajada
+as well => ham (asosan gap oxirida keladi. also bilan deyarli bir xil ammo also feldan oldin keladi)
+as well as => shuningdek / ... bilan birga / ... ham
+pay attention to => e’tibor bermoq
+in theory => nazariy jihatdan
+in general => umuman olganda 
+in reality => aslida, haqiqatda
+in practice => amalda
+on the other hand => boshqa tomondan, ammo boshqa tarafdan qaraganda
+make it through => uddalab o'tmoq / muvaffaqiyatli o'tkazmoq
+more or less => ozmi-ko‘pmi, deyarli, u yoki bu darajada
+much more than => ...dan ancha ko‘proq
+from time to time => vaqti-vaqti bilan, ba'zida, onda-sonda
+enable + someone + to + verb => kimdirga biror ishni qilish imkonini bermoq
+one of + plural noun =>  ...lardan biri
+for whatever reason => qanday sabab bo‘lishidan qat'i nazar
+drop out => tashlab ketmoq
+get someone out of something => kimnidir biror narsadan/holatdan chiqarib yubormoq
+in need of => ...ga muhtoj, ...ga ehtiyoji bor
+rely on someone to do something => biror ishni qilishda kimgadir tayanmoq
+used by => ...tomonidan ishlatiladi / foydalaniladi
+All of this => Bularning barchasi
+a long time ago => ancha oldin boshlangan
+have to + V1 => ... qilishi kerak / ... qilishga majbur
+in shape => yaxshi jismoniy holatda
+out of shape => jismoniy holati yaxshi emas
+many of you => ko‘pchiligingiz, sizlarning ko‘pchiligingiz
+first of all => avvalo, birinchi navbatda, eng avvalo
+to be useful => foydali bo‘lmoq, asqotmoq, kerakli bo‘lmoq
+demand for + noun =>  ...ga bo‘lgan talab
+such + noun => bunday ... / shunday ...
+The problem is that... => Muammo shundaki...
+The point is that... => Gap shundaki... 
+The main issue is that... => Asosiy muammo shundaki...
+the client's needs =>  mijozning ehtiyojlari
+aim for + noun => ...ga intilmoq / ...ni maqsad qilmoq
+aim to + V1 => ...qilishni maqsad qilmoq
+aim at + verb => ...ga qaratilgan / ...ni ko'zlamoq (Jismoniy ma'noda: nishonga olmoq)
+state of mind => fikrlash holati, ruhiy holat, mindset
+allow + someone + to + V1 => kimdirga biror ish qilishga imkon bermoq
+not to be afraid => qo‘rqmaslik
+in the sense (of) — ...ma’nosida, ...nuqtai nazaridan, ...jihatdan
+try + to + V1 => ... qilishga urinmoq / ... qilib ko‘rmoq
+that specific area => o‘sha ma'lum bir sohada
+limited time frame => cheklangan vaqt oralig‘i
+to realize yourself => o'zini namoyon qilish, o'z salohiyatini ro'yobga chiqarish
+recall doing something => biror ishni qilganini eslamoq.
+after a minute => bir daqiqadan keyin
+all light long => tun bo'yi, tun otguncha
+until late at night => tunda kechgacha, kechasi kechgacha
+until midnight => yarim tungacha
+until 2 AM => tungi soat ikkigacha
+by then => o'sha vaqtgacha, shunga qadar
+constructional work = qurilish ishlari
+all over the world = butun dunyo bo'ylab
+feed up with => jahlini chiqarmoq
+first of all => birinchidan
+get dressed => kiyindi
+everything is alright => hammasi yaxshi
+as usual => odatdagidek
+all over the castle => butun qasr bo'ylab   
+not just once => shunchaki bir marta emas
+always there => har doim shu yerda, doim yonimda
+a bit of => ozgina
+a piece of => ozgina
+an amount of => miqdor
+a great deal of => ko'p
+a little | little => ozgina
+a quantity of => miqdor
+anymore / any longer (formal) => endi ... emas, endi ... qilmaydi
+a minute later => bir daqiqadan keyn
+an hour later => bir soatdan keyin
+hours later => bir necha soatdan keyin
+for the first time => birinchi marta
+at the finish line => marra chizig'i
+as a last resort => oxirgi chora sifatida 
+as soon as => ...bilan / ...zahoti
+as long as => ...ekan / ...davomida / ...bo'lsa
+study at => (biror joyda) o'qimoq  
+study for => (nimadir uchun, vaqt davomida) o'qimoq  
+study in => (hudud / xona ichida) o'qimoq  
+talk to => bilan gaplashmoq (bunda bir tomon ko'p gapiradi)
+talk with => suhbatlashmoq (ikki tomon gaplashadi)
+talk about => nimadir haqida gaplashmoq
+talk of => haqida gapirmoq
+talk over => muhokama qilish
+talk back => qaytib gapirish
+talk into => ko'ndirmoq
+talk out of => fikridan qaytarish
+stand by => kutib turmoq | tayyor turmoq, yonida turmoq | qo'llab-quvvatlamoq
+come on => qani bo'laqol | tezroq, qo'ysangchi | bo'lishi mumkin emas, Qani!
+in fact => aslida
+at first => avvaliga, boshida 
+at least => Hech bo‘lmaganda
+these days => shu kunlarda, hozirgi vaqtda, oxirgi paytlarda
+at the moment => ayni damda
+beauty products => kosemtika vositalari
+without them = ularsiz
+with all of my heart = butun qalbim bilan, chin dildan
+figure out = tushunib yetmoq, aniqlamoq, yechimini topmoq, tagiga yetmoq
+for the same reason = shu sababga ko'ra
+sports gear => sport jihozlari (kiyim, kechak, asbob-uskunalar [futbol to'pi, basketbol to'pi, velosiped, shtange and etc], aksessuarlar [sport sumkasi, suv idishi and etc], himoya vositalari)
+fishing gear => baliq ovlash anjomlari
+winter gear => qishki kiyimlar
+change gear => skorostni o'zgartirish
+very you => juda mos
+a variety of → turli xil, ko‘plab
+the entire => butun
+the whole => to'la, yaxlit
+several => bir qancha
+a jar of => bir butilka, bir bonka
+a bottle of => bir butilka, bir bonka
+a cup of => bir finjon
+a glass of => bir stakan
+a bowl of => bir kosa
+a jug of => bir ko'za
+a can of | a tin of => bir kanserva
+a cartoon of => bir karobka (sut, sok larning karobkasi)
+a great deal of => ko'p miqdorda (rasmiy)
+plenty of => yetarlicha, ko'p
+the day before yesterday => kechadan oldingi kun
+in the city of Tashkent => Toshkent shahrida
+go to the movies => kinoga borish
+lots of => ko'p (norasmiy)
+right now => aynan hozir, shu zahoti
+a pair of => bir juft
+proud of => dan faxrlanmoq
+the others => boshqalari
+the number of => soni, miqdori
+a number of => ko'p, bir qancha, bir nechta
+take a test => test topshirmoq, nazorat ishi topshirmoq
+take an exam => imtihon topshirmoq
+be happy (v) => xursand bo'lmoq
+make happy (v) => xursand qilmoq
+happiness level (n) => baxt darajasi
+happy ending => baxtli yakun
+true happiness => haqiqiy baxt
+bring happiness => baxt olib kelmoq
+the last lesson => oxirgi dars, so'ngi dars
+last lesson => o'tgan dars
+day by day => kundan kunga
+colder and colder => tobora sovuqroq
+hotter and hotter => tobora issiqroq
+the price of petrol => benzin narxi
+grocery store => oziq-ovqat do'kon
+talk to her => u bilan gaplashmoq
+call me back => qaytib qo'ng'iroq qilmoq
+new Year's Eve => yangi yil arafasi
+one of the greatest = eng yaxshi ...lardan biri
+lack of thought = aql yoki farosat yetishmasligi
+all the time = hamma vaqt
+of stealin money = pulni o'g'irlashda
+sat on something - biror narsaning ustiga o'tirmoq
+run away - qochib keting
+a fall day - kuz kuni
+next to - yonida, yaqinda
+almost every day = deryarli har kuni
+fall down = upset = hafa qilmoq
+put a limit = chegara qo'ymoq
+a very high amount = juda ko'p miqdor
+filled with = full of  = ... bilan to'la
+straight away = immediately
+all right = fine = It's okay = It's fine = hammasi joyida
+put on = kiymoq
+take off = yechmoq
+to close your eyes | to shut your eyes => ko'zni yummoq
+make an excuse => bahona qilmoq
+so far => hozirgacha
+in person => shaxsan, yaqindan
+particular kind of => aynan shu turdagi
+followed by => bilan birga keladigan
+completely different => butunlay boshqacha, to'laqonli boshqacha, butunlay turlicha
+the same => xuddi shunday
+focus on - diqqatini qaratmoq
+out of date => muddati o'tgan
+a matter of ... — ... masalasi / ...ga bog‘liq narsa
+as the same time => simultaneously
+on the air → efirda
+go on air → efirga chiqmoq
+put something on the air → biror narsani efirga uzatmoq
+air a program → dastur/ko‘rsatuvni efirga uzatmoq
+air out a room → xonani shamollatmoq
+air your opinion/grievances → fikringizni/shikoyatingizni ochiq bildirmoq
+choke up — hissiyotdan gapira olmay qolmoq
+choke back — his-tuyg‘uni tiyib turmoq
+choke off — to‘sib/to‘xtatib qo‘ymoq
+commit a crime => jinoyat sodir etmoq
+commit suicide → o‘z joniga qasd qilmoq
+commit fraud → firibgarlik qilmoq
+commit a violation → qoidabuzarlik sodir etmoq
+some of them => ularning ba'zilari
+with whom => kim bilan
+the original cover => asl muqova
+down the hall => yo'lak bo'ylab
+easy peasy => juda oson, hech qanday qiyinchiliksiz
