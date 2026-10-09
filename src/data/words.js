@@ -233,8 +233,15 @@ configurable (adj) => sozlash mumkin bo'lgan, moslanadigan, konfiguratsiya qilin
 configured (adj) => sozlangan, konfiguratsiya qilingan, moslab o'rnatilgan
 misconfigurated (adj) => noto'g'ri sozlangan, noto'g'ri konfiguratsiya qilingan
 
-matter (n) => masala, muammo, modda
-matter (n) => ahamiyatga ega bo'lmoq, muhim bo'moq
+matter (n) => masala, ish, mavzu, modda, materiya
+matters (n) => ishlar, vaziyat, masalalar
+materiality (n) => muhimlik, ahamiyatlilik
+matter (v) => muhim bo'lmoq, ahamiyatga ega bo'lmoq
+material (adj) => moddiy, muhim, ahamiyatli
+immaterial (adj) => ahamiyatsiz, nomoddiy
+matter-of-fact (adj) => xotirjam, hissiyotsiz, dona-dona
+materially (adv) => sezilarli darajada, moddiy jihatdan
+matter-of-factly (adv) => xotirjam, hissiyotsiz ohangda
 
 isolation (n) => ajratish, izolyatsiya, alohidalik, boshqa narsalardan mustaqil holat
 isolate (v) => ajratmoq, alohida qilmoq
@@ -267,11 +274,14 @@ challenging (adj) => qiyin, murakkab, sinovli, katta kuch yoki harakat talab qil
 challenged (adj) => qiyinchlikka duch kelgan, qiynalayotgan, sinovdan o'tayotgan
 challengeable (adj) => shubha ostiga qo'yish mumkin bo'lgan, bahslashish mumkin bo'lgan, e'tiroz bildirish mumkin bo'lgan
 
-mess (n) => tartibsiz, pala-partishlik, chalkash holat, noxush vaziyat
-mess (v) => iflos qilmoq, buzib qo'ymoq, chalkashtirib yubormoq
-messy (adj) => tartibsiz, pala-partish, chalkash
-messily (adv) => tartibsiz tarzda
+mess (n) => tartibsiz, pala-partishlik, chalkash holat, iflos holat, muammo
 messiness (n) => tartibsizlik, pala-partishlik
+mess-up (n) => xato, buzib qo'yish, omadsiz bajarilgan ish
+mess (v) => iflos qilmoq, tartibsiz qilmoq
+mess-up (v) => buzib qo'ymoq, xato qilmoq
+messy (adj) => tartibsiz, pala-partish, iflos
+messed-up (adj) => buzilgan, chappasiga ketgan, ruhiy yoki emotsional jihatdan muammoli
+messily (adv) => tartibsiz tarzda, pala-partish tarzda
 
 serialization (n) => serializatsiya, malumotlarni saqlash yoki uzatish mumkin bo'lgan formatga aylantirish
 serialize (v) => serizlizatsiya qilmoq
@@ -380,15 +390,20 @@ pessimistically (adv) => pessimistik tarzda, salbiy qarash bilan
 pessimism (n) => pessimizm, salbiy qarash, yomon natijani kutish
 pessimist (n) => pessimist, salbiy fikrlovchi odam
 
-lock (n) => qulf
-lock (v) => qulflamoq, bloklamoq
-locker (n) => qulflanadigan shkafcha
-lockable (adj) => qulflash mumkin bo'lgan
+lock (n) => qulf, qulflash mexanizmi
+locker (n) => qulflanadigan shkafcha, shkafcha
+lockout (n) => kirishdan mahrum qilish, bloklab qo'yish, ish beruvchining ishchilarni ishga kiritmasligi
+lockdown (n) => qat'iy yopilish rejimi, tashqariga chiqishni va kirib-chiqishni cheklash
+lock (v) => qulflamoq, bloklamoq, yopib qo'ymoq
+unlock (v) => qulfini ochmoq, blokdan chiqarmoq, ochmoq
+lockout (v) => bloklab qo'ymoq, kirishni to'smoq
+lockdown (v) => qat'iy yopib qo'ymoq, kirib-chiqishni cheklamoq
+lockable (adj) => qulflash mumkin bo'lgan, qulflanadigan
+lockless (adj) => qulfsiz
 locked (adj) => qulflangan, bloklangan
-lockout (n) => bloklanib qolish
-lockdown (n) => to‘liq bloklash / cheklash holati
-unlock (v) => qulfini ochmoq, blokdan chiqarmoq
-unlocked (adj) => qulfi ochilgan, blokdan chiqarilgantimeout (n) => vaqt tugashi, kutish vaqti tugashi, vaqt chegarasi
+unlocked (adj) => qulfi ochiq, qulflanmagan
+
+timeout (n) => vaqt tugashi, kutish vaqti tugashi, vaqt chegarasi
 
 gratitude (n) => minnatdorlik, tashakkur
 gratefulness (n) => minnatdorlik
@@ -551,19 +566,12 @@ unusual (adj) => g'ayrioddiy, noodatiy
 unusually (adv) => g'ayrioddiy tarzda, odatdagidan ko'ra
 usualness (n) => odatdagi holat, odatiylik
 
-miss (n) => o'tkazib yuborish, xato, nishonga tegmaslik
-miss (v) => o'tkazib yubormoq, ko'rmay qolmoq, sog'inmoq, yetib kelolmaslik, qo'ldan boy bermoq, nishonga tekkiza olmaslik
-
 category (n) => toifa, kategoriya, turkum
 categorization (n) => tasniflash, toifalarga ajratish, turkumlash
 categorize (v) => toifalarga ajratmoq, tasniflamoq, turkumlamoq
 categorized (adj) => toifaga ajratilgan, turkumlangan, tasniflangan
 categorical (adj) => qat'iy, keskin, shubhasiz
 categorically (adv) => qat'iy ravishda, keskin tarzda, shubhasiz tarzda
-
-leave (v) => ketmoq, tark etmoq, qoldirmoq, tashlab ketmoq, ruxsat bermoq
-leave (n) => ta'til, ruxsat, ishdan vaqtincha ozodlik
-leaver (n) => ketuvchi, tark etuvchi
 
 fancy (n) => xohish, istak, tasavvur, havas
 fanciness (n) => hashamatlilik, dabdabalilik, bezakdorlik
@@ -586,10 +594,14 @@ unaware (adj) => xabarsiz, bexabar, bilmaydiga
 awarely (adv) => ongli ravishda, anglagan holda
 unawarely (adv) => bexabar holda, bilmagan holda
 
-natively (adv) => asl holatda, o'ziga xos tarzda, bevosite, tabiiy ravishda
-native (adj) => mahalliy, asl, o'ziga xos, platformaga xos
-native (n) => mahalliy, aholi vakili, ona tilida so'zlashuvchi
-nativeness (n) => mahalliylik, asl holat
+native (n) => mahalliy aholi vakili, shu joyda tug'ilgan odam, ona tili shu til bo'lgan odam
+nativeness (n) => mahallilik, tug'malik, o'z joyiga xoslik
+nativity (n) => tug'ilish, tug'ilgan joy, kelib chiqish
+nativism (n) => mahalliy aholining manfaatlarini ustun qo'yish g'oyasi
+nativist (n) => mahalliy aholi manfaatlarini ustun qo'yuvchi shaxs
+native (adj) => tug'ma, mahalliy, shu joyga xos, ona tiliga oid
+unnative (adj) => mahalliy yoki tug'ma bo'lmagan
+natively (adv) => tug'ma yoki mahalliy tarzda, tabiiy ravishda
 
 advice (n) => maslahat, tavsiya
 advise (v) => maslahat bermoq, tavsiya qilmoq
@@ -662,10 +674,13 @@ setup (n) => sozlama, konfiguratsiya, o'rnatish/tashkil qilish jarayoni
 setup (v) => sozlamoq, o'rnatmoq, tayyorlamoq, tashkil qilmoq
 set-up (adj) => oldindan tashkil qilingan yoki tayyorlangan
 
-start (v) => boshlamoq, ishga tushirmoq
-start (n) => boshlanish, start
-starter (n) => boshlovchi, ishga tushirgich
-starting (adj) => boshlang'ich
+start (n) => boshlanish, boshlanish vaqti, start
+restart (n) => qayta boshlash, qayta ishga tushirish
+starter (n) => boshlovchi, ishga tushirgich, boshlang'ich taom
+start-up / startup (n) => yangi tashkil etilgan biznes, yangi kompaniya
+start (v) => boshlamoq, ishga tushirmoq, boshlanmoq
+restart (v) => qayta boshlamoq, qayta ishga turshirmoq
+starting (adj) => boshlang'ich, boshlayotgan
 
 shortcut (n) => qisqa yo'l, klaviatura yorlig'i, tezkor tugmalar kombinatsiyasi
 shortcut (v) => qisqartirmoq, qisqa yo'l bilan bajarmoq
@@ -719,10 +734,11 @@ performance (n) => ishlash samaradorligi, unumdorlik, bajarilish darajasi, ijro
 performer (n) => ijrochi, bajaruvchi, sahnada chiqish qiluvchi
 performative (adj) => ijroga oid, amalga oshirishga qaratilgan
 
-stare (v) => tikilib qaramoq, uzoq vaqt tikilib turmoq, ko'zini uzmay qarammoq
 stare (n) => tikilish, tikilib qarash
 starer (n) => tikilib qarovchi odam
-staring (n) => tikilib qarash
+stare (v) => tikilib qaramoq, uzoq vaqt tikilib turmoq, ko'zini uzmay qarammoq
+staring (adj) => tikilib qarayotgan, tikilgan
+startingly (adv) => tikilib, ko'z uzmay
 
 block (v) => to'smoq, bloklamoq, yo'lini to'smoq, kirishni yoki foydalanishni cheklamoq
 block (n) => to'sin, blok, to'sqinlik
@@ -730,13 +746,20 @@ blocking (n) => to'sish, bloklash
 blocker (n) => to'sqinlik qiluvchi narsa, to'suvchi, bloklovchi
 blockage (n) => tiqilib qolish, berkilish
 
-kick (v) => tepmoq, chiqarib yubormoq, uzib qo'ymoq
-kick (n) => tepki, zarba, zavq, hayajon
+kick (n) => tepki, tepish, tepki zarbasi, zavq yoki hayajon
+kicker (n) => tepguvchi, tepki beruvchi, qo'shimcha muammo yoki shart
+kick (v) => tepmoq, tepib yubormoq, tepki bermoq
 kicked (adj) => chiqarib yuborilgan
+kickable (adj) => tepish mumkin bo'lgan
+unkickable (adj) => tepib bo'lmaydigan
 
-notify (v) => xabardor qilmoq, xabar bermoq
-notification (n) => bildirishnoma, xabarnoma
-notifiable (adj) => xabar qilinishi kerak bo'lgan
+notification (n) => bildirishnoma, xabarnoma, xabar berish
+notifier (n) => xabar beruvchi, xabardor qiluvchi dastur yoki tizim
+notifying (n) => xabar berish, xabardor qilish
+notifiability (n) => xabar berish mumkinligi
+notify (v) => xabar bermoq, ma'lum qilmoq, rasman xabardor qilmoq
+notifiable (adj) => xabar berilishi shart bo'lgan, xabar berish mumkin bo'lgan
+notified (adj) => xabardor qilingan, xabar berilgan
 
 correspondence (n) => muvofiqlik, moslik, yozishmalar, xat-xabarlar
 correspondent (n) => muxbir, xat yozishib turuvchi kishi
@@ -796,8 +819,10 @@ huge-minded (adj) => fikrlashi keng, katta miqyosda o'ylaydigan
 hugely (adv) => juda katta darajada, nihoyatda
 
 list (n) => ro'yxat
-listing (n) => ro‘yxat, ro‘yxatdagi yozuv, e’lon
-list (v) => ro'yxat qilmoq, ro'yxatga kiritmoq
+listing (n) => ro'yxatga kiritish
+lister (n) => ro'yxat tuzuvchi yoki ro'yxatga kirituvchi
+list (v) => ro'yxatga kiritmoq, sanab o'tmoq
+listed (adj) => ro'yxatga kiritilgan, sanab o'tilgan, ro'yxatda keltirilgan
 
 acquaintance (n) => tanish odam, tanish-bilishlik, tanish bo'lish, bilish
 unacquaintedness (n) => tanish bo'lmaslik, bilmaslik
@@ -829,9 +854,11 @@ upload (v) => yuklamoq (kompyuteringdan internet yoki serverga yuborish)
 uploaded (adj) => yuklangan
 uploadable (adj) => yuklash mumkin bo'lgan
 
-new (adj) => yangi 
-newly (adv) => yaqinda, endigina, yangidan
-newness (n) => yangilik
+newness (n) => yangilik, yangilik darajasi, yanilik holati
+newbie (n) => yangi boshlovchi, biror sohaga endigina kirgan odam 
+newness (n) => yangilik, yangilik xususiyati
+new (adj) => yangi, yaqinda paydo bo'lgan, ilgari bo'lmagan
+newly (adv) => yaqinda, yangi tarzda
 
 understand (v) => tushunmoq
 understanding (adj) => tushunadigan
@@ -858,10 +885,16 @@ zip (v) => arxivlamoq
 zipped (adj) => zip qilingan, arxivlangan
 zipper (n) => zamok
 
-manual (adj) => qo'lda bajariladigan
-manual (n) => qo'llanma
-manually (adv) => qo'lda, avtomatik bo'lmagan tarzda
-manuality (n) => qo'lda bajarilish
+manual (n) => qo'llanma, yo'riqnoma, mexanik uzatmali mashina
+manipulation (n) => qo'lda boshqarish, o'z maqsadiga ishlatish, aldab yo'naltirish
+manufacturer (n) => ishlab chiqaruvchi
+manuscript (n) => qo'lyozma
+manipulte (v) => qo'l bilan boshqarmoq, ustalik bilan o'z maqsadiga ishlatmoq, aldab yo'naltirmoq
+manufacture (v) => ishlab chiqarmoq
+manual (adj) => qo'lda bajariladigan, mexanik, qo'l mehnatiga oid
+manipulative (adj) => boshqalarni o'z maqsadiga ishlatadigan
+semi-manual (adj) => yarim qo'lda ishlaydigan
+manually (adv) => qo'lda, avtomatik emas, qo'l bilan
 
 slightly (adv) => biroz, ozgina, salgina
 slight (adj) => ozgina, kichik, arzimas
@@ -898,12 +931,14 @@ ignored (adj) => e'tiborsiz qoldirilgan
 ignorant (adj) => bexabar, bilmaydigan
 ignorantly (adv) => bexabar holda
 
-standard (adj) => standart, odatiy
-standard (n) => standart, mezon
-standardize / standardise (v) => standartlashtirmoq
-standardized / standardised (adj) => standartlashtirilgan
-standardization / standardisation (n) => standartlashtirish
-standardized (adj) => standartlashtirilgan
+standard (n) => me'yor, talab darajasi
+standardization / standardisation (n) => standartlashtirish, bir xil me'yorga keltirish
+substandard (n) => talabdan past darajadagi narsa
+standardize / standardise (v) => standartlashtirmoq, bir xil me'yorga keltirmoq
+standard (adj) => me'yoriy, belgilangan talabga mos, odatiy
+standardized / standardised (adj) => standartlashtirilgan, bir xil me'yor asosida tayyorlangan
+standardizable (adj) => bir xil me'yorga keltirish mumkin bo'lgan
+substandard (adj) => belgilangan talabdan past, sifati talabga javob bermaydigan
 
 help (n) => yordam
 help (v) => yordam bermoq
@@ -1005,11 +1040,14 @@ approachable (adj) => yaqinlashish mumkin bo'lgan, muomila qilish oson bo'lgan, 
 unapproachable (adj) => murojaat qilish qiyin, yaqinlashish qiyin
 approaching (adj) => yaqinlashayotgan, yaqinlashib kelayotgan
 
-harm (v) => zarar yetkazmoq
-harm (n) => zarar
-harmful (adj) => zararli
-harmfully (adv) => zararli tarzda
+harm (n) => zarar, ziyon, shikast
 harmfulness (n) => zararlilik
+harmlessness (n) => zararsizlik
+harm (v) => zarar yetkazmoq, ziyon yetkazmoq, shikastlamoq
+harmful (adj) => zararli, ziyonli
+harmless (adj) => zararsiz, ziyon keltirmaydigan
+harmfully (adv) => zararli tarzda
+harmlessly (adv) => zararsiz tarzda
 
 synthesis (n) => sintez, birlashtirish
 synthesizer (n) => sintez qiluvchi qurilma yoki dastur
@@ -1019,13 +1057,31 @@ synthesize / sintesise (v) => sintez qilmoq, birlashtirmoq, suniy yo'l bilan hos
 synthetic (adj) => sun'iy, sintetik, sintez yo'li bilan hosil qilingan
 synthetically (adv) => suniy yo'l bilan, sintetik tarzda
 
-mind (n) => aql, ong, fikr
+mind (n) => aql, ong, fikr, xayol, fikrlash qobiliyati
+mindfulness (n) => ongli ravishda e'tiborli bo'lish, hushyorlik
+mindedness (n) => fikrlash tarzi, qarash
+absent-mindedness (n) => parishonxotirlik
+narrow-mindedness (n) => tor fikrlilik
+open-mindedness (n) => keng fikrlilik
+single-mindedness (n) => bir maqsadga qat'iy yo'naltirilganlik
+mind (v) => qarshi bo'lmoq, e'tibor bermoq, ehtiyot bo'lmoq
+minded (adj) => ... fikrli / ...ga moyil
+mindful (adj) => e'tiborli, hushyor, ongli ravishda e'tibor beradigan
+mindless (adj) => o'ylamasdan qilinadigan, ma'nosiz, aqlsiz
+absent-minded (adj) => parishonxotir, xayoli boshqa joyda
+narrow-minded (adj) => tor fikrli
+open-minded (adj) => keng fikrli, ochiq fikrli
+single-minded (adj) => bir maqsadga qat'iy yo'naltirilgan
+mindfully (adv) => e'tibor bilan, ongli ravishda
+minlessly (adv) => o'ylamasdan, beparvolik bilan
+absent-mindedly (adv) => parishonxotirlik bilan
 
-mental (adj) => aqliy, fikrlashga oid
-mentally (adv) => aqliy jihatdan
-mentality (n) => mentalitet, fikrlash tarzi
-mentalism (n) => mentalizm / insonning fikrlashi va ruhiy jarayonlarini o‘rganishga asoslangan qarash
-mentalist (n) => mentalizm bilan shug'ullanuvchi
+mentality (n) => mentalitet, fikrlash tarzi, dunyoqarash
+mentailization (n) => ruhiy holatni anglash
+mentalist (n) => mentalist, inson fikrini o'qiy olishni namoyish qiluvchi ijrochi
+mentalize (v) => biror kishining ruhiy holatini anglamoq
+mental (adj) => aqliy, ruhiy, ongga oid
+mentally (adv) => aqliy jihatdan, ruhiy jihatdan
 
 flexibility (n) => egiluvchanlik, moslashuvchanlik
 inflexibility (n) => moslashuvchan emaslik, qat'iylik
@@ -1058,11 +1114,15 @@ below (adj) => quyidagi, pastdagi
 below (n) => pastki qism, quyida keltirilgan narsa
 below (adv) => pastda, quyida
 
-negative (adj) => salbiy, manfiy
-negatively (adv) => salbiy tarzda
-negativity (n) => salbiylik, negativlik
-negate (v) => inkor qilmoq, yo'qqa chiqarmoq
-negation (n) => inkor
+negation (n) => inkor qilish, rad etish, inkor shakli
+negativity (n) => salbiylik, salbiy munosabat
+negator (n) => inkor qiluvchi, biror fikrni rad etuvchi shaxs yoki narsa
+negate (v) => inkor qilmoq, rad etmoq, kuchini yoki ta'sirini yo'qqa chiqarmoq
+negative (adj) => salbiy, inkor qiluvchi, manfiy
+negatory (adj) => inkor qiluvchi, rad etishga oid
+negatable (adj) => inkor qilish yoki yo'qqa chiqarish mumkin bo'lga
+nonnegative (adj) => manfiy bo'lmagan, nol yoki undan katta
+negatively (adv) => salbiy tarzda, inkor tarzida
 
 impact (n) => ta'sir
 impact (v) => ta'sir qilmoq
@@ -1086,9 +1146,19 @@ sticking (adj) => yopishayotgan
 sticky (adj) => yopishqoq
 stickiness (n) => yopishqoqlik
 
-minify (v) => ixchamlashtirmoq
-minification (n) => ixchamlashtirish
-minified (adj) => ixchamlashtirilgan
+minification (n) => kodni ixchamlashtirish, hajmini kichraytirish
+minifier (n) => kodni ixchamlashtiruvchi dastur yoki vosita
+minify (v) => hajmini kichraytirmoq, kodni ixchamlashtirmoq
+minifed (adj) => ixchamlashtirilgan, hajmi kichraytirilgan
+minifiable (adj) => ixchamlashtirish mumkin bo'lgan
+
+minimization (n) => kamaytirish, minimumga tushirish, minimallashtirish
+minimizer (n) => kamaytiruvchi, minimumga tushiruvchi vosita yoki shaxs
+minimalist (n) => soddalik tarafdori, minimalist
+minimize (v) => kamaytirmoq, imkon qadar qisqartirmoq, minimumga tushirmoq
+minimal (adj) => minimal, eng kam, minimum darajadagi
+minimally (adv) => minimal darajada, juda oz miqdorda
+minimalistic (adj) => minimalist uslubdagi, juda sodda
 
 iterate (v) => takroran bajarish, qayta ishlash
 iteration (n) => takroriy bosqich, iteratsiya
@@ -1123,7 +1193,13 @@ interpreter (n) => tarjimon, talqin qiluvchi
 interpretive (adj) => talqinga oid
 interpretively (adv) => talqin jihatidan
 
-mostly => asosan, ko‘pincha, aksariyat hollarda
+most (n) => eng katta qism, ko'p qismi
+more (adj) => qo'shimcha, ko'proq
+most (adj) => eng ko'p, eng katta miqdordagi
+much (adv) => juda, ancha
+more (adv) => ko'proq
+most (adv) => eng, juda, nihoyatda
+mostly (adv) => asosan, ko'pincha, katta qismi
 
 absorb (v) => shimmoq, o'zlashtirmoq
 absorption (n) => shimish, o'zlashtirish
@@ -1134,10 +1210,11 @@ absorbent (n) => shimuvchi material
 absorbingly (adv) => o'ziga tortadigan tarzda
 absorpivity (n) => yutish qobiliyati, shimuvchanlik
 
-squeeze (v) => siqmoq
-squeeze (n) => siqish
-squeezed (adj) => siqilgan
+squeeze (n) => siqish, qisish, siqib chiqarish
+squeezer (n) => siqadigan asbob, siquvchi odam
+squeeze (v) => siqmoq, qisib qo'ymoq, siqib chiqarmoq
 squeezable (adj) => siqish mumkin bo'lgan
+squeezed (adj) => siqilgan, zo'rg'a joylashgan
 
 trace (n) => iz
 trace (v) => izini kuzatmoq
@@ -1170,13 +1247,17 @@ entrance (n) => kirish, kirish joyi, kirish eshigi
 enter (v) => kirmoq, ichkariga kiritmoq, tanlovda qatnashmoq, ma'lumot kiritmoq
 enterable (adj) => kirish mumkin bo'lgan
 
-meaningless (adj) => ma'nosiz, mazmunsiz, ahamiyatsiz
-mean (v) => anglatmoq
-meaning (n) => ma'no
+meaning (n) => ma'no, mazmun, maqsad
+mean (n) => o'rtacha qiymat (matematikada)
+means (n) => vosita, usul, yo'l, boylik, mablag'
+meaningfulness (n) => mazmunlilik
+mean (v) => anglatmoq, ma'no bildirmoq, nazarda tutmoq, niyat qilmoq, olib kelmoq
 meaningful (adj) => mazmunli, ma'noli, ahamiyatli
-meaningfully (adv) => mazmunli tarzda
-meaningless (adj) => ma'nosiz 
-meaninglessness (n) => ma'nosizlik
+meaningless (adj) => ma'nosiz, ahamiyatsiz
+meant (adj) => mo'ljallangan, nazarda tutilgan
+well-meaning (adj) => yaxshi niyatli
+meaingfully (adv) => mazmunli tarzda, ma'noli qilib
+meaninglessly (adv) => ma'nosiz tarzda
 
 outlying (adj) => chetki, boshqalardan uzoq, asosiy guruhdan tashqaridagi
 outlier (n) => cheklanma qiymat, boshqalardan farq qiluvchi narsa
@@ -1266,8 +1347,12 @@ descent (n) => tushib, pastga tushish, pasayish
 descend (v) => pastga tushmoq, pastga tushib bormoq, pasaymoq
 descending (adj) => kamayib borayotgan, pasayuvchi, pastga tushayotgan
 
-obtain (v) => olmoq, qo'lga kiritmoq
-obtainable (adj) => olish mumkin bo'lgan
+obtainability (n) => qo'lga kiriitsh mumkinligi
+obtainer (n) => biror narsani qo'lga kiritiuvchi shaxs
+obtaining (n) => qo'lga kiriitsh, olish jarayaoni
+obtain (v) => qo'lga kiritmoq, ega bo'lmoq, olmoq
+obtainable (adj) => qo'lga kiritish mumkin bo'lgan, olish mumkin bo'lgan
+obtained (adj) => olingan, qo'lga kiritilgan
 
 digit (n) => raqam, barmoq
 digitization / digitisation (n) => raqamli shaklga o'tkazish (hujjat, rasm, ovozni)
@@ -1279,8 +1364,8 @@ digitized (adj) => raqamli shaklga o'tkazilgan
 digitalized (adj) => raqamlashtirilgan, raqamli shaklga o'tkazilgan
 digitally (adv) => raqamli tarzda
 
-hint (n) => ishora, maslahat, kichik yordamchi ma'lumot
-hint (v) => ishora qilmoq
+hint (n) => ishora, maslahat, kichik yordamchi ma'lumot, yo'l-yo'riq, belgi
+hint (v) => ishora qilmoq, shama qilmoq
 
 separator (n) => ajratgich, bo‘luvchi belgi, ajratuvchi
 separation (n) => ajratish, ajralish
@@ -1341,7 +1426,6 @@ acceptant (n) => qabul qiluvchi
 
 so-so => o‘rtacha, unchalik yaxshi emas, na yaxshi na yomon
 
-okay-ish (adj) => o‘rtacharoq, yomon emas, unchalik yaxshi ham emas, bo‘ladi (informal)
 
 excellence (n) => a'lo daraja, mukammallik, yuksak sifat
 excel (v) => a'lo darajada bo'lmoq, ustun bo'lmoq, ajralib turmoq
@@ -1372,11 +1456,6 @@ limited (adj) => cheklangan
 limiting (adj) => cheklovchi
 limitless (adj) => cheksiz
 
-specific (adj) => aniq, muayyan
-specifically (adv) => aniq qilib, xususan
-specificity (n) => aniqlik, o'ziga xoslik
-specify (v) => aniq belgilamoq, ko'rsatmoq
-
 rest (v) => dam olmoq
 rested (adj) => dam olgan, tetik
 resting (adj) => dam olayotgan
@@ -1392,10 +1471,18 @@ conceptual (adj) => tushunchaga oid, konseptual, nazariy
 conceptualized (adj) => tushuncha sifatida shakllantirilgan, konseptualizatsiya qilingan
 conceptually (adv) => tushuncha jihatidan, konseptual jihatdan, nazariy jihatdan
 
-statement (n) => bayonot, bildirilgan fikr, bayon, rasmiy ma'lumot
-state (v) => bayon qimoq, bildirmoq, aniq aytmoq
+state (n) => holat, ahvol, davlat, shtat
+statement (n) => bayonot, bayon, bildirish, fikr
+statehood (n) => davlat maqomi, mustaqil davlat bo'lish holati
+statesman (n) => davlat arbobi
+statelessnes (n) => fuqarosizlik, hech bir davlatga mansub bo'lmaslik
+state (v) => bayon qimoq, ma'lumo qilmoq, aytmoq
+state (adj) => davlatga oid, davlat tomonidan boshqariladigan
 stated (adj) => aytilgan, bayon qilingan, ko'rsatilgan
 unstated (adj) => aytilmagan, ochiq bayon qilinmagan
+stately (adj) => salobatli, viqorli, dabdabali
+stateless (adj) => fuqaroligi bo'lmagan, hech bir davlatga mansub bo'lmagan
+stately (adv) => salobat bilan, viqor bilan
 
 strict (adj) => qat'iy, qattiq, talabchan, aniq rioya qilinadigan
 strictly (adv) => qat'iy ravishda 
@@ -1411,8 +1498,6 @@ positive (adj) => ijobiy, musbat
 rainforcement (n) => mustahkamlash, kuchaytirish
 rainforced (adj) => mustahkamlangan, kuchaytirilgan, yanada tasdiqlangan
 rainforce (v) => mustahkamlamoq, kuchaytirmoq, yanada tasdiqlamoq
-
-heck (n) => lanat, jin ursin, nima balo, axir
 
 feed (n) => yangiliklar lentasi, ma'lumotlar oqimi
 feed (v) => ovqat bermoq, oziqlantirmoq, ma'lumot bermoq, ma'lumot uzatmoq, ma'lumot kiritmoq
@@ -1593,10 +1678,15 @@ track (n) => iz, yo'nalish
 tracker (n) => kuzatuvchi, kuzatuv vositasi
 trackable (adj) => kuzatish mumkin bo'lgan
 
+static (n) => radio yoki aloqa shovqini, harakatsiz holat
 statics (n) => statika
-statistic (n) => statistik ko'rsatkich
-statistical (adj) => statistik
-statistically (adv) => statistik jihatdan
+static (adj) => harakatsiz, o'zgarmaydigan, bir holatda turadigan
+statically (adv) => harakatsiz tarzda, o'zgarmas holatda
+
+statistic (n) => statistik ko'rsatkich, statistik raqam
+statistics (n) => statistika, raqamli ma'lumotlarni yig'ish yoki tahlil qilish sohasi
+statistician (n) => statistika bilan shug'lullanadigan, raqamli ma'lumotlarni tahlil qiladigan mutaxassis
+statistically (adv) => statistik ma'lumotlar asosida, raqamli tahlil nuqtai nazaridan
 
 actual (adj) => haqiqiy, amaldagi, real, aslida mavjud bo‘lgan
 actually (adv) => aslida, haqiqatda, rostdan ham
@@ -1678,9 +1768,16 @@ assign (v) => topshirmoq, biriktirmoq, vazifa bermoq
 assigned (adj) => tayanilgan, biriktirilgan, berilgan
 assignable (adj) => topshiriq biriktirish mumkin bo'lgan
 
-maintenance (n) => texnik xizmat ko'rsatish, saqlash, parvarish qilish
-maintain (v) => saqlab turmoq, texnik xizmat ko'rsatmoq
-maintainable (adj) => oson saqlash mumkin bo'lgan, texnik xizmat ko'rsatish mumkin bo'lgan
+maintenance (n) => saqlash, parvarish, texnik xizmat, aliment (huquqda), ta'minot
+maintainer (n) => saqlovchi, xizmat ko'rsatuvchi, loyihani qo'llab quvvatlovchi
+maintainability (n) => xizmat ko'rsatish qulayligi, qo'llab-quvvatlash osonligi
+maintain (v) => saqlab turmoq, davom ettirmoq, ta'mirlab yoki xizmat ko'rsatib turmoq, qat'iy takidlamoq
+maintainable (adj) => saqlab turish mumkin bo'lgan, qo'llab-quvvatlash oson
+maintained (adj) => parvarishlangan, saqlangan
+unmaintained (adj) => parvarishsiz qolgan, qo'llab-quvvatlanmaydigan
+well-maintained (adj) => yaxshi parvarishlangan
+low-maintenance (adj) => parvarish talab qilmaydigan
+high-maintenance (adj) => juda ko'p e'tibor va parvarish talab qiladigan
 
 cost (n) => xarajat, narx, qiymat, zarar
 costs (n) => xarajatlar, sarf-xarajatlar
@@ -1705,7 +1802,11 @@ addable (adj) => qo'shish mumkin bo'lgan
 opportunity (n) => imkoniyat, qulay fursat
 opportunistic (adj) => vaziyatdan yoki imkoniyatdan intilishga intiladigan
 
+subtlety (n) => nozik jihat, nozik farq, nozik tushuncha
 subtle (adj) => nozik, sezilishi qiyin, darhol bilinmaydigan
+sublte (adj) => ayyor, mohirona
+unsubtle (adj) => oshkora, dag'al, nozik emas
+subtly (adv) => sezilmas tarzda, nozik tarzda
 
 defect (n) => nuqson, kamchilik, buzilish
 defection (n) => boshqa tomonga o'tish, safni o'zgartirish
@@ -1721,7 +1822,12 @@ greatly (adv) => juda, nihoyatda, katta darajada
 overall (adj) => umumiy
 overall (adv) => umuman olganda
 
-meetup (n) => uchrashuv, yig‘ilish, biror mavzu bo‘yicha norasmiy tadbir
+meet (n) => sport musobaqasi
+meeting (n) => uchrashuv, yig'ilish, majlis
+meetup / meet-up (n) => norasmiy uchrashuv, bir guruh odamlarning uchrashuvi
+meet-and-greet (n) => tanishuv uchrashuvi, muxlislar bilan uchrashuv
+meetinghouse (n) => yig'ilish uyi, diniy jamoa yig'iladigan bino
+meet (v) => uchrashmoq, tanishmoq
 
 use (n) => foydalanish, foyda, naf
 user (n) => foydalanuvchi
@@ -1739,11 +1845,15 @@ reusable (adj) => qayta ishlatish mumkin bo'lgan
 usefully (adv) => foydali tarzda
 uselessly (adv) => foydasiz tarzda
 
-
-modify (v) => o'zgartirmoq
-modification (n) => o'zgartirish, modifikatsiya
-modified (adj) => o'zgartirilgan
+modification (n) => o'zgartirish, o'zgartirilgan variant
+modifer (n) => o'zgartiruvchi
+modifiability (n) => o'zgartirish mumkinligi
+unmodifiability (n) => o'zgartirib bo'lmaslik
+modify (v) => o'zgartirmoq, moslashtirmoq, tahrirlamoq
+modified (adj) => o'zgartirilgan, moslashtirilgan
+unmodified (adj) => o'zgartirilmagan, asl holidagi
 modifiable (adj) => o'zgartirish mumkin bo'lgan
+unmodifiable (adj) => o'zgartirib bo'lmaydigan
 
 physically (adv) => jismonan, jismoniy jihatdan, amalda
 physical (adj) => jismoniy, moddiy
@@ -1822,9 +1932,11 @@ reinvent (v) => qaytadan yaratmoq, qayta ixtiro qilmoq
 reinvention (n) => qayta yaratish, qayta ixtiro qilish
 reinvented (adj) => qayta yaratilgan
 
-obvious (adj) => aniq, ravshan, yaqqol, ko'rinib turgan
-obviously (adv) => aniqki, ravshanki, ko'rinib turibdiki
-obviousness (n) => aniqlik, ravshanlik
+obviousness (n) => yaqqollik, ravshanlik, oshkoralik
+obviation (n) => zaruratni yo'qotish, ehtiyojni bartaraf etish
+obviate (v) => zaruratni yo'qotmoq, biror muammoning oldini olib unga ehtiyoj qoldirmaslik
+obvious (adj) => aniq-ravshdan, yaqqol, ko'rinib turgan, shubhasiz
+obviously (adv) => shubhasiz, ravshanki, yaqqol ko'rinib turibdiki
 
 receive (v) => olmoq, qabul qilmoq, qabul qilib olmoq
 reception (n) => qabul qilish, qabulxona, qabul marosimi
@@ -1835,10 +1947,12 @@ receptive (adj) => qabul qilishga tayyor, ochiq
 receptively (adv) => ochiq yoki qabul qilishga tayyor tarzda
 receptiveness (n) => qabul qilishga tayyorgarlik
 
-mention (v) => tilga olmoq, eslatib o'tmoq, aytib o'tmoq
 mention (n) => eslatish, tilga olish
-mentioned (adj) => tilga olingan
+mentioner (n) => tilga oluvchi
+unmentionability (n) => tilga olib bo'lmaslik, aytishga noqulaylik holati
+mention (v) => tilga olmoq, eslatib o'tmoq, aytib o'tmoq
 mentionable (adj) => tilga olish mumkin bo'lgan
+unmentionable (adj) => tilga olish noqulay yoki uyatli bo'lgan, tilga olib bo'lmaydigan
 
 type (n) => turli xil, tip, shrift
 typing (n) => matn terish, klaviaturada yozish
@@ -2059,8 +2173,9 @@ nickel (n) => AQSH dagi 5 sentlik tanga
 dime (n) => AQShdagi 10 sentlik tanga
 quarter (n) => AQSH dagi 25 sentlik tanga
 
-input (n) => kiritilgan ma’lumot, kirish ma’lumoti
-input (v) => kiritmoq
+input (n) => kiritilgan ma’lumot, kirish ma’lumoti, hissa, fikr
+inputter (n) => ma'lumot kirituvchi
+input (v) => ma'lumot kiritmoq, fikr yoki hissa qo'shmoq
 
 output (n) => chiqish ma'lumoti, natija
 output (v) => chiqarmoq, natija sifatida bermoq
@@ -2093,20 +2208,16 @@ adopted (adj) => asrab olingan, qabul qilingan, o'zlashtirilgan
 adoptive (adj) => asrab oluvchi, farzandlikka olgan
 adopter (n) => biror narsani qabul qiluvchi yoki o'zlashtiruvchi
 
-sub-point => kichik band, asosiy punktning ichidagi kichik nuqta/band
-
-key point => asosiy/muhim fikr
-
-subproblem => kichik muammo
-
-subcategory => kichik kategoriya
-substring => startning bir qismi
-subsection => kichik bo'lim
-
 set (v) => qo'ymoq, o'rnatmoq, belgilamoq
 set (n) => to'plam
 
-obscure => kam ma’lum, noma’lum, ko‘pchilikka tanish bo‘lmagan
+obscurity (n) => noaniqlik, noma'lumlik, tushunarsizlik
+obscurement (n) => yashirish, ko'rinishini to'sish
+obscurant (n) => bilim yoki tushunishni ataylab cheklovchi 
+obscurantism (n) => bilim va ma'rifatni cheklashga intilish
+obscure (v) => noaniq qilib qo'ymoq, yashirmoq, ko'rinishini to'smoq
+obscure (adj) => noaniq, tushunish qiyin, noma'lum, ko'zga tashlanmaydigan
+obscurely (adv) => noaniq tarzda, tushunarsiz tarzda
 
 brute (n) => qo'pol odam, vaxshiy odam, kuchli va shafqatsiz odam
 brutality (n) => shafqatsizlik, vahshiylik, qo'pollik
@@ -2117,7 +2228,9 @@ brutal (adj) => shafqatsiz, vahshiy, juda qattiq, ayovsiz
 brutalized (adj) => shafqatsiz munosabatga uchragan, vahshiylarcha muomala qilingan
 brutally (adv) => shafqatsizlarcha, qo'pol tarzda, juda keskin tarzda
 
-straightforward => to‘g‘ridan-to‘g‘ri, sodda, tushunarli, murakkab bo‘lmagan
+straighforwardness (n) => soddalik, ochiqlik, to'g'ridan-to'g'rilik
+straightforward (adj) => oddiy va tushunarli, to'g'ridan-to'g'ri, murakkab bo'lmagan
+straighforwardly (adv) => to'g'ridan-to'g'ri, ochiqchasiga, sodda tarzda
 
 triviality (n) => arzimaslik, ahamiyatsizlik, arzimas narsa
 trivialization (n) => ahamiyatini pasaytirish, arzimas deb ko'rsatish
@@ -2140,9 +2253,15 @@ prevention (n) => oldini olish
 preventive / preventative (adj) => oldini oluvchi, profilaktik
 preventively (adv) => oldini olish maqsadida
 
-measure (n) => chora, tadbir
-measure (n) => o'lchove, o'lcham, o'lchov birligi
-measure (v) => o'lchamoq
+measure (n) => o'lchov, o'lchash, chora, tadbir
+measurement (n) => o'lchov, o'lchash natijasi, o'lchash jarayoni
+measurer (n) => o'lchovchi, o'lchaydigan shaxs
+measure (v) => o'lchamoq, o'lchab aniqlamoq
+measured (adj) => o'lchangan, vazmin, bosiq
+measurable (adj) => o'lchanadigan, o'lchab bo'ladigan
+immeasurable (adj) => o'lchab bo'lmaydigan, behisob
+measurably (adv) => o'lchab bo'ladigan darajada
+immeasurably (adv) => o'lchab bo'lmaydigan darajada
 
 cheat (n) => aldov, firibgarlik, qoidani buzib ustunlikka erishish
 cheater (n) => aldovchi, qoidabuzar, ko'chiruvchi
@@ -2151,9 +2270,6 @@ cheat (v) => aldamoq, qoidani buzib foyda olmoq, ko‘chirmoq
 cheated (adj) => aldangan, haqqi paymol qilingan
 cheating (adj) => aldaydigan, qoidani buzadigan
 cheatable (adj) => aldash mumkin bo'lgan, qoidani buzish yoki chetlab o'tish mumkin bo'lgan
-
-nuance (n) => nozik farq, nozik jihat, mayda tafovut
-nuanced (adj) => nozik farqlarni hisobga olgan, nozik
 
 fact (n) => fakt, haqiqat, isbotlangan narsa
 factuality (n) => faktikligi, haqiqatga mosligi
@@ -2212,7 +2328,15 @@ chuckled (adj) => kulgan, ichidan kulgan
 
 screenful (n) => bir ekranlik miqdor, ekranga sig‘adigan miqdor
 
+sufficiency (n) => yetarlilik, ta'minlanganlik
+insufficiency (n) => yetishmovchilik
+self-sufficiency (n) => o'zini o'zi ta'minlash
 suffice (v) => yetarli bo'lmoq, kifoya qilmoq
+sufficient (adj) => yetarli, kifoya qiladigan
+insufficient (adj) => yetarli bo'lmagan, kam
+self-sufficient (adj) => o'zini-o'zi ta'minlaydigan
+sufficiently (adv) => yetarli darajada
+insufficiently (adv) => yetarli bo'lmagan darajada
 
 scan (v) => tezda ko‘zdan kechirmoq, tekshirib chiqmoq, skanerlamoq
 scanner (n) => skaner, tekshiruvchi qurilma
@@ -2232,8 +2356,17 @@ undertaking (n) => zimmasiga olingan ish yoki majburiyat
 undertaker (n) => dafn marosimlarini tashkil qiluvchi shaxs
 undertake (v) => zimmasiga olmoq, bajarishga kirishmoq
 
-illegal (adj) => noqonuniy
-legal (adj) => huquqiy, yuridik, qonuniy
+legal (adj) => qonuniy, qonunga muvofiq, huquqiy
+legality (n) => qonuniylik
+illegality (n) => noqonuniylik, qonunga xiloflik
+paralegal (n) => yurist yordamchisi, huquqiy ishlar bo'yicha mutaxassis
+legalize (v) => qonuniylashtirmoq, qonuniy deb tan olmoq
+legalization (n) => qonuniylashtirish
+legalized (adj) => qonuniylashtirilgan
+legalizable (adj) => qonuniylashtirish mumkin bo'lgan
+illegal (adj) => noqonuniy, qonunga xilof
+legally (adv) => qonuniy ravishda, qonun bo'yicha
+illegally (adv) => noqonuniy ravishda
 
 fuss (n) => shov-shuv, ortiqcha tashvish, bejiz janjal
 fussiness (n) => injiqlik, talabchanlik, mayda-chuydaga yopishib olish
@@ -2269,11 +2402,6 @@ advanced (adj) => ilg‘or, yuqori darajadagi
 advancement (n) => rivojlanish jarayoni, taraqqiyot, ilgarilash, lavozimda ko'tarilish
 advancing (adj) => rivojlanib borayotgan, oldinga siljiyotgan
 
-specified (adj) => belgilangan, aniq ko'rsatilgan
-specify (v) => aniq ko'rsatmoq, belgilamoq
-
-mistake (n) => xato
-
 competion (n) => tugatish, yakunlash, tugallash
 completeness (n) => to'liqlik, mukammallik
 complete (v) => tugatmoq, yakunlamoq, to'ldirmoq
@@ -2281,8 +2409,6 @@ complete (adj) => to'liq, butun, mukammal, tugallangan
 competed (adj) => tugallangan, yakunlangan, to'ldirilgan
 completely (adv) => butunlay, to‘liq, tamoman, mutlaqo
 completeable (adj) => tugatish mumkin bo'lgan, yakunlash mumkin bo'lgan
-
-state (v) => bayon qilmoq, aytmoq, ma'lum qilmoq
 
 otherwise => boshqacha, aks holda, bo'lmasa, bundan tashqari, boshqa jihatdan
 
@@ -2318,16 +2444,29 @@ situational (adj) => vaziyatga oid
 
 per se => o‘z-o‘zidan, o‘zi alohida, o‘z mohiyatiga ko‘ra
 
-stress (n) => stress, bosim
-stressful (adj) => stressli, asabiylashtiradigan
-stressed (adj) => stressda, bosim ostida
+stress (n) => ruhiy zo'riqish, stress, bosim, urg'u
+stressfulness (n) => stresslilik
+stressor (n) => stress keltirib chiqaruvchi omil
+stress (v) => stressga solmoq, urg'u bermoq, ta'kidlamoq
+stressed (adj) => stresga tushgan, zo'riqqan, urg'u berilgan
+stressful (adj) => stressli, asabiylashtiradigan, asabiy zo'riqish keltiradigan
+stress-free (adj) => stresssiz, tashvishsiz
+stressfully (adv) => stressli tarzda
 
 substring (n) => qism-satr, satr ichidagi qism
+string (n) => ip, arqon
+stringency (n) => qat'iylik, qattiqqo'llik
+dawstring (n) => tortma ip (xalta yoki shimdagi)
+shoetring (n) => tasma, bog'ich, juda oz mablag'
+bowstring (n) => kamon tori
+string (v) => ipga tizmoq, ip tortmoq, ketma-ket joylashtirmoq
+stringy (adj) => tolali, ipsimon
+stringed (adj) => torli
+stringent (adj) => qattiq, qat'iy
+stringently (adv) => qat'iy ravishda
 
 pass (n) => ruxsatnoma, yo'llanma
 pass (v) => uzatmoq, o'tmoq
-
-leading (adj) => boshidagi, boshida keladigan, oldinda turadigan.
 
 excess (n) => ortiqcha miqdor, ortiqchalik, me'yordan ortiq miqdor
 excess (adj) => ortiqcha, me'yordan ko'p
@@ -2336,7 +2475,9 @@ excessively (adv) => haddan tashqari, me'yordan ortiq darajada
 
 restriction (n) => cheklovlar, taqiqlar, cheklashlar.
 restrict (v) => cheklamoq
+restrictive (adj) => cheklovchi, cheklaydigan
 restricted (adj) => cheklangan
+restrictively (adv) => cheklovchi tarzda
 
 externalization / externalisation (n) => tashqariga chiqarish, ifodalash, tashqi tizimga o'tkazish
 externality (n) => tashqi ta'sir
@@ -2362,16 +2503,20 @@ accessibility (n) => kirish yoki foydalanish qulayligi va imkoniyati
 accessibly (adv) => foydalanish mumkin bo'lgan tarzda, kirish mumkin bo'lgan tarzda
 inaccessibly (adv) => kirish imkoni bo'lmagan tarzda, foydalanib bo'lmaydigan tarzda
 
-obvious (adj) => aniq, yaqqol
-abviously => aniqki, yaqqol ravishda, albatta, ko'rinib turibdiki
-
 formulation (n) => shakllantirish, ishlab chiqish, aniq ifodalash yoki tuzish
 reformulation (n) => qayta shakllantirish, qayta tuzish
 formulate (v) => shakllantirmoq, ishlab chiqmoq, aniq qilib tuzmoq
 reformulate (v) => qayta shakllantirmoq, qayta tuzmoq, boshqacha ifodalamoq
 formulated (adj) => shakllantirilgan, ishlab chiqilgan, aniq tuzilgan
 
-noticeable (adj) => eziladigan, ko‘zga tashlanadigan, yaqqol bilinadigan.
+notice (n) => e'lon, xabarnoma, ogohlantirish, payqash
+noticer (n) => payqovchi, biror narsani sezadigan odam
+noticeability (n) => sezilarlilik, payqalish darjasi
+notice (v) => payqamoq, sezmoq, e'tibor bermoq, xabar bermoq
+noticeable (adj) => sezilarli, yaqqol ko'rinadigan, osongina payqaladigan
+unnoticable (adj) => sezilmaydigan, payqash qiyin bo'lgan
+unnoticed (adj) => payqalmagan, sezilmay qolgan
+noticeably (adv) => sezilarli darajada, yaqqol ravishda
 
 commercial (n) => reklama, reklama roligi, tijoriy e'on
 commercialization (n) => tijoratlashtirish, tijoratga chiqarish
@@ -2414,7 +2559,17 @@ inconstant (adj) => o'zgaruvchan, beqaror, doimiy bo'lmagan
 constantly (adv) => doimiy ravishda, tinmay, uzluksiz
 inconstantly (adv) => o'zgaruvchan tarzda, beqaror tarzda
 
-large chunks => katta qismlar, katta bo'laklar
+largeness (n) => kattalik, yiriklik
+enlargement (n) => kattalashtirish, kengaytirish
+enlarge (v) => kattalashtirmoq, kengaytirmoq
+large (adj) => katta, yirik, ko'p miqdordagi
+enlarged (adj) => kattalashtirilgan, kattalashgan
+largely (adv) => asosan, katta darajada
+
+chunk (n) => katta bo'lak, parcha, bir qism
+chunkiness (n) => yirik bo'laklilik, yo'g'onlik
+chunk (v) => bo'laklarga ajratmoq
+chunky (adj) => yirik bo'lakli, yo'g'on, baquvvat
 
 shape (n) => shakl, format
 shape (v) => shakllantirmoq, shakl bermoq
@@ -2518,11 +2673,12 @@ exist (v) => mavjud bo'lmoq, mavjud bo'lib turmoq
 existing (adj) => mavjud, allaqachon mavjud bo'lgan
 existent (adj) => mavjud, bor bo'lgan
 
-strengthen (v) => mustahkamlamoq, kuchaytirmoq
-strength (n) => kuch, mustahkamlik
-
-strongly (adv) => kuchli tarzda
-strong (adj) => kuchli
+strength (n) => kuch, quvvat, mustahkamlik
+strengthening (n) => kuchaytirish, mustahkamlash
+stronghold (n) => qal'a, tayanch, mustahkam joy, tayanch hudud
+strengthen (v) => kuchaytirmoq, mustahkamlamoq
+strong (adj) => kuchli, baquvvat, mustahkam
+strongly (adv) => kuchli tarzda, qat'iy ravishda
 
 ensure (v) => ta’minlamoq, ishonch hosil qilmoq, kafolatlamoq
 insure (v) => sug'urtalamoq
@@ -2553,8 +2709,18 @@ uncooperative (adj) => hamkorlik qilmaydigan, qarshilik qiladigan
 cooperatively (adv) => hamkorlikda, hamkorlik ruhida
 uncooperatively (adv) => hamkorlik qilmasdan, istamay
 
-mature (adj) => yetuk, ulg'aygan, oqilona
-immature (adj => bolalarcha, yetuk emas
+mature (v) => voyaga yetmoq, kamolga yetmoq, pishib yetilmoq
+maturity (n) => voyaga yetkanlik, yetuklik, to'lov muddati (moliyada)
+maturation (n) => yetilish, kamolga yetish jarayoni
+immaturily (n) => yetilmaganlik, bolalarcha xatti-harakat
+mature (adj) => voyaga yetgan, yetuk, aqli raso, pishgan (pishloq, vino), kattalarga mo'ljallangan
+immature (adj) => yetilmagan, bolalarcha
+premature (adj) => muddatidan oldingi, erta
+maturing (adj) => yetilib kelayotgan
+maturely (adv) => yetuk tarzda, aqlli, vazmin
+immaturely (adv) => bolalarcha, yetilmagan tarzda
+prematurely (adv) => muddatidan oldin, vaqtidan erta
+
 
 present (n) => sovg'a, hozirgi lahza
 present (adj) => hozir bo'lgan, hozirgi(ayni paytdagi)
@@ -2599,9 +2765,15 @@ warningly (adv) => ogohlantirgan holda, ogohlantirib
 rely on => tayanmoq, ishonmoq, suyanmoq
 relying on => ...ga tayanish
 
-milestone (n) => muhim bosqich, muhim natija, katta qadam.
+milestone (n) => muhim bosqich, muhim voqea, katta yutuq
+milestoning (n) => muhim bosqichlarni belgilash
+milestone (adj) => muhim bosqichga oid, burilish yasovchi
+milestoned (adj) => muhim bosqich sifatida belgilangan
 
-major => mutaxassislik 
+major (n) => asosiy mutaxassislik qilib o'qimooq
+majority (n) => ko'pchilik, aksariyat, voyaga yetish
+major (adj) => asosiy, katta, muhim
+majorly (adv) => juda, katta darajada
 
 graduate (n) => bitiruvchi
 graduation (n) => bitirish, bitiruv marosimi
@@ -2617,8 +2789,6 @@ experienced (adj) => tajribali, malakali
 inexperienced (adj) => tajribasiz, malakasi yetarli bo'lmagan
 experiental (adj) => tajriba orqali olingan
 experientially (adv) => tajriba orqali, tajribaga asoslangan holda
-
-mention => eslatmoq, aytib o'tmoq
 
 requirement => talab
 
@@ -2637,11 +2807,15 @@ complexify (v) => murakkablashtirmoq
 complex (adj) => murakkab, chalkash, ko'p qirrali
 complexly (adv) => murakkab tarzda (narsa tuzilishiga nisbatan)
 
-necessity (n) => zarurat, ehtiyoj
-unnecessariness (n) => zarur emaslik
-necessary (adj) => zarur, kerakli, shart
-unnecessary (adj) => keraksiz, zarur bo'lmagan, ehtijoy bo'lmagan
-necessarily (adv) => zarur ravishda, albatta
+necessitation (n) => zarur qilish, majbur etish
+necessitousness (n) => muhtojlik, ehtiyojmandlik
+necessity (n) => zarurat, ehtiyoj, majburiylik
+necessitate (v) => zarur qilmoq, majbur qilmoq, talab qilmoq
+necessary (adj) => zarur, kerakli, shart bo'lgan
+unnecessary (adj) => keraksiz, zarur bo'lmagan
+necessitous (adj) => muhtoj, ehtiyojmand
+necessitated (adj) => zarurat tufayli yuzaga kelgan, talab qilingan
+necessarily (adv) => muqarrar ravishda, zarur ravishda
 unnecessarily (adv) => keraksiz ravishda, ortiqcha tarzda
 
 quite (adv) => ancha/anchagine
@@ -2681,15 +2855,25 @@ inconsiderately (adv) => e'tiborsiz tarzda, boshqalarni hisobga olmay
 
 remain (v) => qolmoq, saqlanib qolmoq
 
-once => bir marta 
-once + gap => ...gach / ...bilanoq / ...gandan keyin
-once + past event => bir paytlar
+once (n) => bir martalik holat yoki imkoniyat
+once-over (n) => tezkor ko'zdan kechirish, yuzaki tekshiruv
+once-over (v) => tezdan ko'zdan ko'chirmoq
+once (adv) => bir marta, bir paytlar, bir mahal, endi ...qilgach, endi ...bo'lgach
 
 outdated => eskirgan, zamonaviy emas, endi amalda bo‘lmagan degani.
 
-necessary (adj) => kerakli, lozim, zarur
-
-need (v) => kerak bo'lmoq , muhtoj bo'lmoq
+need (n) => ehtiyoj, zarurat, kerakli narsa
+needy (n) => muhtoj odamlar
+neediness (n) => muhtojlik, haddan tashqari e'tibor yoki yordamga ehtiyoj
+needfulness (n) => zarurlik
+need (v) => kerak bo'lmoq, muhtoj bo'lmoq
+needy (adj) => muhtoj, yordamga juda ehtiyojmand
+needful (adj) => zarur, kerakli
+needless (adj) => keraksiz, ortiqcha
+unneeded (adj) => kerak bo'lmagan, keraksiz
+need-based (adj) => ehtiyojga asoslangan
+needfully (adv) => zarur tarzda
+needlessly (adv) => keraksiz ravishda, ortiqcha tarzda
 
 exactness (n) => aniqlik, to'g'rilik
 exactitude (n) => aniqlik, puxtalik
@@ -2701,8 +2885,6 @@ inexact (adj) => noaniq, taxminiy
 exactly (adv) => aynan, aniq, huddi o'sha, aynan shunday
 inexactly (adv) => noaniq tarzda
 
-specific (adj) => aniq, muayyan, ma'lum bir
-
 preferred (adj) => avfzal, ma'qul ko'rilgan
 
 adjustment (n) => moslashtirish, sozlash, o'zgartirish
@@ -2711,9 +2893,6 @@ adjustable (adj) => sozlanadigan, moslashtiriladigan
 adjusted (adj) => sozlangan, moslashtirilgan, o'zgartirib mos qilingan
 
 revise => qayta ko‘rib chiqmoq, o‘zgartirmoq
-
-need (v) => kerak bo'lmoq
-need to + V1 => ... qilishi kerak bo'lmoq
 
 advantage (n) => afzallik, ustunlik, foydali tomon
 advantageous (adj) => foydali, manfaatli, qulay
@@ -2751,9 +2930,24 @@ following (n) => quyidagilar, ergashuvchilar, tarafdorlar
 follow (v) => ergashmoq, kuzatmoq, amal qimoq
 following (adj) => quyidagi, keyingi
 
-specifically (adv) => aynan, xususan, aniq qilib aytganda 
+specific (n) => muayyan narsa yoki tur
+specificity (n) => aniqlik, konkretlik, o'ziga xoslik darajasi
+specifics (n) => aniq tafsilotlar, batafsil ma'lumotlar
+specification (n) => aniq talab yoki shart, texnik tavsif
+specifier (n) => aniq belgilovchi
+specifiability (n) => aniq belgilash mumkinligi
+specificness (n) => aniqlik, konkretlik
+unspecifiability (n) => aniq belgilab bo'lmaslik
+specify (v) => aniq ko'rsatmoq, belgilamoq
 specific (adj) => aniq, muayyan, konkret 
-specificity (n) => aniqlik, o'ziga xoslik
+unspecific (adj) => aniq bo'lmagan, umumiy
+nonspecific (adj) => muayyan bir narsaga xos bo'lmagan
+unspecified (adj) => aniq ko'rsatilmagan, belgilanmagan
+specifable (adj) => aniq ko'rsatish yoki belgilash mumkin bo'lgan
+unspecifiable (adj) => aniq belgilab bo'lmaydigan
+specifically (adv) => aynan, xususan, aniq qilib
+unspecifically (adv) => aniq ko'rsatmasdan
+nonspecifically (adv) => muayyan narsaga xos bo'lmagan tarzda
 
 theory (n) => nazariya
 theorist (n) => nazariyachi
@@ -2761,8 +2955,6 @@ theorization / theorisation (n) => nazariyani ishlab chiqish, nazarishlashtirish
 theorize / theorise (v) => nazariya yaratmoq, nazariy jihatdan tushuntirmoq, faraz qilmoq
 theoretical (adj) => nazariy, nazariyaga oid
 theoretically (adv) => nazariy jihatdan, nazariy tomondan
-
-knowledge (n) => bilim
 
 slightly (adv) => biroz, sal, ozgina, birozgina
 
@@ -2775,8 +2967,6 @@ pretty (adv) => ancha, anchagina, juda
 
 through (adv) => orqali, ichidan, oxirigacha
 throughout (adv) => butun davomida, hamma joyida, har bir qismida
-
-no longer (adverbial phrase) => endi ... emas, boshqa ... emas, avvalgidek ... emas (formal. odatda fe'ldan oldin keladi)
 
 anymore (adv) => endi, bundan buyon, boshqa ... emas, endi ...emas
 
@@ -2792,14 +2982,26 @@ a.m. [ante meridiem] => tushgacha
 p.m. [post meridiem] => tushdan keyin
 a.k.a. [also known as] => boshqacha nomi bilan
 
+involvement (n) => ishtirok, jalb qilinish, aralashuv
 involve (v) => jalb qilmoq, o‘z ichiga olmoq, bog‘liq bo‘lmoq
+involved (adj) => jalb qilingan, aralashgan, bog'liq
+uninvolved (adj) => ishtirok etmaydigan, aralashmagan
 
 primarily (adv) => asosan, birinchi navbatda, eng avvalo degani.
 
-success (n) => muvaffaqiyat
+success (n) => muvaffaqiyat, omad, muvaffaqiyatli odam yoki narsa
+succeed (v) => muvaffaqiyatga erishmoq, o'rnini egallamoq
 successful (adj) => muvaffaqiyatli
+unseccessful (adj) => muvaffaqiyatsiz
 successfully (adv) => muvaffaqiyatli ravishda
-succeed => muvaffaqiyatga erishmoq, uddalamoq, muvaffaqiyatli bo'lmoq
+unsuccessfully (adv) => muvaffaqiyatsiz holda
+
+succession (n) => ketma-ketlik, vorislik, merosxo'rlik, taxt merosi
+successor (n) => vorisi, o'rniga keluvchi
+predecessor (n) => o'zidan oldingi shaxs, salaf
+succeed (v) => o'rnini egallamoq
+successive (adj) => ketma-ket keluvchi
+successively (adv) => ketma-ket
 
 feasibility (n) => amalga oshirish mumkinligi, bajarish imkoniyati
 infeasibility (n) => amalga oshirib bo'lmaslik, bajarish imkonining yo'qligi
@@ -2837,13 +3039,24 @@ humble (v) => kamtar qilmoq, kibrini tushirmoq, o'zining ojizligi yoki chegarasi
 humble (adj) => kamtar, tavoze'li, oddiy, dabdabali bo'lmagan
 humbly (adv) => kamtarlik bilan, tavoze bilan
 
-stranger => begona yoki notanish odam
+stranger (n) => notanish odam, begona
+strangeness (n) => g'alatilik, noodatiylik
+strange (adj) => g'alati, noodatiy, notanish
+strangely (adv) => g'alati tarzda, ajablanarli tarzda
 
 witness (n) => guvoh (odam), guvohlik, dalil
 eyewitness (n) => ko'z bilan ko'rgan guvoh, voqea guvohi
 witness (v) => guvoh bo'lmoq, ko'rmoq, guvoh sifatida imzolab tasdiqlamoq
 
-negotiation => muzokara, kelishuvga erishish uchun olib boriladigan suhbat
+negotiation (n) => muzokara, kelishuvga erishish uchun olib boriladigan suhbat yoki jarayon
+negotiator (n) => muzokarachi, kelishuv bo'yicha muzokara olib boruvchi shaxs
+negotiating (n) => muzokara olib borish
+negotiability (n) => kelishish yoki o'zgartirish mumkinligi
+negotiate (v) => muzokara olib bormoq, kelishuvga erishish uchun gaplashmoq
+negotiable (adj) => kelishib o'zgartirish mumkin bo'lgan
+non-negotiable (adj) => muhokama qilib o'zgartirib bo'lmaydigan, qat'iy
+negotiated (adj) => kelishilgan, muzokara orqali hal qilingan
+negotiably (adv) => muzokara orqali, kelishish mumkin bo'lgan tarzda
 
 terrificness (n) => ajoyiblik, zo'rlik
 terrific (adj) => ajoyib, zo‘r, juda yaxshi
@@ -2917,9 +3130,25 @@ wavy (adj) => to'lqinsimon, jingalak, egri-bugri
 waveing (adj) => ikkilanayotgan, tebranayotgan
 wavily (adv) => to'lqinsimon tarzda
 
-loathe => juda yomon ko‘rmoq, jirkanmoq, nafratlanmoq.
+loathing (n) => qattiq nafrat, jirkanish
+loathe (v) => juda qattiq yomon ko'rmoq, jirkanmoq
+loathing (adj) => qattiq nafrat, jirkanish bildiruvchi
+loathingly (adv) => qattiq nafra yoki jirkanish bilan
 
-mortify => juda qattiq uyalishga majbur qilmoq, sharmanda qilmoq, qattiq xijolatga solmoq
+hypocrisy (n) => ikkiyuzlamachilik, riyokorlik
+hypocrite (n) => ikkiyuzlamachi, riyokor
+hypocriticalness (n) => ikkiyuzlamachilik
+hypocritical (adj) => ikkiyuzlamachilik, riyokor, ikkiyuzlamachilikka xos
+hypocritically (adv) => ikkiyuzlamachilik bilan, riyokorona
+
+mortification (n) => qattiq uyat, kuchli xijolat, sharmandalik
+mortifier (n) => qattiq xijolatga soluvchi odam yoki narsa
+mortify (v) => qattiq uyaltirmoq, sharmanda qilmoq, juda xijolatga solmoq
+mortifiable (adj) => xijolatga solish mumkin bo'lgan
+mortified (adj) => qattiq uyalgan, juda xijolat bo'lgan
+mortifying (adj) => juda uyaltiradigan, o'ta xijolatli
+mortifyingly (adv) => juda xijolatli tarzda
+mortifiedly (adv) => xijolat bo'lgan holda
 
 participle => sifatdosh. (Ya’ni fe’ldan yasalib, sifat vazifasida yoki fe’lning grammatik shakli sifatida ishlatiladigan shakl.)
 
@@ -2944,9 +3173,17 @@ rampage => g‘azab bilan nazoratni yo‘qotib, vayronagarchilik yoki zo‘ravon
 
 ravage => qattiq vayron qilmoq, xarob qilmoq, katta zarar yetkazmoq
 
-heed => e’tibor bermoq, quloq solmoq, ogohlantirishni jiddiy qabul qilmoq
+heed (n) => e'tibor, quloq solish
+heedlessness (n) => e'tiborsizlik
+heed (v) => e'tibor bermoq, quloq solmoq, gapiga amal qimoq
+heedless (adj) => e'tiborsiz, ogohlantirishga quloq solmaydigan
+heedlessly (adv) => e'tiborsiz tarzda
 
-subdue => bo‘ysundirmoq, taslim qilmoq, jilovlamoq
+subduer (n) => bo'ysindiruvchi
+subdue (v) => bo‘ysundirmoq, taslim qilmoq, jilovlamoq
+subdue (v) => bosmoq, susaytirmoq (his-tuyg'uni)
+subdued (adj) => bosiq, sust, past ovozli, xira, yumshoq
+subduable (adj) => bo'ysundirsa bo'ladigan
 
 vault (n) => seyf, pul yoki qimmatbaho narsalar saqlanadigan joy yoki xona
 
@@ -3015,10 +3252,12 @@ abnormality (n) => g'ayritabiiylik, me'yordan chetga chiqish
 abnormal (adj) => g'ayritabiiy, me'yordan tashqari, odatdagidan chetga chiqqan
 abnormally (adv) => g'ayritabiiy tarzda, me'yordan tashqari ravishda
 
+normal (n) => odatiy yoki me'yoriy holat, me'yor
 normality (n) => me'yoriylik, odatiylik
 normalization (n) => me'yorlashtirish, normallashtirish
 normalize (v) => me'yorlashtirmoq, normallashtirmoq
-normal (adj) => normal, me'yoriy
+normalized (adj) => me'yorlashtirilgan, normal holatga keltirilgan
+normal (adj) => normal, me'yoriy, normal, g'ayritabiiy bo'lmagan
 normally (adv) => odatda, normal tarzda
 
 breast (n) => ko‘krak, ayol ko‘kragi, ko'krak bezi
@@ -3026,9 +3265,22 @@ breastfeeding (n) => emizish, bolani emizish
 breast (v) => qarshi turmoq, mardona qarshilamoq, ko'krak bilan qarshilamoq
 breastfeed (v) => emizmoq, bolani emizmoq
 
-sunbathe => quyoshda toblanmoq
-
-sunbathing => quyoshda toblanish
+sun (n) => quyosh
+sunscreen (n) => quyoshdan himoya kremi
+sunlight (n) => quyosh nuri
+sunshine (n) => quyosh nuri, quyoshli ob-havo
+sunrise (n) => quyosh chiqishi, tong shafaqi
+sunset (n) => quyosh botishi, shom
+sunburn (n) => quyoshdan kuyish
+sunbath (n) => quyosh vannasi, quyoshda toblanish
+suntan (n) => qoraygan teri, toblangan rang
+sunbather (n) => quyoshda toblanuvchi
+sunbathing (n) => quyoshda toblanish
+sunbathe (v) => quyoshda toblanmoq
+sun (v) => quyoshda isinmoq, quyoshga yoymoq
+sunny (adj) => quyoshli, ochiq
+sunburnt / sunburned (adj) => quyoshdan kuygan
+suntanned (adj) => quyoshdan qoraygan
 
 slender => ozg‘in, ingichka, nozik qomatli.
 
@@ -3047,23 +3299,29 @@ atticky (adj) => chordoqqa o'xshash, chordoqsimon
 
 puberty => balog‘at davri, jinsiy yetilish davri.
 
-happiness => baxt, baxtiyorlik, xursandchilik
+harmony (n) => uyg‘unlik, hamjihatlik, totuvlik
+disharmony (n) => uyg'unsizlik, kelishmovchilik, nomutanosiblik
+harmonization / harmonisation (n) => uyg'unlashtirish, muvofiqlashtirish
+harmonize / harmonise (v) => uyg'unlashtirmoq, uyg'unlashmoq
+harmonious (adj) => uyg'un, hamjihat, totuv
+disharmonious (adj) => uyg'un bo'lmagan, kelishmovchilikdagi
+harmoniously (adv) => uyg'un tarzad, hamjihatlik bilan
 
-necessitate => zarurat tug‘dirmoq, talab qilmoq
-
-harmony => uyg‘unlik, hamjihatlik, totuvlik, muvofiqlik.
-
-mope (n) => xafa yoki tushkun holat
-mope (v) => xafa bo'lib yurmoq, tushkun yurmoq, kayfiyatsiz yurmoq
-mopish (adj) => tushkun, kayfiyatsiz
-mopingly (adv) => tushkun yoki kayfiyatsiz tarzda
+mope (n) => tushkun holat, xafa bo'lib yurish
+moper (n) => tushkun yuradigan odam
+mopiness (n) => tushkunlik, xomushlik
+mope (v) => tushkun yurmoq, xafa bo'lib, hech narsa qilmay yurmoq
+mopy (adj) => tushkun, xomush
+mopily (adv) => tushkun tarzda
 
 destiny (n) => taqdir, qismat, peshona
 destination (n) => borish joyi, manzil, yetib boriladigan joy
 destine (v) => taqdir qilmoq, m'ljallab qo'ymoq
 destined (adj) => taqdirda bitilgan, mo'ljallangan
 
-suite => mehmonxonadagi bir nechta xonadan iborat maxsus xona / lyuks
+suite (n) => xonalar to'plami (mexmonxonadagi lyuks xona), mebellar to'plami, dasturlar to'plami
+suite (n) => o'zaro bog'liq dasturlar to'plami (kompyuterda: Microsoft Office)
+suite (n) => hamrohlar, ko'chib yuruvchilar
 
 honeymoon (n) => asal oyi, nikohdan keyingi sayohat yoki dam olish davri
 honeymooner (n) => asal oyini o'tkazayotgan yangi turmush qurgan kishi
@@ -3122,7 +3380,11 @@ ease (v) => yengillashtirmoq, kamaytirmoq, yengil qilmoq, tinchlantirmoq
 easy (adj) => oson, yengil, qiynalmaydigan, qulay
 easily (adv) => osonlik bilan, osongina, qiynalmasdan, bemalol
 
-nonsense => bema'nilik, safsata
+nonsense (n) => be'mani gap, safsata, ma'nosiz gap, ahmoqona fikr
+nonsensicality (n) => be'manilik, mantiqsizlik
+nonsenser (n) => bema'ni gapiradigan odam
+nonsensical (adj) => be'mani, mantiqsiz, ma'nosiz
+nonsensically (adv) => be'manilik bilan, mantiqsiz tarzda
 
 pack => bitta pachka / qadoq
 
@@ -3143,7 +3405,15 @@ drainable (adj) => suyuqligini chiqarish mumkin bo'lgan
 drained (adj) => holdan toygan, butunlay charchagan
 draining (adj) => holdan toydiradigan, kuchini oladigan
 
-melt => erimoq / eritmoq.
+melter (n) => erituvchi, eritish qurilmasi
+meltdown (n) => erib ketish, jiddiy izdan chiqish
+melting (n) => erish, erish jarayoni
+remelting (n) => qayta eritish
+melt (v) => erimoq, eritmoq
+remelt (v) => qayta eritmoq, qayta erimoq
+meltable (adj) => eritish mumkin bo'lgan, eriydigan
+melting (adj) => eriyotgan, erib ketadigan
+melted (adj) => erigan
 
 fledging (n) => hali yosh, uchishni o'rganayotgan qush, yosh qush
 fledge (v) => pat chiqarmoq, uchishga tayyor bo'lmoq
@@ -3158,7 +3428,9 @@ demoralized (adj) => ruhan tushkun, umidsizlangan, ruhi singan
 demoralizing (adj) => ruhiyatni tushiradigan, umidsizlantiradigan
 demoralizingly (adv) => ruhiyatni tushiradigan tarzda
 
-leonine => sherga o‘xshash, sherga xos 
+lion (n) => sher
+leonine (adj) => sherga xos, sherga o'xshash
+leioninely (adv) => sherga xos tarzda
 
 contention (n) => bahs, munozara, da'vo, fikr, raqobat
 contender (n) => da'vogar, g'alaba uchun kurashayotgan ishtirokchi
@@ -3178,13 +3450,24 @@ whimsically (adv) => o'ynoqi tarzda, g'alati usulda
 rakish => o‘ziga ishongan, jozibali, biroz ayolparast/yengiltak
 rakishness => ayollarga xushomad qiladigan, jozibali va biroz yengiltak erkaklarga xos xulq-atvor.
 
-nondescript => o‘ziga xosligi yo‘q, oddiy, ko‘zga tashlanmaydigan, ajralib turmaydigan.
+nondescript (n) => o'ziga xosligi yo'q odam yoki narsa
+nondescriptness (n) => ajralib turmaslik, o'ziga xoslikning yo'qligi
+nondescript (adj) => ko'zga tashlanmaydigan, o'ziga xosligi yo'q, oddiy, ajralib turmaydigan
+nondescriptly (adv) => ajralib turmaydigan tarzda
 
-joyful => juda xursand, quvonchga to‘la, shod.
+kid (n) => bola, yosh bola, echki bolasi
+kiddie / kiddy (n) => kichkina bola
+kiddo (n) => bolakay, bolajon
+kidder (n) => hazillashadigan odam
+kid (v) => hazillashmoq, aldab hazil qilmoq
+kiddish (adj) => boalarcha, bolaga xos
+kiddingly (adv) => hazil tariqasida, hazillashib
 
-kid => bola, farzand.
-
-liar => yolg‘onchi, ya’ni yolg‘on gapiradigan odam.
+lie (n) => yolg'on
+liar (n) => yolg'onchi
+lying (n) => yolg'on gapirish
+lie (v) => yolg'on gapirmoq, yolg'on aytmoq
+lying (adj) => yolg'on gapirayotgan
 
 tear (n) => ko'z yoshi, yirtiq
 teardrop (n) => ko'z yoshi tomchisi
@@ -3199,7 +3482,21 @@ dither (v) => ikkilanmoq, bir qarorga kela olmay turmoq, nima qilishni bilmay qo
 
 aspect (n) => jihat, tomon, qirra, nuqtayi nazar, ko'rinish, tashqi kifoya
 
-hereinabove => yuqorida aytib o‘tilgan / yuqorida keltirilgan.
+herein (adv) => ushbu hujjatda, makun hujjatda
+hereinafter (adv) => bugundan keyin, keyingi o'rinlarda
+hereinabove (adv) => yuqorida aytib o‘tilgan, yuqorida keltirilgan
+hereinbelow (adv) => quyida ayitb o'tilgan, quyida keltirilgan
+hereunder (adv) => quyida, quyida keltirilgan
+hereof (adv) => ushbu hujjatning, mazkur kujjatga oid
+hereto (adv) => ushbu hujjatga, mazkur hujjatga
+hereby (adv) => shu orqali, mazkur hujjat bilan
+herewith (adv) => shu bilan, ushbu hujjat bilan birga
+heretofore (adv) => shu paytgacha, bundan oldin
+therein (adv) => unda, o'sha hujjatda
+thereof (adv) => uning, o'shaning
+thereto (adv) => unga, o'shanga
+thereby (adv) => shu orqali, natijada
+thereunder (adv) => uning ostida, shu asosda
 
 gorgeousness (n) => ajoyib go'zallik, ko'zni qamashtiruvchi chiroy
 gorgeous (adj) => ajoyib go'zal, juda chiroyli, ko'zni qamashtiradigan, juda yaxshi, a'lo
@@ -3251,13 +3548,20 @@ wounded (adj) => yaralangan, yarador, ruhiy zarar ko'rgan
 unwounded (adj) => yaralanmagan, jarohatlanmagan
 woundless (adj) => yarasiz, jarohatsiz
 
-lighten => yengillashtirmoq, yengil qilmoq; yorqinlashtirmoq.
+lightener (n) => yengillashtiruvchi yoki ochartiruvchi vosita
+lightening (n) => yengillashtirish, ochartirish, yorug'lashtirish
+lighten (v) => yengillashtirmoq, yegnillashmoq, ochartirmoq, yorug'lashtiroq
+lightened (adj) => yengillashgan, ochargan
 
 ultimatum (n) => qat'iy oxirgi talab, so'nggi shart
 ultimate (adj) => eng so'nggi, yakuniy, eng oliy, eng muhim
 ultimately (adv) => oxir-oqibat, yakunda, pirovardida
 
-squirm => tipirchilamoq, bezovta bo‘lib qimirlash
+squirm (n) => bezovta qimir-qimir, tipirchilash
+squirmer (n) => bezovta qimirlaydigan odam yoki narsa
+squirm (v) => bezovta bo'lib qimirlamoq, o'zini u yoq-bu yoqqa tashlamoq
+squirmy (adj) => bezovta qimirlaydigan, tinib-tinchimaydigan
+squirmingly (adv) => bezovta qimirlagan holda
 
 threshold (n) => bo‘sag‘a, chegara, me’yor, chegaraviy daraja
 
@@ -3289,7 +3593,12 @@ arrived (adj) => yetib kelgan, kelgan
 rearrive (v) => qayta kelmoq, yana yetib kelmoq
 rearrival (n) => qayta yetib kelish, yana yetib kelish
 
-stagger => muvozanatni yo‘qotib, gandiraklab yurmoq.
+stagger (n) => gandiraklab yurish, beqaror qadam
+staggerer (n) => gandiraklab yuradigan odam
+stagger (v) => gandiraklab yurmoq, gandiraklatmoq, beqaror qadam tashlamoq
+staggered (adj) => gandiraklagan, hayratdan karaxt bo'lgan
+staggering (adj) => hayratlanarli darajada katta, juda katta, nihoyatda katta
+staggeringly (adv) => hayratlanarli darajada, nihoyatda
 
 arm (n) => qo'l, bilak
 armful (n) => qo‘lga quchoqlab sig‘adigan miqdor, bir quchoq, bir dasta
@@ -3349,13 +3658,9 @@ aggrandize (v) => haddan tashqari ulug'lamoq, kattalashtirib ko'rsatmoq, mavqein
 aggrandized (adj) => ulug'langan, kattalashtirib ko'rsatilgan, mavqei oshirilgan
 aggrandizing (adj) => ulug'lovchi, o'z mavqeini oshiruvchi, kattalashtirib ko'rsatuvchi
 
-megalomaniac => o‘zini haddan tashqari buyuk deb biladigan odam (noun)
-
-megalomaniacal => o‘zini haddan tashqari buyuk deb biladigan, megalomaniyaga xos (adjective)
-
-megalomaniacally => megalomaniyaga xos tarzda (adverb, kam ishlatiladi)
-
-megalomania => o‘zini haddan tashqari buyuk deb bilish, megalomaniya (noun)
+megalomania (n) => o‘zini haddan tashqari buyuk deb bilish
+megalomaniac (n) => o‘zini haddan tashqari buyuk deb biladigan odam 
+megalomaniacal (adj) => o‘zini haddan tashqari buyuk deb biladigan
 
 evolution (n) => evolyutsiya, tadrijiy rivojlanish, asta-sekin o'zgarish
 evolve (v) => rivojlanmoq, asta-sekin o'zgarib bormoq, evolyutsiyaga uchramoq, ishlab chiqmoq (g'oya, reja)
@@ -3393,7 +3698,11 @@ vainty (n) => manmanlik, o'ziga bino qo'yish, behuda faxrlanish
 vain (adj) => behuda, samarasiz, natijasiz, o'ziga bino qo'ygan, manman
 vainly (adv) => behuda, natijasiz tarzda, o'ziga bino qo'yib
 
-strive => astoydil harakat qilmoq, urinmoq
+striving (n) => intilish
+striver (n) => intiluvchi, maqsadga erishishga qattiq harakat qiluvchi
+strive (v) => intilmoq, bor kuchi bilan harakat qilmoq
+striving (adj) => intilayotgan
+strivingly (adv) => intilib, bor kuchi bilan
 
 rook => qarg‘asimon qush
 
@@ -3425,8 +3734,6 @@ dogmatization (n) => biror fikrni mutlaq haqiqatga aylantirish, qat'iylashtirish
 dogmatize (v) => biror fikrni mutlaq haqiqat sifatida ilgari surmoq; o‘z qarashini qat’iy va shubhasiz to‘g‘ri deb ko'rsatmoq
 dogmatic (adj) => o'z fikrini mutlaq to'g'ri deb biladigan, murosasiz
 dogmatically (adv) => o'z fikrini mutlaq to'g'ri deb hisoblab, murosasiz tarzda
-
-influential (adj) => nufuzli, ta’sirga ega, ta’sir o‘tkaza oladigan
 
 filter (n) => filtr, filtrlovchi vosita
 filtration (n) => filtrlash, suzish
@@ -3463,7 +3770,8 @@ broom (n) => supurgi
 broomstick (n) => supurgi tayoqchasi
 broom (v) => supurmoq, supurib tozalamoq
 
-stroke (n) => insult
+stroke (n) => insult, silash yoki erkalash, zarba, chiziq yoki bo'yoq izi
+stroke (v) => silamoq, urmoq, chiziq tortmoq, eshkak eshmoq
 
 extirpation (n) => ildizi bilan yo'q qilish, butunlay olib tashlash
 extirpator (n) => ildizi bilan yo'q qiluvchi
@@ -3475,9 +3783,15 @@ chuck (n) => molning bo'yin-yelka qismidagi go'sht
 chuck (v) => uloqtirmoq, otmoq, tashlab yubormoq, tashlab ketmoq, voz kechmoq
 chocker (n) => uloqtiruvchi, otuvchi
 
-madhouse (n) => jinnixona, tartibsiz yoki shovqin-suron joy
+madhouse (n) => jinnixona, tartibsiz yoki shovqin-suronli joy
 
-murderer (n) => qotil, odam o‘ldirgan shaxs
+murder (n) => qasddan odam o'ldirish, qotillik
+murderer (n) => qotil, odam o'ldirgan shaxs
+murderousness (n) => qotillikka moyillik, o'ta tajavuzkorlik
+murder (v) => qasddan odam o'ldirmoq
+murderous (adj) => qotillikka oid, qotillik qilishga moyil, o'ta tajavvuzkor
+murderously (adv) => qotillik qilishga moyil tarzda, o'ta tajavuzkor tarzda
+murderable (adj) => o'ldirishi mumkin bo'lgan
 
 confession (n) => tan olish, iqrorlik, gunohni tan olish
 confessor (n) => tan oluvchi, gunoh iqrorini tinglovchi ruhoniy
@@ -3487,15 +3801,27 @@ confessional (adj) => tan olishga oid, shaxsiy sirlarni ochiq aytadigan
 confessed (adj) => ochiq tan olingan, e'lon qilingan
 confessedly (adv) => o'zini tan olganidek, ochiq e'tirof etib
 
-objection (n) => e’tiroz, qarshilik, norozilik
+object (n) => e'tiroz, qarshilik, obyekt, narsa
+objection (n) => e'tiroz, qarshilik, norozilik
+objective (n) => maqsad, vazifa, obyekt
+objectivity (n) => xolislik, obyektivlik
+objector (n) => e'tiroz bildiruvchi, qarshi chiquvchi
+objectification (n) => odamni obyekt sifatida ko'rish yoki ko'rsatish
+object (v) => e'tiroz bildirmoq, qarshi chiqmoq
+objectify (v) => odamni shaxs emas obyekt sifatida ko'rmoq yoki ko'rsatmoq
+objective (adj) => xolis, obyektiv, maqsadga asoslangan
+objectionable (adj) => nomaqbul, e'tiroz uyg'otadigan, qabul qilib bo'lmaydigan
+objectified (adj) => obyekt sifatida ko'rilgan yoki ko'rsatilgan
+objectively (adv) => xolisona, obyektiv tarzda
+objectionably (adv) => nomaqbul tarzda
+
 
 quota => limit, ajratilgan miqdor, me’yor
 
-kempt => ozoda, tartibli, parvarishlangan 
-
-unkemptness (n) => qarovsiz holat, pala-partishlik
-kempt (adj) => tartibli, ozoda, parvarishlangan
-unkempt (adj) => pala-partish, qarovsiz, ozoda emas, tartibsiz
+kemptness (n) => ozodalik, saranjomlik
+unkemptness (n) => qarovsiz holat, tartibsizlik, pala-partishlik
+kempt (adj) => ozoda, saranjom-sarishta, parvarishlangan
+unkempt (adj) => qarovsiz, tartibsiz, taralmagan
 unkemptly (adv) => qarovsiz, pala-partish tarzda
 
 pretend => o‘zini …dek tutmoq, rol o‘ynamoq, soxta qilib ko‘rsatmoq
@@ -3536,25 +3862,14 @@ indigestible (adj) => hazm bo'lmaydigan, tushunish qiyin
 
 pour => quymoq
 
-pour tea => choy quymoq.
-
-meritorious => savobli, maqtovga loyiq, ezgu
-
-nuance (n) => nozik farq, nuans, sezilar-sezilmas farq (ma'no yoki ohangda)
-
-nuanced (adj) => nozik jihatlarni e'tiborga olgan, chuqur tahlil qilingan, ko'p qirrali (masalan, nuanced 
-
-nuance (v) => nozik farq bermoq, ohangdor yoki tabaqalashtirgan holda yondashmoq (kamroq ishlatiladigan fe'l shakli)
-
-mess (v) => tartibni buzish, bulg'ash, chalkashtirib yuborish
-
-mess (n) => tartibsizlik, to'polon, kir-chir holat; chalkash / qiyin vaziyat
-
-messiness (n) => tartibsizlik, to'zg'iganlik holati (abstrakt tushuncha)
-
-messy (adj) => tartibsiz, to'zg'igan, kir, chigal
-
-messily (adv) => tartibsiz ravishda, iflos qilib
+merit (n) => xizmat, fazilat, loyiq jihat, afzallik
+meritoriousness (n) => xizmatga loyiq bo'lish, maqtovga loyiqlik
+meritlessness (n) => asossizlik, afzallik yoki xizmatning yo'qligi
+merit (v) => arzimoq, loyiq bo'lmoq
+meritorious (adj) => xizmatga loyiq, maqtovga loyiq, e'tirofga arziydigan
+meritless (adj) => asossiz, hech qanday afzalligi yoki xizmati yo'q
+meritoriously (adv) => xizmatga loyiq tarzda, maqtovga loyiq tarzda
+meritlessly (adv) => asossiz tarzda
 
 deed (n) => rasmiy hujjat, mulkka egalik huquqini tasdiqlovchi hujjat
 deed (n) => qilmish, amal, xatti-harakat
@@ -3575,8 +3890,6 @@ favorably (adv) => ijobiy tarzda, ma'qullab
 amulet (n) => tumor, himoya tumori, yomonlikdan asraydi deb ishoniladigan buyum
 amuletic (adj) => tumorga oid, himoya tumori sifatidagi
 
-jealous => hasadgo‘y / hasad qilmoq / havas qilmoq
-
 casualty (n) => qurbon, jarohatlangan yoki halok bo'lgan odam, talofat
 
 tense (n) => zamon, taranglik
@@ -3590,7 +3903,14 @@ arrogant (adj) => takabbur, o‘zini katta oladigan, manman
 arrogantish (adj) => biroz takabbur, takabburga o'xshash
 arrogantly (adv) => takabburlik bilan, manmanlarcha, o'zini katta olib
 
-spoiled => erkatoy, haddan tashqari erkalatilgan
+spoil (n) => o'lja, talon-tarojdan olingan narsalar
+spoiler (n) => syujetni oldindan ochib beradigan ma'lumot
+spoilage (n) => oziq-ovqat yoki mahsulotlarning aynib yoki buzilib qolishi
+spoil (v) => buzmoq, yaroqsiz holga keltirmoq
+spoil (v) => erkalab yubormoq, haddan tashqari yaxshi muomala qilib, buzib qo'ymoq
+spoil (v) => kayfiyatni yoki zavqni buzmoq
+spoil (v) => taomning aynib qolishiga sabab bo'lmoq, aynimoq
+spoiled (adj) => erkatoy, haddan tashqari erkalatilgan, aynigan, buzilgan
 
 finalization (n) => yakunlash, oxiriga yetkazish, rasman tugatish
 finalize (v) => yakunlamoq, oxiriga yetkazmoq, rasman tugatmoq
@@ -3631,7 +3951,11 @@ caution (v) => ogohlantirmoq, ehtiyot bo'lish haqida ogohlantirmoq
 cautious (adj) => ehtiyotkor, ehtiyotkorona
 cautiously (adv) => ehtiyotkorlik bilan
 
-miracle => mo‘jiza
+miracle (n) => mo'jiza, kutilmagan ajoyib hodisa 
+miraculousness (n) => mo'jizaviylik
+miraclist (n) => mo'jizalarga ishonuvchi
+miraculous (adj) => mo'jizaviy, mo'jizadek hayratlanarli
+miraculously (adv) => mo'jizaviy tarzda, hayratlanarli tarzda
 
 appreciation (n) => qadrlash, minnatdorchilik, qadriga yetish, tushunish
 appreciator (n) => qadrlovchi, qadriga yetuvchi
@@ -3678,32 +4002,55 @@ aide (n) => yordamchi, maslahatchi
 aid (v) => yordam bermoq, ko‘maklashmoq
 aided (adj) => yordam berilgan, yordam ko'rsatilgan
 
-movement => harakat, siljish, jarayonning boshlanishi
+move (n) => harakat, ko'chish, yurish
+movement (n) => harakat, harakatlanish, ko'chish, ijtimoiy yoki siyosiy harakat
+mover (n) => harakatlanuvchi narsa yoki odam, ko'chirish bilan shug'ullanuvchi
+movability (n) => ko'chirish yoki harakatlantirish mumkinligi
+immovability (n) => qimirlamaslik, ko'chirmaslik
+move (v) => harakatlanmoq, ko'chmoq, siljitmoq
+moving (adj) => ta'sirli, hissiyotga boy, harakatlanayotgan
+movable (adj) => ko'chiriladigan, harakatlantirish mumkin bo'lgan
+immovable (adj) => qimirlamaydigan, ko'chirilmaydigan, qat'iy
+movement-based (adj) => harakatga asoslangan
+movingly (adv) => ta'sirli tarzda
+movably (adv) => ko'chiriladigan yoki harakatlantiriladigan tarzda
+immovably (adv) => qimirlamaydigan tarzda
 
 dent (n) => botiq, ezilgan joy, urilishdan qolgan botiq, pachoq joy
 denter (n) => botiq hosil qiluvchi
 dent (v) => botiq hosil qilmoq, ezmoq, botiq qilib qo'ymoq
 dent (adj) => botiq bo'lgan, ezilgan
 
-misunderstanding => tushunmovchilik, noto‘g‘ri tushunish.
-
-mistake (noun) => Xato
-
-mistake (verb) => Xato qilmoq
+mistake (n) => xato, adashish
+mistakenness (n) => xato ekanlik, noto'g'rilik
+mistake (v) => xato qilmoq, adashtirmoq
+mistaken (adj) => xato, noto'g'ri, adashgan
+mistakable (adj) => adashtirish mumkin bo'lgan
+mistakenly (adv) => xato qilib, yanglishib
 
 cliché (n) => siyqasi chiqqan ibora, ko'p takrorlangan g'oya yoki fikr
 cliched (adj) => siyqasi chiqqan, original bo'lmagan
 
-literally => So‘zma-so‘z / Tom ma’noda / Rostdan ham (ta’kidlash uchun, norasmiy suhbatda)
+literalness (n) => so'zma-so'zlik, tom ma'noda bo'lish
+literal (adj) => so'zma-so'z, aynan o'z ma'nosidagi, ko'chma bo'lmagan
+nonliteral (adj) => ko'chma ma'nodagi, so'zma-so'z bo'lmagan
+literally (adv) => so'zma-so'z, tom ma'noda, haqiqatan ham
+nonliterally (adv) => ko'chma ma'noda, so'zma-so'z bo'lmagan tarzda
 
 feast (n) => katta ziyofat, mo'l-ko'l taomlar tortiladigan dasturxon
 feast (v) => ziyofat qilmoq, mo'l-ko'l ovqatlanmoq
 feastful (adj) => ziyofatga xos, mo'l-ko'l
 
-obsession => haddan tashqari berilish, kuchli qiziqish
-obsessed => berilib ketgan, haddan tashqari o‘ylaydigan
+obsession (n) => haddan tashqari berilib ketish, xayoldan chiqmaydigan fikr
+obsessiveness (n) => haddan tashqari berilib ketish, bir fikrga qattiq bog'lanish
+obsess (v) => haddan tashqari ko'p o'ylamoq, xayolini egallab olmoq
+obsessed (adj) => haddan tashqari berilib ketgan, xayoli shunga band bo'lgan
+obsessive (adj) => haddan tashqari berilib ketadigan, bir fikrga qattiq bog'lanadigan
+obsessively (adv) => haddan tashqari berilib, bir fikrga qattiq bog'langan holda
 
-mansion => katta/hashamatli uy, qasr
+mansion (n) => katta hashamatli uy, saroy, qasr
+manse (n) => ruhoniyning uyi
+mansion-like (adj) => qasrga o'xshash, hashamatli
 
 disown (v) => farzandi yoki qarindoshidan voz kechmoq, o'z qarindoshi deb tan olmaslik
 disowned (adj) => voz kechilgan, o'z qarindoshi deb tan olinmagan
@@ -3735,8 +4082,6 @@ burner (n) => gorelka, isitkich qismi, yondirgich
 burn (v) => kuymoq, yoqmoq, kuydirmoq
 burnt (adj) => kuygan, kuydirilgan, yonib ketgan
 burnable (adj) => yoqiladigan, yonuvchan
-
-keen => biror narsaga/kimgadir juda qiziqqan, ishtiyoqmand.
 
 divorce (n) => ajrashish, nikohning bekor qilinishi
 divorcee (n) => ajrashgan erkak yoki ayol
@@ -3791,8 +4136,6 @@ underexpose (v) => yetarli yoritmaslik, yetarli e'tibor bermaslik
 exposed (adj) => ochiq, himoyasiz, fosh bo'lgan
 unexposed (adj) => ta'sirga uchramagan, fosh bo'lmagan
 
-hesitant => ikkilanayotgan, qat’iy qaror qila olmayotgan, tortinayotgan
-
 recognize => tanimoq, tanib olmoq, anglamoq
 
 retrieve => qayta topmoq, qaytarib olmoq, xotiradan esga tushirmoq
@@ -3801,7 +4144,12 @@ cognition (n) => bilish jarayoni, idrok etish va fikrlash jarayoni
 cognitive (adj) => aqliy jarayonlarga oid, bilishga oid, idrok va fikrlashga oid
 cognitively (adv) => aqliy jihatdan, bilish jarayoni nuqtayi nazaridan
 
-luckily => yaxshiyamki, omadimizga, baxtimizga
+luck (n) => omad, baxt
+unluckiness (n) => omadsizlik
+lucky (adj) => omadli, omadli bo'lgan
+unlucky (adj) => omadsiz
+luckily (adv) => omadga ko'ra, baxtimizga, xayriyat
+unluckily (adv) => omadsiz ravishda
 
 ash (n) => kul, kul qoldig'i
 ash (v) => kulga aylantirmoq, kuydirib kul qilmoq
@@ -3843,8 +4191,6 @@ grinding (adj) => shafqatsiz, toliqtiruvchi
 ground (adj) => maydalangan, tortilgan
 grindingly (adv) => toliqtiruvchi darajada
 
-locksmith => qulfsoz / qulf ustasi
-
 spare => zaxira; ortiqcha; bo‘sh vaqt/vaqt ajratmoq.
 
 weirdness (n) => g'alatilik, noodatiylik
@@ -3853,16 +4199,12 @@ weird (adj) => g'alati, noodatiy, ajabtovur, sirli
 weirdish (adj) => biroz g'alati
 weirdly (adv) => g'alati tarzda, ajabtovur
 
-mature => yetuk, aqli raso, mas’uliyatli
-
 sparkling => yaltirab turgan; yarqiragan; juda quvnoq/jilvali.
 
 dazzlement (n) => ko'zning qamashishi, hayratga tushish
 dazzle (v) => ko'zni qamashtirmoq, hayratga solmoq
 dazzled (adj) => ko'zi qamashgan, hayratga tushgan
 dazzlingly (adv) => ko'zni qamashtiradigan darajada, juda ajoyib tarzda
-
-paralegal => yurist yordamchisi / advokat yordamchisi.
 
 air (n) => havo, atmosfera, muhit, kayfiyat, efir
 airness (n) => havodorlik, keng va havo yaxshi kiradiganlik
@@ -3903,13 +4245,26 @@ clownishness (n) => masxarabozlik, ahmoqona yoki jo‘n xatti-harakat, jiddiy bo
 clown (v) => masxarabozlik qilmoq, ahmoqona qiliqlar qilmoq
 clownish (adj) => masxarabozlarcha, kulgili darajada ahmoqona, bachkana
 
-lowlife => pastkash odam, tuban odam, hech narsaga yaramaydigan odam degan haqoratli so‘z.
+lowlife / low-life (n) => pastkash, razil odam, tuban odam
+lowlife (adj) => pastkashga xos, tuban
 
-stably => barqaror ravishda, bir maromda, mustahkam tarzda.
+stability (n) => barqarorlik, mustahkamlik, muvozanat
+instability (n) => beqarorlik, o'zgaruvchanlik, muvozanatsizlik
+stabilization (n) => barqarorlashtirish, barqaror holatga keltirish
+destabilization (n) => barqarorlikni buzish, beqarorlashtirish
+stable (n) => otxona
+stabilizer (n) => barqarorlashtiruvchi vosita yoki qurilma, stabilizator
+stable (v) => otxonaga joylashtirmoq
+stabilize (v) => barqarorlashtirmoq, barqaror holatga keltirmoq
+destabilize (v) => barqarorligini buzmoq, beqarorlashtirmoq
+stable (adj) => barqaror, o'zgarmas, mustahkam, muvozanatli
+unstable (adj) => beqaror, o'zgaruvchan, muvozanatsiz
+stably (adv) => barqaror ravishda, o'zgarmas tarzda, mustahkam tarzda
 
-jerk => ahmoq, tentak, bezori, qo‘pol odam
-
-jerk => keskin tortmoq / siltamoq
+jerk (n) => ahmoq, qo'pol odam, yaramas
+jerk (v) => keskin silkitmoq, siltab tortmoq
+jerky (adj) => keskin, siltanib-siltanib bo'ladigan
+jerkliy (adv) => keskin, siltanib
 
 threat (n) => tahdid, xavf
 threaten (v) => tahdid qilmoq, qo'qitmoq, xavf tug'dirmoq
@@ -3925,15 +4280,28 @@ addictive (adj) => qaramlik keltirib chiqaradigan, o'ziga qattiq bog'lab qo'yadi
 addicted (adj) => qaram bo'lgan, biror narsaga qattiq berilib ketgan
 addictively (adv) => qaramlik keltiradigan tarzda, juda o'ziga tortadigan tarzda
 
-madly => telbalarcha, aqldan ozgudek.
-
 sentence => sud hukmi / jazo ⚖️
 
 sentence => hukm qilmoq, jazo tayinlamoq
 
-oblige => majbur qilmoq, majburiyat yuklamoq; ba’zan iltimosni bajarmoq / yordam bermoq.
+obligation (n) => majburiyat, bajarilishi shart bo'lgan vazifa
+obliger (n) => majbur qiluvchi, majburiyat yuklovchi
+obligingness (n) => yordam berishga tayyorlik, iltifotlilik
+oblige (v) => majbur qilmoq, biror ishni qilishga majbur bo'lmoq, iltimosni bajarib bermoq
+obliged (adj) => majbur bo'lgan, minnatdor
+obliging (adj) => yordam berishga tayyor, iltimosni bajonidil qiladigan
+obligatory (adj) => majburiy, bajarilishi shart bo'lgan
+obligingly (adv) => yordam berishga tayyor holda, iltifot bilan
+obligatorily (adv) => majburiy tarzda, shart tarzda
 
-suicide => o‘z joniga qasd qilish, o‘zini o‘ldirish.
+obligateness (n) => majburiylik
+obligate (v) => majburiyat yuklamoq, majbur qilmoq
+obligate (adj) => majburiy, faqat ma'lum sharoitda yashay yoki ishlay oladigan
+obligately (adv) => majburiy tarzda, faqat ma'lum sharoitda
+
+suicide (n) => o‘z joniga qasd qilish, o‘zini o‘ldirish, o'z-o'ziga zarar keltiruvchi qaror
+suicidal (adj) => o'z joniga qas qilishga moyil, o'ta xavfli, o'ziga zarar keltiradigan
+suicidally (adv) => o'z joniga qasd qilishga moyil holda
 
 commitment (n) => majburiyat, sadoqat, qat'iylik
 commit (v) => sodir etmoq, amalga oshirmoq
@@ -3946,9 +4314,19 @@ paranoia => paranoya, asossiz shubha va qo‘rquv, ta’qib qilinayotgandek his 
 
 ruin => barbod qilmoq, buzmoq, vayron qilmoq.
 
-marriage => nikoh, turmush, er-xotinlik.
-
-mansion => hashamatli katta uy, saroy, qasr.
+marriage (n) => nikoh, turmush, turmush qurish, birlashuv
+remarriage (n) => qayta turmush qurish
+intermarriage (n) => millatlararo yoki dinlararo nikoh
+marriage certificate (n) => nikoh guvohnomasi
+matrimony (n) => nikoh (rasmiy, diniy)
+marry (v) => turmushga chiqmoq, uylanmoq, nikohlanmoq, ikki narsani uyg'unlashtirmoq
+remarry (v) => qayta turmush qurmoq
+intermarry (v) => boshqa millat yoki dindagi kishi bilan turmush qurmoq
+married (adj) => turmush qurgan, uylangan
+unmarried (adj) => turmush qurmagan, uylanmagan
+marriageable (adj) => turmush qurishga yaroqli yoshdagi
+marital (adj) => nikohga oid
+premarital (adj) => nikohdan oldingi
 
 courage (n) => jasorat, mardlik, qo‘rqmaslik
 courageous (adj) => jasur, mard, dadil
@@ -3982,7 +4360,10 @@ siluet => Yorug‘lik qarshisida ko‘rinadigan qoramtir tashqi shakl.
 
 silhouette => siluet, narsaning yoki odamning qorong‘i shakli, tashqi konturi.
 
-junk => keraksiz yoki yaroqsiz narsa
+junk (n) => keraksiz narsalar, chiqindi, arzimas narsa
+junkie (n) => biror narsaga haddan tashqari berilgan odam, giyohvand
+junk (v) => keraksiz narsalarni tashlamoq, chiqit qilmoq
+junky (adj) => sifatsiz, arzimas, keraksiz narsalarga to'la
 
 hunk (n) => kelishgan yoki baquvvat erkak
 hunk (n) => katta yoki yirik bo'lak, parcha, katta miqdordagi qism
@@ -4010,8 +4391,6 @@ ruin => barbod qilmoq / buzmoq
 
 ruined => barbod bo‘lgan / buzilgan
 
-nope => Yo‘q / Yo‘q-e / Yo‘q, unday emas.
-
 charm (n) => tumor, omad keltiruvchi narsa, joziba, maftunkorlik
 charmlessness (n) => jozibasizlik
 charmer (n) => odamlarni o'ziga rom eta oladigan, jozibali odam
@@ -4020,7 +4399,10 @@ charming (adj) => maftunkor, jozibali, yoqimli
 charmless (adj) => jozibasiz, maftunkorligi yo'q
 charmingly (adv) => jozibali ravishda, maftunkor tarzda
 
-insist => qat’iy talab qilmoq, turib olmoq
+insistence (n) => qat'iy turib olish, talabchanlik, qat'iy talab
+insist (v) => qat'iy turib olmoq, talab qilmoq
+insistent (adj) => qat'iy turib oladigan, talabchan
+insistently (adv) => qat'iy tarzda, turib olib
 
 competition (n) => raqobat, musobaqa, tanlov
 competitiveness (n) => raqobatbardoshlik
@@ -4041,7 +4423,10 @@ fabrication (n) => uydirma, yolg'on to'qib chiqarish, ishlab chiqarish, yasash
 fabricator (n) => uydirma to'quvchi, ishlab chiqaruvchi
 fabricate (v) => to'qib chiqarmoq, yasamoq, ishalb chiqarmoq
 
-struggle => qiynalmoq, kurashmoq, mashaqqat bilan harakat qilmoq
+struggler (n) => kurashuvchi, qiyinchilik bilan yashayotgan yoki harakat qilayotgan odam
+struggle (n) => kurash, qiyinchilik, og'ir kechayotgan jarayon
+struggle (v) => qiynalmoq, kurashmoq, zo'rg'a uddalamoq
+struggling (adj) => qiynalayotgan, zo'rg'a uddalayotgan
 
 aspiration (n) => intilish, orzu, yuksak maqsad
 aspirant (n) => biror lavozim yoki maqsadga intiluvchi, nomzod
@@ -4066,9 +4451,21 @@ fireproof (v) => yong'indan himoyalanmoq
 fired (adj) => ishdan bo'shatilgan
 fireproof (adj) => yong'inga chidamli, o'tga chidamli
 
-mate => do‘st, o‘rtoq, og‘ayni.
+mate (n) => o'rtoq, do'st, hayvonning jufti, yordamchi (kemada, kasbda)
+mating (n) => hayvonlarning juflashishi, urchishi
+mate (v) => juftlashmoq, nasl qoldirish uchun qo'shilmoq, mat qo'ymoq (shaxmat), bir-biriga ulanmoq (mos kelmoq)
+classmate (n) => sinfdosh
+roommate (n) => xonadosh
+teammate (n) => jamoadosh
+workmate (n) => ish joyidagi hamkasb
+soulmate (n) => qabiladosh, ruhdosh
+mated (adj) => juftlashgan
 
-stun => karaxt qilmoq / hayratda qoldirmoq / lol qoldirmoq.
+stun (n) => karaxt qiluvchi zarba, hayratga solish
+stun (v) => karaxt qilib qo'ymoq, hayratda qoldirmoq
+stunned (adj) => karaxt bo'lgan, hayratda qolgan
+stunning (adj) => hayratlanarli, juda chiroyli
+stunningly (adv) => hayratlanarli darajada
 
 truth (n) => haqiqat, rost gap
 truthfulness (n) => rostgo'ylik
@@ -4096,16 +4493,25 @@ cross (adj) => jahldor, badjahl, achchiqlangan
 cross-border (adj) => chegaralararo, davlatlar o‘rtasidagi, chegaradan o‘tuvchi.
 crossly (adv) => jahl bilan, achchiqlanib
 
-instantiate => yaratmoq, konkret nusxasini yaratmoq, instance hosil qilmoq.
+instantiation (n) => namuna yaratish, konkretlashtirish, obyekt yaratish
+instantiability (n) => namunasini yaratish mumkinlgi
+instantiate (v) => namunasini yaratmoq, konkretlashtirmoq, obyekt yaratmoq
+instantiated (adj) => namunasi yaratilgan, konkretlashtirilgan
+instantiable (adj) => namunasini yaratish mumkin bo'lgan
 
 entrepreneur (n) => tadbirkor, biznes tashkil qiluvchi, yangi biznes boshlovchi
 entrepreneurship (n) => tadbirkorlik, biznes tashkil etish faoliyati
 entrepreneurial (adj) => tadbirkorlikka oid, tadbirkorona
 entrepreneurially (adv) => tadbirkorona tarzda
 
-mainly => asosan, ko‘pincha, ayniqsa asosiy qismi
+main (adj) => asosiy, bosh, eng muhim
+mainly (adv) => asosan, ko'pincha, katta qismi
 
-labour => mehnat, ishchi kuchi
+labour (n) => mehnat, ish, mehnat faoliyati
+labourer (n) => ishchi, jismoniy mehnat qiluvchi ishchi
+labour (v) => mehnat qilmoq, qattiq ishlamoq
+labouring (adj) => mehnat qilayotgan, og'ir ishlayotgan
+laboured (adj) => zo'riqib qilingan, sun'iy, tabiiy chiqmaydigan
 
 corridor (n) => yo‘lak, koridor
 
@@ -4123,7 +4529,20 @@ tax (v) => soliq solmoq, soliqqa tortmoq
 taxable (adj) => soliqqa tortiladigan, soliq solinadigan
 taxing (adj) => og'ir, qiyin, kuch talab qiladigan
 
-mobility => harakatchanlik, ko‘chib yurish imkoniyati, harakatlanish qobiliyati.
+mobile (n) => mobil telefon
+mobility (n) => harakatchanlik, harakatlanish qobiliyati, ko'chish imkoniyati
+inmobility (n) => harakatsizlik, qimirlay olmaslik
+mobilization (n) => safarbar qilish, safarbarlik
+mobilize (v) => safarbar qilmoq, safarbar bo'lmoq
+inmobilize (v) => harakatsizlantirmoq, qimirlay olmaydigan holatga keltirmoq
+inmobilization (n) => harakatsizlantirish, harakatni cheklash
+immobilizer (n) => harakatsizlantiruvchi vosita yoki qurilma
+mobile (adj) => harakatlanuvchi, ko'chma
+inmobile (adj) => harakatsiz, qimirlamaydigan
+mobilized (adj) => safarbar qilingan
+immobilized (adj) => harakatsizlantirilgan
+mobilely (adv) => harakatchan tarzda
+
 
 coach (n) => murabbiy, trener
 coachability (n) => o'rganuvchanlik, murabbiy ko'rsatmalarini qabul qila olish qobiliyati
@@ -4151,18 +4570,32 @@ uncertain (adj) => noaniq, ishonchsiz, ikkilangan
 certainly (adv) => albatta, shubhasiz, aniq
 uncertainly (adv) => noaniq tarzda, ikkilangan holda
 
+fluency (n) => ravonlik, erkin gapira olish
+nonfluency (n) => ravon bo'lmaslik
+fluent (adj) => ravon, erkin gapiradigan
+nonfluent (adj) => ravon bo'lmagan, ravon gapira olmaydigan
+disfluent (adj) => ravon bo'lmagan, nutqida uzilishlar bo'lgan
+fluently (adv) => ravon, erkin tarzda
+disfluently (adv) => ravon bo'lmagan tarzda
+
 influence (n) => ta'sir, nufuz, ta'sir kuchi
-influencer (n) => ta'sir o'tkazuvchi shaxs, ijtimoiy tarmoqdagi mashxur blogger
-influenza (n) => gripp 
+influencer (n) => ta'sir o'tkazuvchi shaxs, ijtimoiy tarmoqdagi ta'sirli shaxs
 influence (v) => ta'sir qilmoq, ta'sir o'tkazmoq
-influential (adj) => ta'sirchan, nufuzli, obro'li
-influenced (adj) => ta'sirlangan
+influential (adj) => ta'sirchan, nufuzli, obro'li, ta'siri kuchli
+influenced (adj) => ta'sirlangan, ta'sir ostida qolgan
 uninfluenced (adj) => ta'sirga uchramagan
-influentially (adv) => nufuzli tarzda, ta'sir kuchi bilan
+influentially (adv) => ta'sirli tarzda, ta'sir kuchi bilan
 
 scary => qo‘rqinchli, qo‘rquv uyg‘otadigan. (adv)
 
-structured => tuzilgan, tartibga solingan, tizimli.
+structure (n) => tuzilma, tuzilish, tarkib, struktura
+structuring (n) => tuzish, tuzilmani shakllantirish
+restructuring (n) => qayta tuzish, qayta tashkil etish
+structure (v) => tuzmoq, tuzilishini shakllantirmoq
+restructure (v) => qayta tuzmoq, qayta tashkil qilmoq
+structural (adj) => tuzilmaviy, tarkibiy
+unstructured (adj) => tuzilmagan, tarkibsiz
+structurally (adv) => tuzilmaviy jihatdan
 
 representative => vakil
 
@@ -4173,10 +4606,6 @@ relocation => ko‘chib o‘tish / joyini o‘zgartirish (noun)
 rudimentary => oddiy, sodda, boshlang‘ich darajadagi, mukammal rivojlanmagan
 
 passionate => ishtiyoqli, juda qiziqqan, ehtirosli
-
-literally => so’zma-so’z, aynan, haqiqatan ham
-
-specifically => aynan, aniqrog‘i, xususan, maxsus ravishda 
 
 interaction (n) => o'zaro aloqa, muloqot, o'zaro ta'sir
 interactivity (n) => interaktivlik, foydalanuvchi bilan o'zaro aloqa qilish imkoniyati
@@ -4233,11 +4662,20 @@ coercive (adj) => majburlovchi, bosim orqali majburlaydigan
 coercible (adj) => majburlash mumkin bo'lgan
 coercively (adv) => majburlash yo'li bilan, bosim o'tkazib
 
-observe => kuzatmoq, kuzatib ko‘rmoq, payqamoq
+observation (n) => kuzatish, kuzatuv, kuzatuv natijasida olingan fikr yoki ma'lumot
+observer (n) => kuzatuvchi, kuzatib turgan odam
+observance (n) => rioya qilish, qoidalarga amal qilish, diniy marosimga amal qilish
+observatory (n) => observatoriya, ilmiy kuzatuv olib boriladigan inshoot
+unobservability (n) => kuzatib bo'lmaslik
+observe (v) => kuzatmoq, diqqat bilan qaramoq, rioya qilmoq, qayd etmoq
+observant (adj) => kuzatuvchan, mayda tafsilotlarni tez payqaydigan
+oberservational (adj) => kuzatuvga asoslangan, kuzatish orqali olingan
+unobserved (adj) => kuzatilmagan, payqalmagan
+unobservable (adj) => kuzatib bo'lmaydigan, bevosita kuzatish mumkin bo'lmagan
+observantly (adv) => kuzatuvchan tarzda, diqqat bilan kuzatib
+observationally (adv) => kuzatuv asosida, kuzatish orqali
 
 precise => aniq, aniq-ravshan, batafsil va xatosiz 
-
-notable => e’tiborga molik, mashhur, ajralib turadigan
 
 underlie (v) => asosida yotmoq, negizini tashkil qilmoq, sabab bo'lmoq
 underlying (adj) => asosiy, negizidagi, tagida yotgan, yashirin yoki asosiy sabab bo'lgan
@@ -4264,6 +4702,12 @@ impure (adj) => aralashmali, iflos
 purely (adv) => faqat, butunlay
 impurely (adv) => aralashgan holda
 
+incident (n) => hodisa, voqea, noxush hodisa
+incidence (n) => yuz berish darajasi, kasallik yoki hodisaning uchrash darajasi
+incidentals (n) => qo'shimcha mayda xarajatlar yoki qo'shimcha narsalar
+incidental (adj) => asosiy narsaga bevosita aloqador bo'lmagan, tasodifiy, yo'l-yo'lakay yuzaga kelgan
+incidentally (adv) => aytgancha, shu o'rinda, qo'shimcha tarzda
+
 coincidence (n) => tasodif, tasodifan bir xil yoki ustma-ust kelish, tasodifiy mos kelish
 coincidental (adj) => tasodifiy, tasodifan yuz bergan, tasodifan bir-biriga mos kelgan
 coincidentally (adv) => tasodifan, tasodifiy ravishda
@@ -4273,9 +4717,22 @@ compliment (v) => maqtamoq, iltifot bildirmoq
 complimentary (adj) => maqtov bildiruvchi, maqtov tarzidagi, bepul, tekin
 complimentarily (adv) => maqtov tarzida
 
-monument => yodgorlik, haykal, monument
+monument (n) => yodgorlik, haykal, monument
+monumentability (n) => ulkanlik, mahobatlilik
+monumentalization (n) => yodgorlik darajasiga ko'tarish
+monumentalize (v) => yodgorlik darajasiga ko'tarmoq, monumental tus bermoq
+monumental (adj) => ulkan, mahobatli, monumental, tarixiy ahamiyatga ega
+monumentally (adv) => ulkan yoki mahobatli tarzda, nihoyatda
 
-memorial => xotira yodgorligi / xotira majmuasi
+memory (n) => xotira, eslab qolish qobiliyati
+memorical (n) => yodgorlik, xotira yodgorligi
+memorization (n) => yodlash, yodlab olish
+momorialization (n) => xotirasini abadiylashtirmoq
+memorize (v) => yodlamoq, yodlab olmoq
+momorialize (v) => xotirasini abadiylashtirmoq, xotirasiga bag'ishlamoq
+memorable (adj) => esda qolarli
+memorably (adv) => esda qolarli tarzda
+memorical (adj) => xotiraga bag'ishlangan
 
 religion => din, diniy e’tiqod
 
@@ -4285,9 +4742,30 @@ coherently (adv) => izchil tarzda, mantiqan bog'langan holda
 
 slightly => biroz, ozgina, sal
 
-suffering => azob, iztirob
+suffering (n) => azob, iztirob
+sufferer (n) => azob chekuvchi, bemor
+sufferance (n) => toqat, ko'nish, ruxsat
+suffer (v) => azob chekmoq, iztirob chekmoq, zarar ko'rmoq
+suffer (v) => boshdan kechirmoq, uchramoq
+suffering (adj) => azob chekayotgan
+sufferable (adj) => chidasa bo'ladigan
+insufferable (adj) => chidab bo'lmas, toqat qilib bo'lmas
+long-suffering (adj) => sabr-toqat, uzoq azob chekkan
+insufferably (adv) => chidab bo'lmas darajada
 
-spirit => kontekstga qarab ruh / ruhiyat / kayfiyat / ruhiy kuch.
+spirit (n) => ruh, ruhiyat, kayfiyat, ruhiy holat, jasorat
+spiritedness (n) => g'ayratlilik, jo'shqinlik
+spiritualization (n) => ma'naviyatlashtirish, ruhiy mazmun berish
+spirituality (n) => ma'naviyat, ruhiylik
+spiritlessness (n) => g'ayratsizlik, ruhsizlik
+spirit (v) => ruhlantirmoq, ruhini ko'tarmoq
+spiritualize (v) => ma'naviy yoki ruhiy mazmun bermoq, ruhiylashtirmoq
+spirited (adj) => g'ayratli, jo'shqin, serg'ayrat
+spiritual (adj) => ruhiy, ma'naviy, ruhga oid
+spiritless (adj) => ruhsiz, g'ayratsiz, jo'shqinsiz
+spiritedly (adv) => g'ayrat bilan, jo'shqin tarzda
+spiritually (adv) => ruhiy yoki ma'naviy jihatdan
+spiritlessly (adv) => g'ayratsiz tarzda, jo'shqinsiz
 
 snuggling => quchoqlashib yotish / mehr bilan bag‘riga bosib o‘tirish
 
@@ -4297,8 +4775,6 @@ beautifulness (n) => chiroylilik, go'zallik
 beautify (v) => chiroyli qilmoq, bezamoq
 beautiful (adj) => chiroyli, go'zal
 beautifully (adv) => chiroyli tarzda , go‘zal tarzda, juda chiroyli qilib
-
-makeup => pardoz vositalari / kosmetika / bo‘yanish
 
 practical => amaliy / kerakli
 
@@ -4353,17 +4829,44 @@ classiness (n) => didlilik, nafislik, yuqori darajadagi ko'rinish
 classy (adj) => didli, nafis, zamonaviy va yuqori darajadagi, hashamatli
 classily (adv) => did bilan, nafis tarzda
 
-haircut => soch turmagi / soch oldirish
+barber (n) => erkaklar sartaroshi (soqol-mo'ylov bilan ishlovchi)
+barbershop (n) => erkaklar sartaroshxonasi
+barbering (n) => sartaroshlik kasbi
+barber pole (n) => sartaroshxona belgisi (qizil-oq-ko'k aylanuvchi ustun)
+barber (v) => sartaroshlik qilmoq
+
+barb (n) => tikan, qildiq, achchiq gap
+barb (v) => qiltiq o'rnatmoq
+barbed (adj) => tikanli, achchiq, nishabli
+barbed wire (n) => tikanli sim
+barbel (n) => mo'ylovli baliq, baliqning mo'ylovi
+
+hair (n) => soch, tuk, jun
+hairdo (n) => soch turmagi, soch turi
+hairdresser (n) => sartarosh, sochlarni olib turuvchi usta
+hairstyle (n) => soch turmagi
+hairstylist (n) => soch stilisti
+haircut (n) => soch oldirish, soch turmagi
+hairband (n) => soch tasmasi
+hairdryer (n) => fen, soch quritgich
+hairspray (n) => soch laki
+hairiness (n) => tukdorlik
+hairy (adj) => sochli, tukli, xavfli, tahlikali
+hairless (adj) => sochsiz, tuksiz
+hair-raising (adj) => tuklarni tik qiluvchi, dahshatli
 
 outfit => kiyim-kechak to‘plami / kiyinish uslubi
 
 bless (v) => duo qilmoq, Xudoning marhamatini tilamoq
 
-halfway => yarim-yorti / chala
+half (n) => taym (sportda)
+half-time (n) => taymlar orasidagi tanaffus
+halve (v) => ikkiga bo'lmoq, yarmiga kamaytirmoq
+halfway (adj) => o'rtadagi, chala, yarim-yorti
+half-hearted (adj) => beixtiyor, sust, chala
+halfway (adv) => yarim yo'lda, o'rtasida, qisman
 
 sore => og‘rigan, og‘riqli, achishgan
-
-like this => shunday tarzda, bunday qilib
 
 bag (n) => sumka, xalta, qop
 bagginess (n) => kenglik, bo'sh bichimlik, kiyimning badanga yopishmasligi
@@ -4400,7 +4903,12 @@ grottily (adv) => iflos va ko'rimsiz holda
 upstairs (n) => yuqori qavat
 upstairs (adj) => yuqori qavatdagi
 
-spoonful => bir qoshiq (miqdorida)
+spoon (n) => qoshiq
+spoonful (n) => bir qoshiq miqdor
+spoonerism (n) => so'zlardagi tovushlarni adashtirib yuborish hodisasi
+spoon (v) => qoshiq bilan yemoq, qoshiq bilan olmoq
+spoon (v) => yonboshlab, bir-biriga yopishib quchoqlashib yotmoq
+spoon-feed (v) => qoshiq bilan ovqatlantirmoq, hamma narsani tayyor holda berib qo'ymoq
 
 sharp => aniq, aynan; o‘tkir; keskin
 
@@ -4410,11 +4918,16 @@ appoint (v) => tayinlamoq, belgilamoq, lavozimga tayinlamoq
 appointive (adj) => tayinlashga oid, tayinlash orqali amalga oshiriladigan
 appointed (adj) => tayinlangan, belgilangan
 
-marvelous => ajoyib, zo‘r, juda yaxshi, hayratlanarli
+marvelousness (n) => ajoyiblik, hayratlanarlilik
+marvel (n) => mo'jiza, ajoyib narsa, hayratlanarli hodisa
+marvel (v) => hayratlanmoq, lol qolmoq, qoyil bo'lmoq
+marvelous (adj) => ajoyib, ajabtovur, hayratlanarli, a'lo
+marvelously (adv) => ajoyib darajada, a'lo tarzda
 
-let someone down => kimnidir hafsalasini pir qilmoq, umidini oqlamaslik.
-
-launch => ishga tushirmoq, boshlamoq
+launch (n) => ishga tushirish, boshlash, yangi mahsulotni bozorga chiqarish, ushirish
+launcher (n) => ishga tushirgich, uchirgich, ishga tushiruvchi dastur yoki qurilma
+launch (v) => ishga tushirmoq, boshlamoq, bozorga chiqarmoq, uchirmoq
+launchable (adj) => ishga tushirish yoki uchirish mumkin bo'lgan
 
 rationale => sabab, asos, mantiqiy izoh
 
@@ -4428,7 +4941,10 @@ inglorious (adj) => sharmandali, shon-shuhratsiz
 gloriously (adv) => ulug'vorlik bilan, ajoyib darajada
 ingloriously (adv) => sharmandali tarzda, nomussiz
 
-nightmare => dahshatli tush, qo‘rqinchli tus
+nightmare (n) => qo'rqinchli tush, dahshatli tush, kabus, juda noqulay, qiynaydigan, boshga ko‘p tashvish keltiradigan vaziyat
+nightmarishness (n) => dahshatlilik, juda og'ir yoki qo'rqinchli holat
+nightmarish (adj) => dahshatli tushga o'xshash, juda qo'rqinchli, juda og'ir
+nightmarishly (adv) => dahshatli tarzda, juda og'ir tarzda
 
 forgiveness (n) => kechirim, afv, kechirish
 forgive (v) => kechirmoq, afv etmoq
@@ -4450,9 +4966,17 @@ audaciousness (n) => surbetlik, haddan tashqari dadillik,
 audacious (adj) => surbet, beti qalin, haddan tashqari dadil, jasur, dadil
 audaciously (adv) => surbetlarcha, haddan tashqari dadillik bilan, dadil tarzda
 
-infuriated => juda qattiq g‘azablangan, jahli chiqqan, qattiq achchiqlangan.
+infuriation (n) => qattiq g'azabga keltirish
+infuriate (v) => g'azablantirmoq, juda jahlini chiqarmoq
+infuriated (adj) => juda qattiq g‘azablangan, jahli chiqqan, qattiq achchiqlangan
+infuriating (adj) => juda g'azablantiradigan, jahlni chiqaradigan
 
-madly => telbalarcha, juda qattiq, haddan tashqari.
+madness (n) => aqldan ozish, telbalik, jinnilik
+madden (v) => qattiq g'azablantirmoq, juda jahli chiqishiga sabab bo'lmoq
+mad (adj) => aqldan ozgan, jinni, juda g'azablangan
+maddening (adj) => juda asabiylashtiradigan, jahli chiqadigan darajada
+maddened (adj) => qattiq g'azablangan
+madly (adv) => telbalarcha, juda qattiq, haddan tashqari
 
 brazenness (n) => surbetlik, uyatsizlik, betakalluflik, haddidan oshish
 brazen (v) => betga choparlik qilmoq, dadil va uyatsizlarcha qarshi turmoq
@@ -4467,7 +4991,12 @@ drunk (adj) => mast, ichimlikdan mast bo'lgan
 
 pestered => bezovta qilishdi, tinchlik bermadilar
 
-splendid => ajoyib, zo‘r, juda yaxshi
+splendidness (n) => ajoyiblik, muhtashamlik
+splendiferousness (n) => nihoyatda ajoyiblik
+splendid (adj) => ajoyib zo'r, juda yaxshi, muhtasham
+splendiferous (adj) => nihoyatda ajoyib, juda zo'r
+splendidly (adv) => ajoyib tarzda, juda yaxshi tarzda, muhtasham tarzda
+splendiferously (adv) => nihoyatda ajoyib tarzda
 
 deception (n) => aldov, firib, yolg'on yo'l bilan chalg'itish
 deceiver (n) => firbgar, aldamchi odam
@@ -4606,7 +5135,14 @@ unifiedly (adv) => yagona tarzda, birlashgan holda
 
 proprietary => xususiy, mulkiy, yopiq
 
-mandatory => majburiy, shart bo‘lgan, albatta bajarilishi kerak bo‘lgan 
+mandate (n) => vakolat, mandat (saylovchilar bergan), rasmiy buyruq, topshiriq
+mandator (n) => topshiriq beruvchi 
+mandatory (n) => vakolatli davlat yoki shaxs
+mandate (v) => vakolat bermoq, majburiy qilib belgilamoq, buyurmoq
+mandatoriy (adj) => majburiy, shart bolmagan, bajarilishi shart
+non-mandatory (adj) => majburiy bo'lmagan
+mandated (adj) => majburiy qilib belgilangan, vakolat berilgan
+mandatorily (adv) => majburiyat tarzda, shart qilib
 
 bilingualism (n) => ikki tillilik, ikki tilni bilish va ishlatish holati
 bilingual (n) => ikki tilda gapira oladigan odam, ikki tilli kishi
@@ -4620,15 +5156,10 @@ real estate (n) => ko'chmas mulk
 estate agent (n) => ko'chmas mulk agenti
 realtor (n) => ko'chmas mulk agenti
 
-obtain => olmoq, qo‘lga kiritmoq, ega bo‘lmoq
-
-invoke => chaqirmoq, ishga tushirmoq
-
-once => bir marta; bir paytlar; ...gach / ...dan so‘ng
-
-specify => aniq ko‘rsatmoq, belgilamoq
-
-invocation => chaqirish / ishga tushirish
+invocation (n) => chaqirish, ishga tushirish, qo'llash
+invoker (n) => chaqiruvchi, ishga tushiruvchi
+invoke (v) => chaqirmoq, ishga tushirmoq, qo'llamoq, asos qilib keltirmoq
+invocable (adj) => chaqirish yoki ishga tushirish mumkin bo'lgan
 
 within (n) => ichki qism
 within (adv) => ichkarida, ichida
@@ -4681,15 +5212,29 @@ trifle (v) => arzimas deb hisoblamoq, yengil qaramoq
 trifling (adj) => arzimas, ahamiyatsiz, mayda-chuyda
 trifingly (adv) => arzimas tarzda, ahamiyatsiz tarzda
 
-okay => kontekstga qarab “xo‘p”, “mayli”, “yaxshi”, “bo‘ldi”
+okayness (n) => yaxshilik yoki qoniqari holat
+okay (v) => ma'qullamoq, tasdiqlamoq, ruxsat bermoq
+okay (adj) => yaxshi, joyida, qoniqarli
+okay (adv) => yaxshi, muammosiz, qoniqarli tarzda
 
 yacht (n) => yaxta, hashamatli qayiq yoki kema
 yacht (v) => yaxtada sayohat qilmoq, yaxtada suzmoq
 yachtsman (n) => yaxtachi, yaxtada suzuvchi erkak
 yachtswooman (n) => yaxtachi, yaxtada suzuvchi ayol
 
-offend => xafa qilmoq, ranjitmoq, haqorat qilmoq
-offended => xafa bo‘lgan, ranjigan
+offense / offence (n) => haqorat, ranjish, qonunbuzarlik, hujum
+offender (n) => huquqbuzar, qoidabuzar, birovni ranjitgan odam
+offensiveness (n) => haqorat yoki ranjituvchi xususiyat
+offendability (n) => ranjishga moyillik, tez ranjish xususiyati
+inoffensiveness (n) => ranjitmaslik xususiyati, zararsizlik
+offend (v) => ranjitmoq, xafa qilmoq, haqorat qilmoq, odob yoki qoidani buzmoq
+offendable (adj) => tez ranjishi mumkin bo'lgan
+offending (adj) => ranjitadigan, haqoratli, qoidani buzuvchi
+offended (adj) => ranjigan, haqoratli, qoidani buzuvchi
+offensive (adj) => haqoratli, ranjitadigan, tajovuzkor
+inoffensive (adj) => hech kimni ranjitmaydigan, zararsiz, odob doirasidagi
+offensively (adv) => haqoratli tarzda, tajovuzkorona
+inoffensively (adv) => hech kimni ranjitmaydigan tarzda
 
 quarreling => janjallashish, tortishish
 
@@ -4708,7 +5253,9 @@ sweetened (adj) => shirinlashtirilgan
 unsweetened (adj) => shirin qilinmagan
 sweety (adv) => shirin tarzda, yoqimli ohangda, mehr bilan
 
-stubborn => o‘jar, qaysar
+stubbornness (n) => o'jarlik, qaysarlik
+stubborn (adj) => o‘jar, qaysar, gapga kirmaydigan
+stubbornly (adv) => o'jarlik bilan, qaysarlik bilan
 
 salvation => najot, qutqarilish
 
@@ -4738,7 +5285,12 @@ insanitary (adj) => nosog'lom, antisanitar
 sanely (adv) => oqilona, aqli rasolik bilan
 insanely (adv) => aql bovar qilmas darajada, telbalarcha
 
-spout => ko‘p yoki bema’ni gaplarni gapirmoq, valdiramoq
+spout (n) => suyuqlik chiqadigan naycha, jo'marakning quyish qismi, chiqish teshigi
+spouter (n) => suyuqlikni otiltirib chiqaradigan narsa yoki qurilma
+spouting (n) => otilib chiqish, otilib chiqayotgan suyuqlik, tinmay gapirish
+spout (v) => otilib chiqmoq, suyuqlikni otilib chiqarmoq
+spuot (v) => tinmay ko'p gapirmoq (be'mani gaplarni)
+spouted (adj) => naychali, otilib chiqqan
 
 flirtation (n) => noz-karashma, qisqa romantik munosabat
 flirt (n) => noz-karashma, romantik qiziqish
@@ -4750,7 +5302,10 @@ flirtatiously (adv) => noz-karashma bilan
 
 slap => shapaloq, tarsaki
 
-jealous => rashkchi / rashk qilayotgan
+jealousy (n) => rashk, hasad
+jealousness (n) => rashkchilik, hasadgo'ylik
+jealous (adj) => rashkchi, hasadgo'y
+jealously (adv) => rashk bilan, hasad bilan
 
 ruin => buzmoq, barbod qilmoq
 
@@ -4804,7 +5359,12 @@ flustered (adj) => sarosimaga tushgan, dovdiragan hayajondan o'zini yo'qotgan
 flustering (adj) => sarosimaga soladigan, dovdiratadigan
 flusteredly (adv) => sarosimaga tushgan holda, dovdirab
 
-startle someone => kimnidir to‘satdan cho‘chitib yubormoq.
+startle (n) => cho'chitish, seskinish
+startlement (n) => cho'chish, seskinish
+startle (v) => cho'chitmoq, seskintirmoq, kutilmaganda qo'rqitib yubormoq
+startled (adj) => cho'chib ketgan, seskanib qolgan
+startling (adj) => hayratlanarli, kutilmaganda ta'sir qiladigan, odamni cho'chitadigan
+startingly (adv) => hayratlanarli darajada, kutilmaganda
 
 fall (n) => yiqilish, tushish, pasayish, qulash, kuz
 downfall (n) => qulash, halokat, barbod bo'lish
@@ -4863,11 +5423,27 @@ idealistic (adj) => idealistik, idealga intiluvchi, yuksak g'oyalarga asoslangan
 idealist (adj) => idealistik, idealga asoslangan
 idealistically (adv) => idealistik tarzda, idealga intilgan holda
 
-narrowly => arang, zo‘rg‘a, sal qolsa.
+narrow (n) => tor joy yoki oraliq
+narrowness (n) => torlik, ensizlik, cheklanganlik
+narrow-mindedness (n) => fikr torligi, tor dunyoqarash
+narrowing (n) => toraytirish, torayish, doirani qisqartirish
+narrow (v) => toraytirmoq, toraymoq, doirasini qisqartirmoq
+narrow (adj) => tor, ensiz, cheklangan
+narrowed (adj) => toraygan, qisqartirilgan
+narrow-minded (adj) => fikri tor, tor dunyoqarashli
+narrow (adv) => tor holda, tor tarzda
+narrowly (adv) => tor doirada, zo'rg'a, juda oz farq bilan
+narrow-mindedly (adv) => tor fikr bilan
 
 anew (adv) => yangidan, qaytadan, boshqatdan
 
-moldy => mog‘orlagan, mog‘or bosgan
+mold (n) => mog'or, qolip, shakl
+moldiness (n) => mog'orlaganlik, mog'or hidi yoki holati
+mold (v) => mog'orlamoq, mog'or bosmoq, qolipga solmoq
+moldy (adj) => mog'orlagan, mog'or bosgan
+moldless (adj) => mog'orsiz
+mold-resistant (adj) => mog'orga chidamli
+moldily (adv) => mog'orlagan tarzda
 
 throat (n) => tomoq, halqum
 throaty (adj) => bo'g'iq ovozli
@@ -4881,7 +5457,13 @@ commute (v) => uy bilan ish yoki o'qish joyi o'rtasida muntazam borib-kelish
 
 croissants (n) => krussanlar
 
-mearby => yaqin, yaqin atrofda
+nearness (n) => yaqinlik
+near (v) => yaqinlashmoq
+near (adj) => yaqin
+nearby (adj) => yaqin atrofdagi
+near (adv) => yaqin, yaqin joyda
+nearly (adv) => dearly, qariyib
+nearby (adv) => yaqin atrofda
 
 bin (n) => axlat qutisi, chiqindi qutisi, saqlash uchun idish yoki quti
 bin (v) => axlat qutisiga tashlamoq, tashlab yubormoq
@@ -4922,18 +5504,19 @@ postponing => kechiktirish, keyinga qoldirish
 
 soul => Ruh / Jon / Qalb
 
-stamina => chidamlilik, bardoshlilik, uzoq vaqt kuchni saqlash qobiliyati
-
-nightmare => kabus, qo‘rqinchli tush
-
-obtaining => olish, qo‘lga kiritish, ega bo‘lish 
+stamina (n) => chidamlilik, uzoq vaqt jismoniy yoki ruhiy kuchni saqlab qolish qobiliyati
+staminous (adj) => chidamli, bardoshli
+staminal (adj) => chidamlilikka oid, bardoshlilikka oid
 
 business (n) => ish, biznes, tijorat, korxona
 busyness (n) => bandlik, ish bilan band bo'lish holati
 busy (adj) => band, gavjum, odam ko'p, ish bilan band, serqatnov
 busily (adv) => band holda, faol tarzda
 
-stuff => kontekstga qarab narsalar, buyumlar, ishlar 
+stuff (n) => narsalar, buyumlar, ishlar, gaplar, ma'lumotlar
+stuffing (n) => ichiga solinadigan massa, tiqish yoki to'ldirish
+stuff (v) => tiqmoq, solmoq, to'ldirmoq
+stuffed (adj) => to'ldirilgan, ichi to'ldirilgan
 
 situations => vaziyatlar, holatlar 
 
@@ -4945,8 +5528,6 @@ discover (v) => kashf etmoq, topmoq, bilib olmoq, aniqlamoq
 discoverable (adj) => aniqlash yoki topish mumkin bo'lgan
 
 recognize => tanimoq, anglamoq, tushunib yetmoq, tan olmoq, e'tirof etmoq
-
-subset => qism to'plam, bir to'plamning ichidagi to'plam
 
 refer => ishora qilmoq, nazarda tutmoq, tegishli bo'lmoq
 
@@ -5006,8 +5587,6 @@ scale (v) => masshtablamoq
 scalable (adj) => masshtablanadigan
 scalibility (n) => masshtablanish qobiliyati
 
-notably (adv) => ayniqsa, xususan, e'tiborga molik tarzda, alohida ta'kidlash joizki
-
 safeguard (v) => himoya qilmoq, muhofaza qilmoq, xavfsizligini ta'minlamoq
 safeguard (n) => himoya chorasi, xavfsizlik chorasi
 
@@ -5044,9 +5623,21 @@ available (adj) => mavjud, bor, foydalanish mumkin bo'lgan, qo'lga kiritish mumk
 unavailable (adj) => mavjud emas, foydalanish mumkin emas, band, qo'lga kiritib bo'lmaydigan
 availably (adv) => mavjud tarzda, foydalanish mumkin bo'lgan tarzda
 
-operational (adj) => ishlayotgan, faol, ish holatidagi
-operate (v) => ishlamoq, boshqarmoq
-operation (n) => operatsiya
+operation (n) => faoliyat, ishlash jarayoni, operatsiya, jarrohlik amaliyoti
+operator (n) => operator, qurilma yoki tizimni boshqaruvchi shaxs
+operative (n) => ish bajaruvchi, mutaxassis
+operationality (n) => ishlashga yaroqlilik yoki amaliy faoliyat holati
+operationalization (n) => g'oya yoki rejani amalda bajariladigan shaklga keltirish
+operability (n) => ishlatish yoki boshqarish mumkinligi, tizimning ishlashga yaroqliligi
+inoperability (n) => ishlatib bo'lmaslik, ishlashga yaroqsizlik
+operate (v) => ishlamoq, boshqarmoq, qurilmani ishlatmoq, operatsiya qilmoq
+operationalize (v) => g'oya yoki rejani amlada bajariladigan shaklga keltirmoq
+operational (adj) => ishlashga tayyor, faoliyat yuritayotgan, amaliyotga oid
+operative (adj) => amalda ishlayotgan, kuchga ega, ta'sir qiluvchi
+operable (adj) => ishlatish mumkin bo'lgan, ishlashga yaroqli
+inoperable (adj) => ishlatib bo'lmaydigan, ishlamaydigan, tibbiyotda operatsiya qilib bo'lmaydigan
+operationally (adv) => amaliy jihatdan, ishlash nuqtai nazaridan
+operatively (adv) => amaliy jihatdan, operatsiya orqali
 
 continuity (n) => uzluksizlik, davomiylik, to'xtamasdan davom etish, izchillik
 discontinuity (n) => uzilish, uzluksizlikning yo'qligi
@@ -5074,10 +5665,13 @@ non-compliant (adj) => talablarga rioya qilmaydigan, talabga nomuvofiq
 breach (v) => buzmoq, rioya qilmaslik, shartnoma yoki majburiyatni buzmoq
 breach (n) => buzilish, qoidabuzarlik, shartnoma yoki majburiyatning buzilishi, xavfsizlik buzilishi
 
-maintenance (n) => texnik xizmat, saqlash, xizmat ko'rsatish
-maintain (v) => saqlab turmoq
-
-hesitate => ikkilanmoq, tortinmoq, jurat qilolmay turmoq
+hesitation (n) => ikkilanish, tortinish
+hesitancy (n) => ikkilanish yoki tortinish xususiyati
+hesitate (v) => ikkilanmoq, tortinmoq, jur'at qilmay turmoq
+hesitant (adj) => ikkilanayotgan, tortinayotgan, jur'atsiz
+unhesitating (adj) => ikkilanmaydigan, qat'iy
+hesitantly (adv) => ikkilanib, tortinib
+unhesitatingly (adv) => ikkilanmasdan, qat'iy ravishda
 
 ambiguity (n) => noaniqlik, ikki ma'nolilik, turlicha talqin qilish imkoniyati
 disambiguation (n) => noaniqlikni bartaraf etish, ma'nosini aniqlashtirish
@@ -5088,8 +5682,6 @@ ambiguously (adv) => noaniq tarzda, ikki ma'noli tarzda, turlicha talqin qilinad
 
 team (n) => jamoa, guruh
 teammate (n) => jamoadosh, bir jamoada ishlaydigan yoki o'ynaydigan odam
-
-mate => sherik, hamroh
 
 colleague (n) => hamkasb (bir tashkilot yoki sohada ishlaydigan odam)
 ccoworker (n) => hamkasb, birga ishlaydigan odam (bir ish joyida ishlaydigan odam)
@@ -5105,7 +5697,13 @@ better (v) => yaxshilamoq, yaxshiroq qilmoq
 better (adj) => yaxshiroq, ma'qulroq
 better (adv) => yaxshiroq, yaxshiroq tarzda
 
-suggest => taklif qilmoq
+suggestion (n) => taklif, maslahat, ishora, alomat
+suggestibility (n) => ta'sirga tez berilish, ishontirishga moyillik
+suggestive (adj) => ishora qiluvchi, o'ylashga undovchi, qo'pol ishorali
+suggest (v) => taklif qilmoq, maslahat bermoq, ishora qilmoq, ko'rsatmoq, anglatmoq
+suggestible (adj) => ta'sirga tez beriladigan
+suggested (adj) => taklif qilingan
+suggestively (adv) => ishora qilib, ma'noli tarzda
 
 weakness (n) => zaiflik, kuchsizlik, kamchilik, zaif tomon, ishtiyoq, ojizlik
 weakling (n) => zaif, kuchsiz odam
@@ -5130,8 +5728,6 @@ acknowledgment (n) => tan olish, e'tirof, tasidq, minnatdorchilik
 acknowledged (adj) => tan olingan, e'tirof etilgan
 acknowledge (v) => tan olmoq, e'tirof etmoq, tasdiqlamoq, bildirmoq
 
-listed => sanab o'tilgan
-
 enclosure (n) => ilova qilingan hujjat yoki narsa
 enclose (v) => ichiga solmoq, qo'shib yubormoq, o'rab yoki qamrab olmoq
 enclosed (adj) => ichiga solingan, ilova qilingan, o'ralgan, yopiq
@@ -5143,14 +5739,18 @@ dishonest (adj) => insofsiz, halol bo'lmagan, yolg'onchi
 honestly (adv) => rostini aytganda, ochig'ini aytganda, halol tarzda
 dishonestly (adv) => insofsizlarcha, halol bo'lmagan tarzda
 
-ham (noun) => rolini bo'rttirib o'ynaydigan aktyor yoki odam 
+ham (n) => dudlangan yoki tuzlangan cho'chqa go'shti, vetchina
+ham (n) => bo'rttirib o'ynaydigan aktyor
+hamburger (n) => gamburger
+ham (v) => bo'rttirib o'ynamoq
+hammy (adj) => bo'rttirib o'ynaydigan
+ham-fisted (adj) => ishni uddalay olmaydigan, tajribasiz
 
-ham (n) => bo'rttirib o'ynash, sun'iy yoki bo'rttirilgan aktyorlik
-ham (v) => bo'rttirib o'ynamoq, bo'rttirib harakat qilmoq, o'zini ataylab ko'rsatib tutmoq
-
-lap (noun) => aylana (poygada krug)
-lap (verb) => yalamoq
-lap (noun) => tizzaning ustki qismi (o'tirganda bel va tizza orasidagi qism)
+lap (n) => tizza ustidagi joy, aylana yoki masofa bosqichi, aylanish, tizza ustidagi joy
+lapping (n) => ustma-ust tushish, suvning qirg'oqqa urilib turishi
+lapper (n) => aylanani o'tuvchi, yalovchi
+lap (v) => aylanani bosib o'tmoq, o'zib ketmoq, yalamoq
+lapped (adj) => ustma-ust tushgan
 
 tissue (n) => qog'oz salfetka, qog'oz ro'molcha (burun, yuz va mayda narsalarni artish uchun)
 towel (n) => sochiq (umumiy nom)
@@ -5196,20 +5796,21 @@ accomplishable (adj) => amalga oshirish mumkin bo'lgan, bajarish mumkin bo'lgan
 accomplished (adj) => mohir, yetuk, yuqori malakali, amalga oshirilgan, bajarilgan
 accomplishedly (adv) => mohirona, yuqori mahorat bilan
 
-stealth (noun) => sezdirmasdan harakat qilish, yashirinlik, maxfiylik
-stealthy (adj) => yashirin, sezilmaydigan
+stealth (n) => yashirinlik, sezdirmasdan harakat qilish
+stealthiness (n) => yashirinlik, sezdirmaslik xususiyati
+stealthy (adj) => yashirin, sezdirmaydigan, pinhona
+stealthily (adv) => yashirincha, sezdirmasdan, pinhona
 
 aircraft (n) => havo kemasi, uchish apparati, havoda uchadigan transport vositasi
 aircraftman (n) => aviatsiya xodimi, havo kemasi bilan ishlovchi shaxs
 aircraft carrier (n) => aviatashuvchi kema
 
-morph => asta-sekin boshqa shaklga yoki holatga o'zgarmoq, aylanmoq, transformatsiyalanmoq, shaklini o'zgartirmoq
+morph (n) => shakli o'zgarishi, bir tasvirdan boshqasiga silliq o'tish
+morph (v) => shaklini o'zgartirmoq, bir shakldan boshqasiga o'tmoq
+morphed (adj) => shakli o'zgargan, boshqa shaklga aylangan
+mophable (adj) => shaklini o'zgartirish mumkin bo'lgan
 
 relegate => biror narsani yoki odamni pastroq mavqega tushirmoq, ikkinchi darajaga surmoq, chetga surib qo'ymoq, kamroq muhim holatga o'tkazmoq.
-
-need (birlik) => ehtiyoj
-
-needs (ko'plik) => ehtiyojlar
 
 gradualism (n) => bosqichma-bosqichlik
 gradualist (n) => bosqichma-bosqich o'zgarishlarni yoqlovchi
@@ -5234,8 +5835,6 @@ encouraged (adj) => ruhlangan, dalda olgan, rag'batlangan
 encouraging (adj) => umidbaxsh, ijobiy, rag'batlantiruvchi
 encouragingly (adv) => umidbaxsh tarzda, rag'batlantiruvchi tarzda
 
-matter => masala, muammo, mavzu
-
 peripheral => chekkadagi, asosiy bo'lmagan, qo'shimcha, tashqi.
 
 preface => kirish so'zi, so'zboshi, muqaddima
@@ -5258,7 +5857,7 @@ ambassador (n) => elchi
 consulate (n) => konsulxona
 consul (n) => konsul
 
-maybe => balki ehtimol
+maybe (adv) => balki, ehtimol, mumkin
 
 answer (n) => javob, yechim
 answer (v) => javob bermoq, javob qaytarmoq
@@ -5268,7 +5867,12 @@ answerer (n) => javob beruvchi, javob qaytaruvchi
 answered (adj) => javob berilgan, hal qilingan
 answerphone (n) => avtomatik javob beruvchi telefon qurilmasi, telefon xabarini yozib oluvchi qurilma
 
-moment => lahza
+moment (n) => lahza, bir zum, ayni payt, muhim daqiqa
+momentousness (n) => katta ahamiyatlilik, muhimlik
+momentary (adj) => qisqa muddatli, bir zumlik
+momentous (adj) => juda muhim, katta ahamiyatga ega
+momentarily (adv) => bir zumga, qisqa vaqt ichida
+momentously (adv) => juda muhim tarzda
 
 diet (n) => ovqatlanish tartibi, odatiy ratsion, dieta, parhez
 dieter (n) => dieta saqlovchi kishi
@@ -5281,9 +5885,29 @@ slowly => asta-sekin, sekinlik bilan
 
 rope => arqon
 
-stamp => pechat
+stamp (n) => marka, muhr, shtamp, bosma iz
+stamper (n) => muhr yoki shtamp bosuvchi odam yoki qurilma
+stampede (n) => katta guruh yoki hayvonning vahima bilan birdaniga yugurib ketishi
+stampeder (n) => vahima bilan yugurib ketayotgan guruh a'zosi
+stamp (v) => muhr bosmoq, shtamp bosmoq, oyoq bilan qattiq bosmoq
+stampede (v) => vahimaga tushib, ommaviy ravishda yugurib ketmoq
+stamped (adj) => muhr bosilgan, shtamp bosilgan
+stampable (adj) => muhr yoki shtamp bosish mumkin bo'lgan
 
-handbag => qo’l sumka
+hand (n) => qo'l (kaft va barmoqlar), soat mili, yordam, ishchi
+handful (n) => bir hovuch, boshqarish qiyin odam
+handiness (n) => qulaylik, foydalilik
+handbook (n) => qo'llanma
+handbag (n) => ayollar sumkasi
+handicap (n) => nogironlik, to'siq
+handcuff (n) => qo'lbog', kishan
+handkerchief (n) => ro'molcha, burun artadigan ro'mol
+hand (v) => uzatmoq, topshirmoq
+handcuff (v) => qo'lga kishan solmoq
+handy (adj) => qulay, foydali, chaqqon, usta
+handmade (adj) => qo'lda yasalgan
+handsome (adj) => chiroyli, saxiy
+handily (adv) => oson, ustalik bilan
 
 reflection => aks, ko’rinish
 
@@ -5303,17 +5927,19 @@ chaos (n) => tartibsizlik, betartiblik, boshboshdoqlik
 chaotic (adj) => tartibsiz, betartib, boshboshdoq
 chaotically (adv) => tartibsiz tarzda, betartib ravishda
 
-luggagge => bagaj
+luggage (n) => yuk, safar yuki, bagaj
+luggageless (adj) => yuksiz, bagajsiz
 
 sadness => qayg'u holati, xafalik, g'amginlik
 
-happiness => baxt, xursandchilik, baxtiyorlik
-
-litter = rubbish => axlat, chiqindi
+litter (n) => axlat, tashlab ketilgan chiqindilar, mayda chiqindilar
+litter (v) => axlat tashlamoq
+litterer (n) => axlat tashlayotgan odam
+littering (n) => axlash tashlash
+littered (adj) => chiqindi tashlab ketilgan, axlat yotgan
+littery (adj) => axlatga to'la, iflos, axlat sochilib yotgan
 
 research => tadqiqot, ilmiy izlanish
-
-knowledge => bilim
 
 arrangement (n) => tartib, kelishuv, kelishib olingan reja, tashkil etish, joylashtirish
 arranger (n) => tashkil qiluvchi, tartibga soluvchi, aranjirovkachi
@@ -5353,8 +5979,6 @@ repetition => takrorlash, qayta-qayta qilish
 
 pronounce => talaffuz qilmoq
 pronouncation => talaffuz
-
-have a chat => suhbatlashmoq (informal)
 
 conversation (n) => suhbat, gaplashuv
 conversationalist (n) => suhbatdosh, suhbatni yaxshi olib boruvchi odam
@@ -5402,7 +6026,8 @@ parcel => posilka, jo'natma
 
 penpals => xat yozishib turadigan do'stlar
 
-landlady => uyini yoki kvartirasini ijaraga beradigan ayol
+landlady (n) => uy yoki kvartira egasi bo'lgan ayol, ijaraga beruvchi ayol
+landlord (n) => uy yoki kvartira egasi bo'lgan erkak, ijaraga beruvchi erkak
 
 toughness (n) => chidamlilik, baquvvatlik, matonat, qattiqqo'llik
 tough (adj) => qattiq, chidamli, baquvvat, kuchli, qiyin, og'ir, qo'rqmas, matonatli
@@ -5457,7 +6082,10 @@ absurdism (n) => absurdizm, hayotning ma'nosizligi haqidagi falsafiy qarash
 absurd (adj) => bemani, mantiqsiz, kulgili darajada ahmoqona, aqlga sig'maydigan
 absurdly (adv) => bema'nilik bilan, mantiqsiz tarzda, haddan tashqari darajada
 
-moustache or mustache => mo'ylov
+moustache or mustache (n) => mo'ylov
+moutached (adj) => mo'ylovli
+moustachioed (adj) => mo'ylov qo'ygan, mo'ylovli
+moustacheless (adj) => mo'ylovi yo'q
 
 award (n) => mukofot, sovrin, taqdirlash
 awardee (n) => mukofot oluvchi, mukofot bilan taqdirlangan shaxs
@@ -5467,7 +6095,10 @@ awarded (adj) => mukofotlangan, taqdirlangan
 
 piggy bank => tanga qutisi
 
-jar => shisha idish
+jar (n) => banka, shisha idish, keskin silkinish yoki zarba
+jar (v) => keskin silkitmoq, keskin ta'sir qilmoq
+jaring (adj) => yoqimsiz darajada keskin, quloqqa yoki ko'zga g'alati ta'sir qiladigan
+jaringly (adv) => keskin, yoqimsiz tarzda
 
 applause (n) => qarsak, olqish, qarsaklar
 applauder (n) => qarsak chaluvchi, olqishlovchi
@@ -5511,8 +6142,6 @@ excitedly (adv) => hayajon bilan, jo'shqin tarzda
 
 rob => talamoq, qurolli bosqinchilik qilib o'g'irlamoq
 
-species => tur, nav
-
 somersault => salto
 
 parallel bars => parallel turnik
@@ -5527,16 +6156,31 @@ swan dive (n) => oqqushdek sakrash
 swan (v) => sayr qilib yurmoq, aylanib yurmoq, sayr qilib ketmoq
 swanlike (adj) => oqqushdek, oqqushga o'xshash
 
-hippo | hippopotamus => begemot
-
-heat => issiqlik
+heat (n) => issiqlik, issiq, jazirama
+heater (n) => isitgich, isitgich qurilma
+heat (v) => isitmoq, qizdirmoq, qizimoq
+heated (adj) => isitilgan, qizdirilgan, qizg'in, keskin
+heatable (adj) => isitish mumkin bo'lgan
+heatless (adj) => issiqliksiz, issiqlikdan mahrum
 
 teen (n) => o'smir, o'smir yoshdagi odam
 teenager (n) => o'smir, 13-19 yoshdagi odam
 teen (adj) => o'smirlarga oid, o'smirlar uchun
 teenage (adj) => o'smirlikdagi 13-19 yoshdagi
 
-note => kubyura, banknota
+note (n) => kubyura, banknota (🇬🇧)
+note (n) => qayd, eslatma, yozuv, izoh, musiqa notasi
+notability (n) => mashxurlik, e'tiborga loyiqlik
+noteworthiness (n) => e'tiborga loyiqlik
+notepad (n) => qayd daftarchasi, yozuvlar uchun bloknot
+notebook (n) => daftar, noutbuk
+notetaker / note-taker (n) => qayd yozib boruvchi odam
+note-taking (n) => qayd yozib borish
+note (v) => qayt etmoq, yozib qo'ymoq, e'tibor bermoq, ta'kidlamoq
+noted (adj) => mashxur, taniqli, qayd etilgan, e'tirof etilgan
+notable (adj) => e'tiborga loyiq, sezilarli, mashhur
+noteworthy (adj) => e'tiborga loyiq, alohida ta'kidlashga arziydigan
+notably (adv) => ayniqsa, xususan, e'tiborga molik tarzda
 
 scandal => janjal, shov-shuvli voqea, uyatli hodisa
 
@@ -5565,20 +6209,25 @@ woodpecker (n) => qizilishton
 wooden (adj) => yog'ochdan yasalagan, tarang, jonsiz
 woody (adj) => yog'ochsimon, daraxtli, o'rmonli
 
-hair => soch, soch tolasi
-
 overcome => yengmoq, yengib o'tmoq
 
+iron (n) => temir
+ironwork (n) => temirchilik buyumlari, temir konstruksiya
+ironworker (n) => temir konstruksiya ishchisi, temirchi
+iron (v) => dazmollamoq
+iron (adj) => temirga oid, temirdan yasalgan
+ironclad (adj) => temir bilan qoplangan, juda qat'iy o'zgarmas
 
-iron => temir
-
-iron => dazmol
+irony (n)  => kinoya, kutilmagan qarama-qarshi holat
+ironic (adj) => kinoyali, istehzoli
+ironically (adv) => kinoyali tarzda, kinoyali tomoni shundaki
 
 paper => qog'oz
 
 paper => gazeta
 
-little => kichkina
+littlleness (n) => kichiklik, ozlik, ahamiyatsizlik
+little (adj) => kichik, kichkina
 
 soap => sovun
 
@@ -5593,7 +6242,13 @@ sheaf => bog'lam (Masalan: bug'doylar bog'lami)
 
 elf (n) => elf, ertak va afsonalardagi kichkina sehrli mavjudot
 
-loaf => non bo'lagi
+loaf (n) => non, bir butun non, baton
+loafer (n) => bekorchi, dangasa odam, mokasin tufli
+loafing (n) => bekorchilik, dangasalik
+loaf (v) => bekor yurmoq, dangasalik qilmoq
+loafed (adj) => bekor yurgan
+loafing (adj) => bekor yuradigan, dangasalik qiladigan
+loafingly (adv) => bekorchilik bilan
 
 dwarf (n) => mitti odam, pakana odam, mitti mavjudot
 dwarf (v) => ancha kichik ko'rsatmoq, kichraytirib qo'ymoq, yonida juda kichik qilib ko'rsatmoq
@@ -5607,8 +6262,6 @@ chief (adj) => asosiy, bosh, eng muhim
 chiefly (adv) => asosan, eng avvalo
 
 chef (n) => oshpaz, professional oshpaz (plural: chefs)
-
-handkerchief => ro'molcha
 
 dice (v) => mayda kubik qilib to'g'ramoq, zar o'ynamoq
 die (n) => o'yin zari
@@ -5632,7 +6285,11 @@ focus (v) => diqqatni jamlamoq, e'tibor qaratmoq
 focusing (adj) => diqqatini jamlayotgan, e'tibor qaratayotgan
 focused (adj) => aniq maqsadga yo'naltirilgan, diqqatni bir narsaga qaratgan, diqqatini jamlagan, e'tiborini qaratgan
 
-nucleus => markaz, asosiy qism, yadro
+nucleus (n) => yadro, markaziy qism, asosiy markaz
+nucleation (n) => yadro hosil bo'lishi
+nucleate (v) => yadro hosil qilmoq, yadroga ega bo'lmoq
+nuclear (adj) => yadroga oid, yadro bilan bog'liq
+nucleate (adj) => yadrosi bor, yadroli
 
 crisis (n) => inqiroz, tang vaziyat, og'ir vaziyat (plural: crises)
 crisis-ridden (adj) => inqirozga duchor bo'lgan, inqirozlar girdobidagi
@@ -5650,7 +6307,7 @@ baseless (adj) => asossiz, dalilsiz
 baselessly (adv) => asossiz ravishda, dalilsiz tarzda
 basically (adv) => asosan, umuman olganda, mohiytan
 
-oasis => voha
+oasis (n) => vohadagi suvli va o'simliklar o'sadigan joy, cho'ldagi voha (plural: oases)
 
 diagnosis (n) => tashxis, muammo sababini aniqlash
 misdiagnosis (n) => noto'g'ri tashxis
@@ -5666,9 +6323,11 @@ phenomenon => hodisa
 
 phenomena => hodisalar
 
-medium => vosita
-
-media => vositalar
+media (n) => ommaviy axborot vositalari, media
+medium (n) => vosita, aloqa vositasi, o'rta daraja
+medium (adj) => o'rtacha, o'rta
+medial (adj) => o'rtadagi, markaziy
+medially (adv) => o'rtada, markaziy tarzda
 
 backterium (n) => bakteriya (plural: backteria)
 backterial (adj) => bakterial, bakteriyaga oid
@@ -5684,17 +6343,17 @@ reindex (v) => qayta indekslamoq
 indexed (adj) => indekslangan
 index-linked (adj) => indeksga bog'langan
 
-herbivore => o'txo'r
+herbivore (n) => o'txo'r hayvon
+herbivorous (adj) => o'txo'r, o'simlik bilan oziqlanadigan
+herbivorously (adv) => o'simlik bilan oziqlanib
 
 carnivore (n) => go'shtxo'r hayvon
 carnivorous (adj) => go'shtxo'r, go'sh bilan oziqlanadigan
 
-omnivore ()=> hamma narsani yeydigan
-
-herbivorous (adj) => o'txo'r
-
-
-omnivorous (adj) => hamma narsani yeydigan
+omnivore (n) => o'simlik va hayvon mahsulotlarini iste'mol qiladigan odam yoki hayvon
+omnivorousness (n) => o'simlik va hayvon mahsulotlari bilan oziqlanish xususiyati
+omnivorous (adj) => ham o'simlik ham hayvon mahsulotlari bilan oziqlanadigan
+omnivorously (adv) => o'zimlik va hayvon mahsulotlarini iste'mol qilgan holda
 
 darts (n) => dart o'yini, nishonga kichik o'qlar uloqtiriladigan o'yin
 dart (n) => dart o'qi, nishonga uloqtiriladigan kichik o'q
@@ -5726,6 +6385,7 @@ obstructive (adj) => to'sqinlik qiluvchi, xalaqit beruvchi, g'ov bo'ladigan
 obstructed (adj) => to'silgan, to'sib qo'yilgan
 unobstructed (adj) => to'silmagan, to'sqinliksiz, ochiq
 obstructively (adv) => to'sqinlik qiluvchi tarzda, xalaqit beradigan tarzda
+unobsturctedly (adv) => to'siqsiz, hech narsa xalaqit bermagan holda
 
 try (n) => urinish, harakat, sinab ko'rish
 try (v) => urinmoq, harakat qilmoq, sinab ko'rmoq
@@ -5742,8 +6402,6 @@ reveal => oshkor qilmoq, ochib bermoq
 trap (n) => tuzoq, qopqon
 trap (v) => tuzoqqa tushirmoq, qamab qo'ymoq, chiqib keta olmaydigan holatga tushirmoq
 trapped (adj) => tuzoqda qolgan, qamalib qolgan, chiqib keta olmaydigan
-
-struggle => kurashmoq, yoqalashmoq
 
 relive => qayta boshdan kechirmoq
 
@@ -5791,9 +6449,31 @@ vulnerably (adv) => himoyasiz holda
 
 sensivity => sezgirlik
 
-openness => ochiqlik, ta'sirga ochiq bo'lish
+open (n) => ochiq musobaqa yoki turnir
+openness (n) => samimiylik, ochiqlik, ochiq bo'lish xususiyati
+opener (n) => ochgich, boshlovchi narsa yoki gap
+openability (n) => ochish mumkinligi
+open-mindedness (n) => fikrlar va qarashlarga ochiqlik
+opening (n) => ochilish, boshlanish, bo'sh ish o'rni, teshik yoki kirish joyi
+reopening (n) => qayta ochilish, qayta ochish
+open (v) => ochmoq, ochilmoq, ish boshlamoq
+reopen (v) => qayta ochmoq, yana ochilmoq
+open (adj) => ochiq, yopilmagan, ochiqchasiga, samimiy
+opening (adj) => ochilishdagi, boshlang'ich
+opened (adj) => ochilgan
+unopened (adj) => ochilmagan
+reopened (adj) => qayta ochilgan
+openable (adj) => ochish mumkin bo'lgan
+unopenable (adj) => ochib bo'lmaydigan
+open-minded (adj) => fikri ochiq, yangi g'oya va qarashlarni qabul qila oladigan
+opennes-related (adj) => ochiqlik bilan bog'liq
+openly (adv) => ochiqchasiga, yashirmasdan, oshkora
+open-mindedly (adv) => fikri ochiq holda
 
-liability => moyillik (salbiy ma'noda)
+liability (n) => majburiyat, qarzdorlik, javobgarlik, noqulaylik tug'diradigan narsa yoki shaxs
+liableness (n) => javobgarlik holati
+liable (adj) => javobgar, ma'sul, biror narsaga duchor bo'lishi mumkin bo'lgan
+liably (adv) => javobgarlik nuqtayi nazaridan yoki ishonchli tarzda
 
 predisposition => oldindan moyillik
 
@@ -5830,15 +6510,29 @@ bothered (adj) => bezovta bo'lgan, tashvishga tushgan, ovora bo'lgan
 bothersome (adj) => bezovta qiladigan, xalaqit beradigan, ovora qiladigan
 bothersomely (adv) => bezovta qiladigan tarzda
 
-naunce (n) => nozik jihat, juda kichik farq
+nuance (n) => nozik farq, ma'nodagi nozik jihat, nozik tafovut
+nuancing (n) => ma'noni nozik jihatlar bilan ifodalash
+nuancer (n) => nozik farqlarni ajratuvchi yoki ifodalovchi
+nuance (v) => nozik farq va jihatlarni ko'rsatib ifodalamoq
+nuanced (adj) => nozik jihatlari hisobga olingan, nozik farqlarga boy
+nuanceful (adj) => nozik jihatlarga boy
+nuanceless (adj) => nozik farqlarsiz, soddalashtirilgan 
 
-staff => xodimlar guruhi, ishchilar
 
-healthily (adv) => sog'lom tarzda, sog'lom holda
+staff (n) => xodimlar, ishchilar, biror tashkilotda ishlaydigan odamlar
+staff (n) => tayoq, hassaga o'xshash uzun tayoq
+staffing (n) => xodimlar bilan ta'minlash, xodimlar tarkibini shakllantirish
+staffer (n) => xodim, tashkilotda ishlovchi odam
+staff (v) => xodimlar bilan ta'minlamoq, xodimlarni ishga joylashtirmoq
+staffed (adj) => xodimlar bian ta'minlangan
 
-healthy (adj) => sog'lom
-
-health (n) => sog'lik
+health (n) => sog'liq, salomatlik
+healthiness (n) => sog'lomlik, salomatlik
+unhealthiness (n) => nosog'lomlik
+healthy (adj) => sog'lom, salmoat
+unhealth (adj) => nosog'lom, sog'liq uchun zararli
+healthily (adv) => sog'lom tarzda, salomat holda
+unhealthily (adv) => nosog'lom tarzda
 
 improvement (n) => yaxshilanish, yaxshilash, yangilik, qo'shilgan yaxshilik
 improver (n) => yaxshilovchi, malaka oshiruvchi, boshlovchi o'qituvchi
@@ -5850,8 +6544,6 @@ unimproved (adj) => yaxshilanmagan, o'zgarmagan
 improvingly (adv) => yaxshilanib borgan holda
 
 also (adv) => ham, yana, shuningdek, bundan tashqari
-
-nearly => deyarli, qariyb
 
 fate (n) => taqdir, qismat, oqibat, kelajak
 fate (v) => taqdir qilmoq, oldindan belgilab qo'ymoq
@@ -5867,9 +6559,16 @@ fold (v) => buklamoq, taxlamoq
 foldable (adj) => buklanadigan, yig'iladigan
 folded (adj) => buklangan, taxlangan
 
-kindness => mehribonchilik
+kind (n) => tur, xil, nav
+kindness (n) => mehribonlik, yaxshilik, yaxsi muomala
+unkindness (n) => mehrsizlik, qo'pollik, yomon muomala
+kind (adj) => mehribon, yaxshi muomalali, yaxshilik qiladigan
+unkind (adj) => mehrsiz, qo'pol, yaxshi muomala qilmaydigan
+kindly (adv) => mehribonlik bilan, iltifot bilan
+unkindly (adv) => mehrsizlarcha, qo'pol tarzda
 
-looker-on => qarab turuvchi odam
+looker-on / onlooker (n) => kuzatuvchi, tomoshabin, chetdan qarab turuvchi
+lookers-on / onlookers (n) => kuzatuvchilar, tomoshabinlar
 
 class (n) => dars, sinf, mashg'ulot, guruh
 classroom (n) => sinfxona
@@ -5889,9 +6588,15 @@ flight (n) => parvoz, uchish
 fly (v) => uchmoq
 flightless (adj) => ucha olmaydigan
 
-lady => xonim
+lady (n) => ayol, xonim, odobli yoki madaniyatli ayol
+ladylikeness (n) => xonimlarga xoslik, nazokat
+ladylike (adj) => xonimlarga xos, nazokatli, odobli
 
-leaf => barg
+leaf (n) => barg, varaq, sahifa
+leaflet (n) => varaqa, kichik buklet
+leafiness (n) => barglilik, barglarning ko'pligi
+leafy (adj) => bargli, barglarga boy, ko'kalamzor
+leafless (adj) => bargsiz
 
 thief (n) => o'g'ri
 thievery (n) => o'g'rilik
@@ -5909,19 +6614,15 @@ ox => buqa
 
 oxen => buqalar
 
-louse => bit (sochda yashaydigan)
+louse (n) => bit (odam yoki hayvondagi parazit hasharot) (plural: lice)
+lousy (adj) => juda yomon, sifatsiz, rasvo
+lousily (adv) => juda yomon tarzda
+lousiness (n) => yomonlik, sifatsizlik
 
 species => tur, nav
 
-offspring => ... ni bolasi
-
-sunny => charag'on
-
-no longer => ortiq
-
-means => vosita, qurilmaga (asosan transport vositalari bilan keladi)
-
-mean => o'rtacha
+offspring (n) => avlod, farzand, nasl, hayvon bolasi
+offspring (adj) => avlodga oid
 
 ethics (n) => axloqiy qoidalar, etika, axloq falsafasi
 ethic (n) => axloqiy tamoyil, qadriyat
@@ -5946,11 +6647,23 @@ adultness (n) => kattalikka xoslik, voyaga yetganlik xususiyati
 adult (adj) => voyaga yetgan, katta yoshli, kattalarga oid
 adultlike (adj) => kattalarga o'xshash, kattalarcha
 
-keen (adj) => o'tkir
+keenness (n) => qiziqish, ishtiyoq, ziyraklik, serzgirlik, o'tkirlik
+keen (adj) => qiziqqan, ishtiyoqmand, ziyrak, sezgir, o'tkir
+keen-eyed (adj) => o'tkir ko'zli, ziyrak, kuzatuvchan
+keenly (adv) => katta qiziqish bilan, o'tkir yoki sezgir tarzda
 
 relationship => munosabat, aloqa
 
-summary => xulosa, qisqacha mazmun
+summary (n) => xulosa, qisqacha mazmun
+summarizer (n) => xulosa qiluvchi shaxs yoki dastur
+summarization (n) => qisqartirish, xulosalash
+sum (n) => summa, yig'indi
+summation (n) => qo'shish, yig'indi, xulosa
+sum (v) => qo'shmoq, jamlamoq
+summarize / summarise (v) => qisqacha bayon qilmoq, xulosa qilmoq
+summary (adj) => qisqa, tezkor, sudsiz
+summative (adj) => yakunlovchi
+summarily (adv) => darhol, so'zsiz, sud-tergovsiz
 
 gap (n) => bo'shliq, oraliq, tirqish, uzilish, tanaffus, farq, tafovut
 gap (v) => tirqich hosil qilmoq, oraliq qoldirmoq
@@ -5964,7 +6677,10 @@ equip (v) => jihozlamoq, kerakli vositalar bilan ta'minlamoq
 
 oversleep => uxlab qolmoq
 
-spectator => tomoshabin
+spectator (n) => tomoshabin, musobaqa yoki tadbirni kuzatayotgan odam
+spectating (n) => tomoshabin sifatida kuzatish
+spectatorship (n) => tomoshabinlik holati, tomoshabin sifatidagi ishtirok
+spectate (v) => tomoshabin sifatida kuzatmoq, musobaqani tomosha qilmoq
 
 despiser (n) => nafratlanuvchi kishi
 despise (v) => nafratlanmoq, juda yomon ko'rmoq, jirkanmoq
@@ -5986,9 +6702,10 @@ infamous (adj) => yomon nom chiqargan, nomi badnom
 world-famous (adj) => butun dunyoga mashxur
 famously (adv) => mashxur tarzda, ajoyib
 
-standing still => qimirlamasdan turmoq
-
-innocent => aybsiz
+innocence (n) => begunohlik, aybsizlik, soddalik
+innocentness (n) => begunohlik
+innocent (adj) => aybsiz, begunoh, sodda, beozor
+innocently (adv) => begunoh tarzda, beozor yoki sodda tarzda
 
 court (n) => sud, sud zali, maydon, saroy, havli
 courtroom (n) => sud zali
@@ -6001,13 +6718,16 @@ courteous (adj) => xushmuomala, odobli
 courtly (adj) => saroyga xos, nafis, odobli
 courteously (adv) => xushmuomalalik bilan, odob bilan
 
-law => qonun
+law (n) => qonun, huquq, qoida
+lawlessness (n) => qonunsizlik
+lawyer (n) => advokat, yurist
+lawmaker (n) => qonun chiqaruvchi, deputat yoki parlament azosi
+lawfulness (n) => qonuniylik
+lawful (adj) => qonuniy ravishda, qonunga muvofiq
+lawless (adj) => qonunsiz, qonunlarga bo'ysunmaydigan
+lawlessly (adv) => qonunsiz tarzda
 
 pile => uyum
-
-hand => qo'l bilan bermoq, uzatmoq
-
-hold => ushlab turmoq
 
 curve (n) => egri chiziq, egri shakl, burilish, qayrilish
 curviness (n) => egrilik, egri-bugrilik, qomatdorlik
@@ -6021,7 +6741,8 @@ soccer (American English) => fudbol
 football (n) => futbol (British)
 soccer (n) => futbol (American)
 
-hall => yo'lak, katta zal
+hall (n) => zal, dahliz, yo'lak, imorat
+hallway (n) => yo'lak, koridor
 
 passage => tor yo'lak, o'tish, matndan parcha
 
@@ -6082,8 +6803,10 @@ formerly (adv) => ilgari, ilgari paytda, avval
 formally (adv) => rasmiy ravishda
 informally (adv) => norasmiy tarzda
 
-keep => davom etmoq, ushlab turmoq, saqlamoq
-
+keeper (n) => saqlovchi, qarovchi, qo'riqlovchi, egasi
+keeping (n) => saqlash, asrash
+keep (v) => saqlamoq, ushlab turmoq, olib qolmoq, davom ettirmoq, rioya qilmoq
+kept (adj) => saqlangan, asrab qolingan
 
 drum (n) => baraban, nog'ora, bochka
 drummer (n) => barabanchi, nog'orachi
@@ -6104,11 +6827,13 @@ forward-looking (adj) => kelajakka yo'naltirilgan
 forward-thinking (adj) => ilg'or fikrlaydigan, zamonaviy fikrli
 forward (adv) => oldinga, ilgari, olg'a
 
-melt => erimoq, eritmoq
-
-spicy => ziravorli, achchiq
-
-spice => ziravor
+spice (n) => ziravor, taomga ta'm yoki hid beruvchi mahsulot
+spiciness (n) => ziravorlilik, achchiqlik, ta'ming o'tkirligi
+spicer (n) => ziravor sotuvchi
+spice (v) => ziravor solmoq, ziravor bilan ta'minlamoq
+spicy (adj) => ziravorli, achchiq, ta'mi kuchli
+spiced (adj) => ziravor qo'shilgan, ziravorlangan
+spice-free (adj) => ziravorsiz, ziravor qo'shilmagan
 
 hotness (n) => issiqlik, achchiqlik, issiqlik darajasi
 hotshot (n) => o'zini katta oladigan yoki o'zini juda zo'r deb biladigan odam, juda mohir yoki mashxur odam, katta mutaxassis, mashxur yoki muvaffaqiyatli shaxs, katta odam
@@ -6162,7 +6887,17 @@ tanker (n) => sisterna, tanker, suyuqlik tashuvchi katta transport
 
 price tag => narx yozilgan label
 
-offer => taklif
+offer (n) => taklif, taklif etgan shaxs  yoki narsa
+offering (n) => taklif, taqdim etilayotgan narsa, ehson
+reoffer (n) => qayta taklif
+reoffering (n) => qayta taklif qilish
+offerer (n) => taklif qiluvchi shaxs
+offeree (n) => taklif yo'llangan shaxs
+offer (v) => taklif qilmoq, taqdim etmoq, bermoq
+reoffer (v) => qayta taklif qilmoq
+offering (adj) => taqdim etayotgan, taklif qilayotgan
+offered (adj) => taklif qilingan, taqdim etilgan
+offerable (adj) => taklif qilish mumkin bo'lgan
 
 belongings (n) => shaxsiy buyumlar, o'ziga tegishli narsalar
 belong (v) => tegishli bo'lmoq, tegishli bo'lib turmoq
@@ -6194,13 +6929,18 @@ delightedly (adv) => katta xursandchilik bilan, xursand bo'lib
 
 pleasure (n) => rohat, zavq
 
-joy (n) => quvonch
+joy (n) => quvonch, xursandchilik, zavq
+joyful (adj) => quvonchli, xursand, shod
+joyous (adj) => quvonchli, shodlikka to'la
+joyfully (adv) => quvonch bilan, xursand bo'lib
+joyously (adv) => shodlik bilan, katta quvonch bilan
 
-happiness (n) => baxt
-happy (adj) => baxtli
-happier (adj, comparative) => yanada baxtli
-happiest (adj, superlative) => eng baxtli
-happily (adv) => xursand holda
+happiness (n) => baxt, xursandchilik, baxtiyorlik
+unhappiness (n) => baxtsizlik, xafalik, norozilik
+happy (adj) => baxtli, xursand, mamnun
+unhappy (adj) => baxtsiz, xafa, norozi
+happily (adv) => baxtli tarzda, xursand holda, mamnuniyat bilan
+unhappily (adv) => baxtsiz yoki xafa holda, norozi tarzda
 
 human (n) => inson, odam
 humanity (n) => insoniyat, insoniylik, odamiylik
@@ -6235,7 +6975,26 @@ freely (adv) => erkin ravishda
 
 properly => to'g'ri
 
-nationality => millat, fuqarolik
+nation (n) => millat, xalq, davlat
+national (n) => mamlakat fuqarosi, milliy terma jamoa a'zosi
+nationality (n) => fuqarolik, millatga mansublik, millat
+nationalization (n) => davlat tasarrufiga o'tkazish, milliylashtirish
+nationalist (n) => millatchi, milliy manfaat tarafdori
+international (n) => xalqaro miqyosdagi shaxs yoki tashkilot
+internationalism (n) => baynalmilallik, xalqaro hamkorlik g'oyasi
+internationalist (n) => xalqaro hamkorlik tarafdori
+denationalization (n) => davlat tasarrufidan chiqarish, xususiylashtirish
+multinational (n) => bir nechta mamlakatda faoliyat yurituvchi kompaniya
+nationalize (v) => davlat tasarrufiga o'tkazmoq, milliylashtirmoq
+denationalize (v) => davlat tasarrufidan chiqarib xususiylashtirmoq
+national (adj) => milliy, davlatga oid, mamlakatga oid
+nationalized (adj) => davlat tasarrufiga o'tkazilgan
+nationalistic (adj) => millatchilikka oid, millatchilik ruhidagi
+international (adj) => xalqaro
+multinational (adj) => ko'p millatli, bir nechta mamlakatda faoliyat yuritadigan
+nationally (adv) => milliy darajada, mamlakat miqyosida
+nationalistically (adv) => millatchilik ruhida
+internationally (adv) => xalqaro miqyosda
 
 fort (n) => qal'a, harbiy istehkom
 fortress (n) => qal'a, mustahkam istehkom
@@ -6262,7 +7021,7 @@ rewrap (v) => qayta o'ramoq
 wrapped (adj) => o'ralgan, qadoqlangan
 unwrapped (adj) => o'ralmagan, qadoqlanmagan
 
-knight => ritsar
+knight (n) => ritsar, qirol tomonidan ritrsarlik unvoni berilgan kishi
 
 phrase => ibora, gap birikmas
 
@@ -6296,13 +7055,10 @@ times (n) => marta, davrlar, zamonlar
 timing (n) => vaqtni belgilash, vaqtni o'lchash, vaqtni to'g'ri tanlash
 time (v) => vaqtini belgilamoq, vaqtini o'lchamoq
 
-jogging => sekin yugurish, yengil yugurish
-
-maths => Matematika (British)
-
-math => Matematika (American)
-
-now => hozir (umumiy)
+jog (n) => yengil yugurish
+jogger (n) => yengil yuguruvchi, yugurish bilan shug'ullanuvchi
+jog (v) => yengil yugurmoq
+jogging (adj) => yugurishga oid, yugurish uchun
 
 hunger (n) => ochlik, kuchli ovqat istagi
 hungry (adj) => och, qorni och
@@ -6363,14 +7119,15 @@ complaint (n) => shikoyat, arz, norozilik
 complainer (n) => ko'p shikoyat qiladigan odam, noluvchi
 complain (v) => shikoyat qilmoq, nolinmoq
 
-nowadays => shu kunlarda, hozirgi vaqtda
+now (n) => hozirgi vaqt, ayni payt
+now (adj) => hozirgi, mavjud
+now (adv) => hozir, ayni paytda, endi
+nowadays (adv) => hozirgi kunda, bugungi kunda
 
 currency (n) => valyuta, pul birligi
 current (n) => oqim, tok, yo'nalish yoki tendensiya
 current (adj) => hozirgi, joriy, amaldagi
 currently (adv) => hozirda, ayni paytda, hozirgi vaqtda
-
-meaning => ma'no
 
 seem => tuyulmoq, ko'rinmoq
 
@@ -6403,17 +7160,16 @@ barefootness (n) => yalangoyoq bo'lish holati
 barefoot (adj) => yalangoyoq, oyoq kiyimsiz
 barefoot (adv) => yalangoyoq holda, oyoq kiyimsiz
 
-mess => tartibsizlik / pala-partishlik, yomon holat / muammo, Iflos qilmoq / Buzmoq, bezovta qilmoq / aralashmoq
-messy => tartibsiz 
-
-miss => o'tkazib yubormoq, sog'inmoq, xonim
-
 darling (n) => azizim, sevgilim, jonim, qadrdonim, sevgilim
 darling (adj) => sevimli, aziz, qadrli
 
-lead => boshlamoq, yetaklamoq
-
-lead (noun) => yetakchi
+lead (n) => yetakchilik, ustunlik, yo'l-yo'riq 
+leader (n) => yetakchi, rahbar, lider
+leadership (n) => yetakchilik, rahbarlik, boshqaruv
+lead (n) => qo'rg'oshin
+lead (v) => yetaklamoq, boshqarmoq, olib bormoq, sabab bo'lmoq
+leading (adj) => yetakchi, asosiy, eng muhim
+leaden (adj) => qo'rg'oshindan yasalgan, og'ir xira
 
 frown (n) => qosh chimirish, qovoq solish
 frown (v) => qosh chimirmoq, qovog'ini solmoq, norozilik bildirmoq
@@ -6446,9 +7202,25 @@ gym (n) => sport zali, zport zalida mashq qilish, jismoniy tarbiya darsi
 gym-fit (adj) => sport zalida shakllangan, baquvvat
 gymnastically (adv) => epchillik bilan
 
-novel => roman, doston, masal, asar hammasi ingliz tilida hammasi
+novel (n) => roman, katta hajmdagi badiiy asar
+novelness (n) => yangilik, o'ziga xoslik
+novelist (n) => romannnavis, roman yozuvchi
+novelization (n) => asarni roman shaklga moslashtirish
+novelize (v) => asarni roman shakliga molashtirmoq
+novel (adj) => yangi, o'ziga xos, ilgari bo'lmagan
+novelly (adv) => yangicha tarzda, o'ziga xos tarzda
+novelistic (adj) => romanga oid, roman uslubidagi
 
-store => saqlamoq, do'kon
+store (n) => do'kon, ombor, zaxira
+stroage (n) => saqlash, saqlash joyi, xotira
+storekeeper (n) => omborchi, do'kon egasi yoki boshqaruvchisi
+storehouse (n) => ombor, katta saqlash binosi
+storefront (n) => do'konning ko'chaga qaragan qismi, savdo nuqtasi
+storey (n) => qavat
+storeroom (n) => omborxona, saqlash xonasi
+store (v) => saqlamoq, omborga joylamoq
+stored (adj) => saqlangan
+storable (adj) => saqlash mumkin bo'lgan
 
 resign => istefoga chiqmoq
 
@@ -6471,7 +7243,12 @@ fence (v) => panjara bilan o'ramoq, to'smoq
 fenced (adj) => panjara bilan o'ralgan
 fencing (adj) => panjara bilan o'ralgan
 
-mural => freska, devoriy rasm (devorga chiziladi)
+mural (n) => devorga chizilgan katta rasm, devoriy surat
+muralist (n) => devoriy rasmlar chizadigan rassom
+muralization (n) => devoriy rasm bilan bezatish
+muralize (v) => devoriy rasm bilan bezatmoq
+mural (adj) => devorga oid, devoriy
+murally (adv) => devoriy tarzda
 
 budget (n) => byudjet, moliyaviy reja, ajratilgan mablag'
 budgeter (n) => byudjet tuzuvchi, xarajatlarni rejalashtiruvchi
@@ -6490,9 +7267,13 @@ reviewable => ko'rib chiqish mumkin bo'lgan
 reviewed (adjective) => ko'rib chiqilgan
 reviewably => ko'rib chiqiladigan tarzda
 
-instead => o'rniga
+instead (adv) => o'rniga, buning o'rniga
 
-injure => yaralanmoq
+injury (n) => jarohat, shikast
+injure (v) => yaralanmoq, shikastlanmoq
+injured (adj) => jarohatlangan, shikastlangan
+injurious (adj) => zararli, shikast yetkazuvchi
+injuriously (adv) => zararli tarzda, shikast yetkazadigan tarzda
 
 realize => tushunib olmoq
 
@@ -6500,7 +7281,9 @@ repaint => qayta bo'yash
 
 robber => qaroqchi
 
-light bulb => lampochka
+bulb (n) => lampochka, piyozbosh, shishgan dumaloq qism
+bulbed (adj) => lampochkali, piyozboshga o'xshash
+bulbous (adj) => piyozboshga o'xshash, dumaloq va bo'rtib chiqqan
 
 overtake => quvib o'tmoq
 
@@ -6508,7 +7291,6 @@ hold (n) => ushlash, tutish, ta'sir, nazorat
 holder (n) => egasi, egalik qiluvchi, ushlagich, tutqich
 holding (n) => egalik qilinadigan mulk, aksiya, ushlab turish
 household (n) => oila xo'jaligi, birga yashovchi oila a'zolari
-stronghold (n) => qal'a, tayanch, mustahkam joy
 holdup (n) => to'xtalish, kechikish, qurolli talonchilik
 hold (v) => ushlab turmoq, tutmoq, saylov yoki yig'ilish o'tkazmoq, egalik qilmoq, sig'dirmoq, ushlab qolmoq
 behold (v) => ko'rmoq, tomosha qilmoq
@@ -6519,8 +7301,6 @@ handheld (adj) => qo'lda ushlab ishlatiladigan
 household (adj) => uy-ro'zg'orga oid, hammaga tanish
 withholding (adj) => ushlab qoluvchi, ushlab qolinadigan
 
-novelists => yozmachilar, romanchilar
-
 fun (n) => quvnoqlik, o'yin-kulgi, xursandchilik
 funniness (n) => kulgililik, hazilomuzlik
 funnyman (n) => komik, hazilkash aktyor
@@ -6528,7 +7308,12 @@ funny (adj) => kululi, qiziqarli, g'alati, shubhali
 fun (adj) => qiziqarli, maroqli
 funnily (adv) => kulguli tarzda, g'alati tarzda
 
-jokes => hazillar
+joke (n) => hazil, latifa, kulgili gap
+joker (n) => hazilkash odam, hazil qiluvchi
+joking (n) => hazillashish
+joke (v) => hazillashmoq
+jokey (adj) => hazilomuz, hazilga boy
+jokingly (adv) => hazil tariqasida
 
 comprehension (n) => tushunish, anglash, tushunish qobiliyati
 comprehensibility (n) => tushunarlilik, tushunish mumkinligi
@@ -6561,11 +7346,14 @@ unfortunate (adj) => afsusli, noxush, omadsiz
 forunately (adv) => yaxshiyamki, baxtga ko'ra, omadga ko'ra
 unfortunately (adv) => baxtga qarshi, afsuski, taassufki
 
-neighborhood => mahalla
+neighbor (n) => qo'shni, yon-atrofda yashaydigan odam
+neighborhood (n) => mahalla, yashash hududi, atrof-muhit
+neighborliness (n) => yaxshi qo'shnichilik, qo'shnilarga yaxshi munosabat
+neighbor (v) => qo'shni bo'lib yashamoq, yonma-yon joylashmoq
+neighborly (adj) => qo'shnilarcha, qo'shniga xos, yaxshi qo'shnichilikka asoslangan
+neighborless (adj) => qo'shnisi yo'q
 
 qualified => tajribali, malakali
-
-stand for => mean
 
 attitude (n) => munosabat, qarash, nuqtai nazar, yondashuv
 attitudinal (adj) => munosabatga oid, munosabat bilan bog'liq
@@ -6573,13 +7361,27 @@ attitudinally (adv) => munosabat nuqtayi nazaridan, munosabat jihatidan
 
 space => fazo, bo'sh joy
 
-meal => ovqat, ovqat payti
+meal (n) => ovqat, taom, ovqatlanish vaqti (nonushta, tushlik, kechqi ovqat
+mealtime (n) => ovqatlanish vaqti
+meal (n) => un, yorma
+mealy (adj) => un kabi, uvoq, rangsiz, oqarib ketgan
+mealy-mouthed (adj) => ochiq gapirmaydigan, aylanib o'tadigan
 
 dinner (n) => kechki ovaqt, asosiy ovqat, rasmiy ziyofat
 diner (n) => ovqatlanuvchi kishi, yo'l bo'yidagi kichik arzon rostoran
 dine (v) => ovaqtlanmoq (odatda kechki yoki rasmiy ovaqt)
 
-judge => baho bermoq, sudya
+judge (n) => sudya, hakam, baholovchi
+judgment (n) => kukm, qaror, mulohaza, baholash qobiliyati
+misjudgment (n) => noto'g'ri baholash, xato qaror
+judge (v) => hukm qilmoq, baholamoq, fikr bildirmoq
+misjudge (v) => noto'g'ri baholamoq, xato hukm qilmoq
+judgmental (adj) => boshqalarni tez hukm qiladigan, tanqidiy
+judmentally (adv) => hukm qiluvchi, tanqidiy tarzda
+
+judiciousness (n) => oqilonalik, mulohazalilik
+judicious (adj) => oqilona, mulohazali, puxta o'ylangan
+judiciously (adv) => oqilona tarzda, mulohaza bilan
 
 apartness (n) => alohidalik, ajralganlik
 apart (adj) => alohida, ajralgan
@@ -6596,9 +7398,20 @@ artistic (adj) => sanatga oid, badiiy, san'atkorona
 artless (adj) => san'atsiz, badiiylikdan mahrum, samimiy, sodda
 artlessly (adv) => sodda tarzda, badiiy bezaksiz, tabiiy ravishda
 
-magazine, journal => jurnal
+magazine (n) => jurnal (ommaviy o'quvchilar uchun maqolalar, yangiliklar, moda, sport va etc)
+journal (n) => jurnal, ilmiy jurnal (ko'pincha ilmiy, akademik yoki professional maqolalar chop etiladigan nashr)
 
-spend => o'tkazmoq, (vaqtga nisbatan sarflamoq)
+spend (n) => sarflangan pul yoki miqdor
+spending (n) => pul sarflash, xarajat qilish
+overspending (n) => ortiqcha pul sarflash
+underspending (n) => ajratilganidan kamroq pul sarflash
+spendthrift (n) => pulni juda ko'p sarflaydigan isrofgar odam
+spender (n) => ko'p pul sarflaydigan odam, pul sarflovchi
+spend (v) => sarflamoq, pul ishlatmoq, vaqt o'tkazmoq
+overspend (v) => ortiqcha pul sarflamoq
+underspend (v) => ajratilgandan kamroq pul sarflamoq
+spendable (adj) => sarflash mumkin bo'lgan
+spendhrift (adj) => isrofgar, pulni o'ylamasdan sarflaydigan
 
 overseas => ....
 
@@ -6617,14 +7430,15 @@ awakened (adj) => uyg'ongan, uyg'otilgan, anglagan
 
 overthink => ortiqcha o'ylamoq
 
-legal => qonuniy, huquqiy
-
 proper => to'g'ri
 
 downtown (n) => shahar markazi
 downtown (adj) => shahar markazidagi+ 
 
-lend => qarz bermoq
+lending (n) => qarz berish, kredit berish
+lender (n) => qarz beruvchi, qarz beradigan shaxs yoki tashkilot
+lend (v) => qarzga bermoq, vaqtincha bermoq
+lendable (adj) => qarzga berish mumkin bo'lgan
 
 miss => turmushga chiqmagan ayollarga.
 mrs => turmushga chiqqan ayollarga.
@@ -6667,7 +7481,20 @@ eldest (adj) => eng katta, to'ng'ich
 
 ran => duch kelmoq
 
-missing => yo'qolgan
+miss (n) => o'tkazib yuborilgan imkoniyat, xato yoki tegmagan zarba
+miss (v) => o'tkazib yubormoq, ulgurmay qolmoq, sog'inmoq, nishonga tekkiza olmaslik
+missnig (adj) => yo'qolgan, bedarak, yetishmayotgan
+missed (adj) => o'tkazib yuborilgan, qoldirib ketilgan
+missable (adj) => o'tkazib yuborish mumkin bo'lgan
+unmissable (adj) => albatta ko'rish yoki borish kerak bo'lgan, o'tkazib yuborib bo'lmaydigan
+missingly (adv) => yetishmaydigan tarzda, yo'qligi seziladigan tarzda
+
+leave (n) => ta'til, ruxsat, ishdan vaqtincha ozodlik
+leaver (n) => ketuvchi, tark etuvchi
+left (n) => chap tomon, qolgan qism
+leave (v) => ketmoq, tark etmoq, qoldirmoq, tashlab ketmoq, ruxsat bermoq
+left (adj) => chap, chap tomondagi, qolgan
+left (adv) => chapga, chap tomonga
 
 enjoyment (n) => rohat, zavq, lazzat, zavqlanish
 enjoy (v) => rohatlanmoq, zavqlanmoq, yoqimli deb bilmoq
