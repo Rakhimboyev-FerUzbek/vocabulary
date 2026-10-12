@@ -703,3 +703,4 @@ have a chat => suhbatlashmoq (informal)
 let someone down => kimnidir hafsalasini pir qilmoq, umidini oqlamaslik.
 like this => shunday tarzda, bunday qilib
 no longer => endi ... emas, boshqa ... emas, avvalgidek ... emas (formal. odatda fe'ldan oldin keladi)
+ran into => duch kelmoq
